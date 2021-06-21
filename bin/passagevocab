@@ -1,0 +1,231 @@
+#!/usr/bin/perl
+
+### This script takes a query similar to ptext, finds all vocabulary 
+### in the chunk, and matches it against a user-specified vocabulary list.
+
+use Perseus;
+
+use Ptext::Lookup;
+use Ptext::Info;
+use Ptext::Stats;
+
+use VocabList;
+
+use Mdb;
+
+use CGI;
+
+require "cgi_handlers.pl";
+require "display.pl";
+
+$cgi = new CGI;
+
+$doc = $cgi->param("doc");
+$start_query = $cgi->param("query");
+@vocab_lists = $cgi->param("vocab");
+
+my $metadata = get_doc_info($doc);
+
+my $lang = 'en';
+$lang = $$metadata{''}{'dc:Language'}->[0];
+$lang = 'en' if $lang eq '';
+
+my @cits = ();
+my %cit_hier = ();
+
+my %chunk_types = ();
+my $chunk_context = 0;
+
+configure_cits($metadata, \@cits, \%cit_hier, \%chunk_types, \$chunk_context);
+
+my $doc_file = doc_file($doc);
+
+my $filePref = "$ENV{'WEBDIR'}/cgi-bin/XML";
+my $fname = "$filePref/$doc_file.xml";
+
+my $lu = open_lut($fname, \%cits);
+
+my @lu_fields = ();
+
+my ($is_match, $hit, $hit_state) =
+    query_lookup($lu, parse_query($start_query, \@cits), \%cit_hier);
+
+my ($start, $end, $prev, $next)
+    = sel_chunk($lu, $hit, $hit_state,
+                \%chunk_types, $chunk_context, $use_parent, \%cit_hier);
+
+my($chunk_start) = split /\t/, $$lu{$start};
+my($chunk_end) = split /\t/, $$lu{$end};
+
+my $filename = "DBs/MG/wlist/$doc_file.$lang.lem";
+
+open LEMSENS, $filename || die "can't open lem sens $filename: $!";
+
+my %vocab = ();
+
+while (<LEMSENS>) {
+    my $line = $_;
+
+    $line =~ /(\d+):(\d+)\s(.*)/;
+    my $sen_start = $1;
+    my $sen_extent = $2;
+    my $data = $3;
+
+    if ($chunk_start < ($sen_start + $sen_extent) &&
+	$chunk_end > $sen_start) {
+	
+	my @words = split /\s+/, $data;
+
+	### drop the first element, which is a lemma weight number
+	shift @words;
+
+	foreach my $word (@words) {
+	    ### we're treating the whole line as a list of words,
+	    ### but the data is actually divided into sections
+	    ### with one or more lemmas for each word. Drop the extra
+	    ### hash marks and weights. 
+    
+	    $word =~ s/\#.*//;
+
+	    $vocab{$word}++;
+	}
+    }
+    
+}
+
+### read in stop words
+%stopwords = ();
+
+open STOPFILE, "DBs/$lang.stop";
+while (<STOPFILE>) {
+    my $word = $_;
+    chomp $word;
+    $stopwords{$word}++;
+}
+close STOPFILE;
+
+### read in vocab list
+my $vocab_processor = new VocabList;
+$vocab_processor->set_lists_from_request(@vocab_lists);
+
+my %vocab_list = $vocab_processor->get_list;
+
+my $vocab_list_title = $vocab_processor->get_list_name($vocab_list_file);
+
+my %defdb_name = (
+		  ar => 'salmone.short',
+		  greek => 'ml.short',
+		  la => 'lewis.short',
+		  it => 'baretti.short',
+		  oe => 'klaeber.short'
+		  );
+
+my $defdb =
+    Mdb::Open("DBs/$langName{$lang}/$defdb_name{$lang}") if $defdb_name{$lang};
+
+
+### set display variables
+my $display = perseusConfig('display', \$cgi);
+my $encoding = set_encoding($cgi, $display);
+
+if ($lang eq "greek") {
+    my $greek_transcoder = config_display($display);
+    open STDOUT, $greek_transcoder;
+}
+
+print $cgi->header(-type=>"text/html; charset=$encoding");
+
+print "<html>\n";
+print "<head>\n";
+print "<title>Vocabulary for ";
+print $$metadata{''}{'dc:Title'}->[0];
+print ", $start_query</title>\n";
+print "";
+print "<style>";
+print <<EOF;
+body,td {
+  font-family: verdana, arial, helvetica;
+  font-size: 11px;
+}
+EOF
+print "</style>\n</head>\n";
+print "<body>\n";
+
+if ($vocab_list_title ne "") {
+    print "Selected vocabulary is not in $vocab_list_title<p>\n";
+}
+
+print "<form action=\"flashcards\">\n";
+
+
+print "<input type=submit value=\"Create Flashcards\">\n";
+print "<input type=hidden value=\"$lang\" name=lang>\n";
+
+print "<a href=\"pickvocablist?doc=$doc&query=$start_query\">Select known vocabulary list</a><br>";
+
+
+#foreach my $vocab_word (keys %vocab_list) {
+#    print "$vocab_word<br>\n";
+#}
+
+print "<table>";
+
+foreach my $word (sort { $vocab{$b} <=> $vocab{$a} } keys %vocab) {
+    ## Certain words are almost always wrong:
+    if ($lang eq "la") {
+	if ($word eq "edo" ||    # confused with sum
+	    $word eq "virus" ||  # vir
+	    $word eq "ito" ||    # ita
+	    $word eq "sus" ||    # suus
+	    $word eq "suum" ||   # subst. suus
+	    $word eq "sua" ||    # subst. suus
+	    $word eq "sui" ||    # subst. suus
+	    $word eq "sino" ||   # sine
+	    $word eq "suo" ||    # suus
+	    $word eq "neo" ||    # suus
+	    $word eq "allium") { # alius
+	    next;
+	}
+    }
+	    
+    ### skip very frequent words
+    if (defined $stopwords{$word}) {
+	next;
+    }
+
+    ### skip vocab list words
+    #if (defined $vocab_list{$word}) {
+#	next;
+    #}
+
+
+    if ($defdb) {
+        my $def = Mdb::Lookup($defdb,$word);
+        if ($def eq '' and $word =~ s/\#?\d+$//) {
+            $def = Mdb::Lookup($defdb,$word);
+        }
+        if ($def ne '') {
+	    print "<tr>";
+	    print "<td><input type=checkbox name=\"words\" value=\"$word\"";
+	    if (! defined $vocab_list{$word}) {
+		print "CHECKED";
+	    }
+	    print "></td><td>";
+	    if ($lang eq "greek") {
+		print "<G>$word</G>";
+	    }
+	    else {
+		print $word;
+	    }
+	    print "</td><td>$def</td>";
+	    print "</tr>";
+        }
+	else {
+	    #print "<tr>";
+	    #print "<td></td><td>$word</td><td><b>NOT FOUND</b></td>";
+	    #print "</tr>";
+	}
+    }
+}
+
+print "</table></body></html>";

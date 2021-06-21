@@ -1,0 +1,5208 @@
+<?xml version='1.0' ?>
+
+<TextbookVocab>
+
+<metadata>
+	<dc:title>A New Approach to Latin 2</dc:title>
+	<dc:creator>Macnaughton and McDougall</dc:creator>
+	<dc:date>1974</dc:date>
+</metadata>
+
+<section n="Chapter 1">
+<entry>
+      <orth>facilis facilis</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>credo</orth>
+      <lemma>credo</lemma>
+</entry>
+<entry>
+      <orth>obviam</orth>
+      <lemma>obviam</lemma>
+</entry>
+<entry>
+      <orth>corvus</orth>
+      <lemma>corvus</lemma>
+</entry>
+<entry>
+      <orth>praetereo</orth>
+      <lemma>praetereo</lemma>
+</entry>
+<entry>
+      <orth>pretium</orth>
+      <lemma>pretium</lemma>
+</entry>
+<entry>
+      <orth>emo</orth>
+      <lemma>emo</lemma>
+</entry>
+<entry>
+      <orth>vendo</orth>
+      <lemma>vendo</lemma>
+</entry>
+<entry>
+      <orth>vicinus</orth>
+      <lemma>vicinus</lemma>
+</entry>
+<entry>
+      <orth>invidus</orth>
+      <lemma>invidus</lemma>
+</entry>
+<entry>
+      <orth>affirmare</orth>
+      <lemma>affirmo</lemma>
+</entry>
+<entry>
+      <orth>disco</orth>
+      <lemma>disco</lemma>
+</entry>
+<entry>
+      <orth>edo</orth>
+      <lemma>edo#1</lemma>
+</entry>
+<entry>
+      <orth>uterque</orth>
+      <lemma>uter</lemma>
+</entry>
+<entry>
+      <orth>casus</orth>
+      <lemma>casus#1</lemma>
+</entry>
+</section>
+
+<section n="Chapter 2">
+<entry>
+      <orth>situs</orth>
+      <lemma>sino</lemma>
+</entry>
+<entry>
+      <orth>haud </orth>
+      <lemma>haud</lemma>
+</entry>
+<entry>
+      <orth>procul</orth>
+      <lemma>procul</lemma>
+</entry>
+!dies natalis	
+<entry>
+      <orth>adeo</orth>
+      <lemma>adeo</lemma>
+</entry>
+<entry>
+      <orth>novi</orth>
+      <lemma>nosco</lemma>
+</entry>
+!pro certo habere	pro#1	pro#2
+<entry>
+      <orth>probus</orth>
+      <lemma>probus#1</lemma>
+</entry>
+<entry>
+      <orth>adoptare</orth>
+      <lemma>adopto</lemma>
+</entry>
+<entry>
+      <orth>heres</orth>
+      <lemma>heres</lemma>
+</entry>
+<entry>
+      <orth>pueritia</orth>
+      <lemma>pueritia</lemma>
+</entry>
+<entry>
+      <orth>ago</orth>
+      <lemma>ago</lemma>
+</entry>
+<entry>
+      <orth>collis</orth>
+      <lemma>collis</lemma>
+</entry>
+<entry>
+      <orth>silvestris</orth>
+      <lemma>silvestris</lemma>
+</entry>
+<entry>
+      <orth>cinctus</orth>
+      <lemma>cingo</lemma>
+</entry>
+<entry>
+      <orth>cessare</orth>
+      <lemma>cesso</lemma>
+</entry>
+<entry>
+      <orth>cogo</orth>
+      <lemma>cogo</lemma>
+</entry>
+<entry>
+      <orth>sumo</orth>
+      <lemma>sumo</lemma>
+</entry>
+<entry>
+      <orth>trucidare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>undeviginti</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>derideo</orth>
+      <lemma>derideo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 3">
+<entry>
+      <orth>gratia</orth>
+      <lemma>gratia</lemma>
+</entry>
+<entry>
+      <orth>recipere</orth>
+      <lemma>recipio</lemma>
+</entry>
+<entry>
+      <orth>divido</orth>
+      <lemma>divido</lemma>
+</entry>
+<entry>
+      <orth>sors</orth>
+      <lemma>sors</lemma>
+</entry>
+<entry>
+      <orth>obvenire</orth>
+      <lemma>obvenio</lemma>
+</entry>
+<entry>
+      <orth>Oriens</orth>
+      <lemma>Oriens</lemma>
+</entry>
+!bellum indico 
+<entry>
+      <orth>superatus</orth>
+      <lemma>supero</lemma>
+</entry>
+<entry>
+      <orth>aspis</orth>
+      <lemma>aspis</lemma>
+</entry>
+<entry>
+      <orth>admoveo</orth>
+      <lemma>admoveo</lemma>
+</entry>
+<entry>
+      <orth>venenum</orth>
+      <lemma>venenum</lemma>
+</entry>
+<entry>
+      <orth>triginta</orth>
+      <lemma>triginta</lemma>
+</entry>
+<entry>
+      <orth>compono</orth>
+      <lemma>compono</lemma>
+</entry>
+<entry>
+      <orth>mandare</orth>
+      <lemma>mando#1</lemma>
+</entry>
+<entry>
+      <orth>quies</orth>
+      <lemma>quies#1</lemma>
+</entry>
+<entry>
+      <orth>onerare</orth>
+      <lemma>onero</lemma>
+</entry>
+<entry>
+      <orth>cognomen</orth>
+      <lemma>cognomen</lemma>
+</entry>
+<entry>
+      <orth>infirmus</orth>
+      <lemma>infirmus</lemma>
+</entry>
+<entry>
+      <orth>complures</orth>
+      <lemma>complures</lemma>
+</entry>
+<entry>
+      <orth>densus</orth>
+      <lemma>densus</lemma>
+</entry>
+<entry>
+      <orth>foras</orth>
+      <lemma>foras </lemma>
+</entry>
+<entry>
+      <orth>petasus</orth>
+      <lemma>petasus</lemma>
+</entry>
+<entry>
+      <orth>frigus</orth>
+      <lemma>frigus</lemma>
+</entry>
+<entry>
+      <orth>perficio</orth>
+      <lemma>perficio</lemma>
+</entry>
+<entry>
+      <orth>incumbo</orth>
+      <lemma>incumbo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 4">
+<entry>
+      <orth>culpare</orth>
+      <lemma>culpo</lemma>
+</entry>
+<entry>
+      <orth>consulo</orth>
+      <lemma>consulo</lemma>
+</entry>
+<entry>
+      <orth>obscurus</orth>
+      <lemma>obscurus</lemma>
+</entry>
+<entry>
+      <orth>gelidus</orth>
+      <lemma>gelidus</lemma>
+</entry>
+<entry>
+      <orth>pavor</orth>
+      <lemma>pavor</lemma>
+</entry>
+<entry>
+      <orth>ruber</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>amictus</orth>
+      <lemma>amictus#2</lemma>
+</entry>
+<entry>
+      <orth>raucus</orth>
+      <lemma>raucus</lemma>
+</entry>
+<entry>
+      <orth>praedicere</orth>
+      <lemma>praedico#1</lemma>
+</entry>
+<entry>
+      <orth>lutum</orth>
+      <lemma>lutum#2</lemma>
+</entry>
+<entry>
+      <orth>telum</orth>
+      <lemma>telum</lemma>
+</entry>
+<entry>
+      <orth>invisus</orth>
+      <lemma>invisus#2</lemma>
+</entry>
+<entry>
+      <orth>frabricare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>intellego</orth>
+      <lemma>intellego</lemma>
+</entry>
+<entry>
+      <orth>paulatim</orth>
+      <lemma>paulatim</lemma>
+</entry>
+<entry>
+      <orth>aperire</orth>
+      <lemma>aperio</lemma>
+</entry>
+<entry>
+      <orth>simplex</orth>
+      <lemma>simplex</lemma>
+</entry>
+<entry>
+      <orth>cucumis</orth>
+      <lemma>cucumis</lemma>
+</entry>
+<entry>
+      <orth>frictus</orth>
+      <lemma>frictus#2</lemma>
+</entry>
+<entry>
+      <orth>caseus</orth>
+      <lemma>caseus</lemma>
+</entry>
+<entry>
+      <orth>simplicitas</orth>
+      <lemma>simplicitas</lemma>
+</entry>
+<entry>
+      <orth>verecundia</orth>
+      <lemma>verecundia</lemma>
+</entry>
+<entry>
+      <orth>cognosco</orth>
+      <lemma>cognosco</lemma>
+</entry>
+<entry>
+      <orth>dignus</orth>
+      <lemma>dignus</lemma>
+</entry>
+</section>
+
+<section n="Chapter 5">
+<entry>
+      <orth>nuntius</orth>
+      <lemma>nuntius</lemma>
+</entry>
+<entry>
+      <orth>concido</orth>
+      <lemma>concido#1</lemma>
+</entry>
+<entry>
+      <orth>anhelare</orth>
+      <lemma>anhelo</lemma>
+</entry>
+<entry>
+      <orth>ardeo</orth>
+      <lemma>ardeo</lemma>
+</entry>
+<entry>
+      <orth>comes</orth>
+      <lemma>comes</lemma>
+</entry>
+<entry>
+      <orth>incendium</orth>
+      <lemma>incendium</lemma>
+</entry>
+<entry>
+      <orth>exstinguo</orth>
+      <lemma>exstinguo</lemma>
+</entry>
+<entry>
+      <orth>dispergo</orth>
+      <lemma>dispergo</lemma>
+</entry>
+<entry>
+      <orth>regio</orth>
+      <lemma>regio</lemma>
+</entry>
+<entry>
+      <orth>vastare</orth>
+      <lemma>vasto</lemma>
+</entry>
+<entry>
+      <orth>fumus</orth>
+      <lemma>fumus</lemma>
+</entry>
+<entry>
+      <orth>conspicio</orth>
+      <lemma>conspicio#1</lemma>
+</entry>
+<entry>
+      <orth>circumire</orth>
+      <lemma>circumeo</lemma>
+</entry>
+<entry>
+      <orth>promitto</orth>
+      <lemma>promitto</lemma>
+</entry>
+<entry>
+      <orth>interdiu</orth>
+      <lemma>interdiu</lemma>
+</entry>
+<entry>
+      <orth>agnosco</orth>
+      <lemma>agnosco</lemma>
+</entry>
+<entry>
+      <orth>pectus</orth>
+      <lemma>pectus</lemma>
+</entry>
+<entry>
+      <orth>nudare</orth>
+      <lemma>nudo</lemma>
+</entry>
+<entry>
+      <orth>dubitare</orth>
+      <lemma>dubito</lemma>
+</entry>
+<entry>
+      <orth>cithara</orth>
+      <lemma>cithara</lemma>
+</entry>
+<entry>
+      <orth>solarium</orth>
+      <lemma>solarium#2</lemma>
+</entry>
+<entry>
+      <orth>fama</orth>
+      <lemma>fama</lemma>
+</entry>
+@Galilaeus
+<entry>
+      <orth>studiosus</orth>
+      <lemma>studiosus</lemma>
+</entry>
+<entry>
+      <orth>volare</orth>
+      <lemma>volo#2</lemma>
+</entry>
+<entry>
+      <orth>documentum</orth>
+      <lemma>documentum</lemma>
+</entry>
+<entry>
+      <orth>provocare</orth>
+      <lemma>provoco</lemma>
+</entry>
+<entry>
+      <orth>tribunal</orth>
+      <lemma>tribunal</lemma>
+</entry>
+<entry>
+      <orth>ala</orth>
+      <lemma>ala</lemma>
+</entry>
+<entry>
+      <orth>extendo</orth>
+      <lemma>extendo</lemma>
+</entry>
+<entry>
+      <orth>insilio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>fragor</orth>
+      <lemma>fragor</lemma>
+</entry>
+<entry>
+      <orth>pudor</orth>
+      <lemma>pudor</lemma>
+</entry>
+<entry>
+      <orth>tectum</orth>
+      <lemma>tectum</lemma>
+</entry>
+<entry>
+      <orth>deicio</orth>
+      <lemma>deicio</lemma>
+</entry>
+<entry>
+      <orth>astrologus</orth>
+      <lemma>astrologus</lemma>
+</entry>
+<entry>
+      <orth>magus</orth>
+      <lemma>magus#2</lemma>
+</entry>
+<entry>
+      <orth>ut</orth>
+      <lemma></lemma>
+</entry>
+!in aera
+<section n="Chapter 6">
+</section>
+
+<section n="Chapter 7">	
+<entry>
+      <orth>diversus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>privatus</orth>
+      <lemma>privatus</lemma>
+</entry>
+<entry>
+      <orth>late</orth>
+      <lemma>latus#2</lemma>
+</entry>
+<entry>
+      <orth>spargo</orth>
+      <lemma>spargo#1</lemma>
+</entry>
+<entry>
+      <orth>violentia</orth>
+      <lemma>violentia</lemma>
+</entry>
+<entry>
+      <orth>inertia</orth>
+      <lemma>inertia</lemma>
+</entry>
+<entry>
+      <orth>oppidani</orth>
+      <lemma>oppidani</lemma>
+</entry>
+<entry>
+      <orth>immobilis</orth>
+      <lemma>immobilis</lemma>
+</entry>
+<entry>
+      <orth>usquam</orth>
+      <lemma>usquam</lemma>
+</entry>
+<entry>
+      <orth>sipho</orth>
+      <lemma>sipho</lemma>
+</entry>
+<entry>
+      <orth>hama</orth>
+      <lemma>hama</lemma>
+</entry>
+<entry>
+      <orth>instrumentum</orth>
+      <lemma>instrumentum</lemma>
+</entry>
+<entry>
+      <orth>cohibere</orth>
+      <lemma>cohibeo</lemma>
+</entry>
+<entry>
+      <orth>amplius</orth>
+      <lemma>amplus</lemma>
+</entry>
+<entry>
+      <orth>instituo</orth>
+      <lemma>instituo</lemma>
+</entry>
+<entry>
+      <orth>recipere</orth>
+      <lemma>recipio</lemma>
+</entry>
+<entry>
+      <orth>iste</orth>
+      <lemma>iste</lemma>
+</entry>
+<entry>
+      <orth>factio</orth>
+      <lemma>factio</lemma>
+</entry>
+<entry>
+      <orth>modus</orth>
+      <lemma>modus</lemma>
+</entry>
+<entry>
+      <orth>vexare</orth>
+      <lemma>vexo</lemma>
+</entry>
+<entry>
+      <orth>contraho</orth>
+      <lemma>contraho</lemma>
+</entry>
+<entry>
+      <orth>praedium</orth>
+      <lemma>praedium</lemma>
+</entry>
+<entry>
+      <orth>moneo</orth>
+      <lemma>moneo</lemma>
+</entry>
+<entry>
+      <orth>postulare</orth>
+      <lemma>postulo</lemma>
+</entry>
+<entry>
+      <orth>advocare</orth>
+      <lemma>advoco</lemma>
+</entry>
+@refero
+<entry>
+      <orth>ignorantia</orth>
+      <lemma>ignorantia</lemma>
+</entry>
+<entry>
+      <orth>discrimen</orth>
+      <lemma>discrimen</lemma>
+</entry>
+<entry>
+      <orth>aetas</orth>
+      <lemma>aetas</lemma>
+</entry>
+<entry>
+      <orth>venia</orth>
+      <lemma>venia</lemma>
+</entry>
+<entry>
+      <orth>perseverare</orth>
+      <lemma>persevero</lemma>
+</entry>
+<entry>
+      <orth>desisto</orth>
+      <lemma>desisto</lemma>
+</entry>
+<entry>
+      <orth>obstinatio</orth>
+      <lemma>obstinatio</lemma>
+</entry>
+<entry>
+      <orth>proponere</orth>
+      <lemma>propono</lemma>
+</entry>
+<entry>
+      <orth>imago</orth>
+      <lemma>imago</lemma>
+</entry>
+<entry>
+      <orth>supplicare</orth>
+      <lemma>supplico</lemma>
+</entry>
+<entry>
+      <orth>maledicere</orth>
+      <lemma>maledico</lemma>
+</entry>
+@index
+<entry>
+      <orth>iurare</orth>
+      <lemma>juro</lemma>
+</entry>
+<entry>
+      <orth>furtum</orth>
+      <lemma>furtum</lemma>
+</entry>
+!fidem fallo	fides#1	fides#2
+<entry>
+      <orth>una</orth>
+      <lemma>unus</lemma>
+</entry>
+<entry>
+      <orth>ancilla</orth>
+      <lemma>ancilla</lemma>
+</entry>
+<entry>
+      <orth>superstitio</orth>
+      <lemma>superstitio</lemma>
+</entry>
+<entry>
+      <orth>pravus</orth>
+      <lemma>pravus</lemma>
+</entry>
+<entry>
+      <orth>gravis</orth>
+      <lemma>gravis</lemma>
+</entry>
+<entry>
+      <orth>causa</orth>
+      <lemma>causa</lemma>
+</entry>
+<entry>
+      <orth>excutio</orth>
+      <lemma>excutio</lemma>
+</entry>
+<entry>
+      <orth>crimen</orth>
+      <lemma>crimen</lemma>
+</entry>
+</section>
+
+<section n="Chapter 8">
+<entry>
+      <orth>insignis</orth>
+      <lemma>insignis</lemma>
+</entry>
+<entry>
+      <orth>beneficium</orth>
+      <lemma>beneficium</lemma>
+</entry>
+<entry>
+      <orth>confero</orth>
+      <lemma>confero</lemma>
+</entry>
+<entry>
+      <orth>funambulus</orth>
+      <lemma>funambulus</lemma>
+</entry>
+<entry>
+      <orth>laedo</orth>
+      <lemma>laedo</lemma>
+</entry>
+<entry>
+      <orth>culcita</orth>
+      <lemma>culcita</lemma>
+</entry>
+<entry>
+      <orth>dehinc</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>subicio</orth>
+      <lemma>subicio</lemma>
+</entry>
+<entry>
+      <orth>blandus</orth>
+      <lemma>blandus</lemma>
+</entry>
+<entry>
+      <orth>colloqui</orth>
+      <lemma>colloquor</lemma>
+</entry>
+<entry>
+      <orth>severus</orth>
+      <lemma>severus#1</lemma>
+</entry>
+<entry>
+      <orth>intentus</orth>
+      <lemma>intendo </lemma>
+</entry>
+<entry>
+      <orth>studium</orth>
+      <lemma>studium</lemma>
+</entry>
+<entry>
+      <orth>expono</orth>
+      <lemma>expono</lemma>
+</entry>
+<entry>
+      <orth>nubo</orth>
+      <lemma>nubo</lemma>
+</entry>
+<entry>
+      <orth>dos</orth>
+      <lemma>dos</lemma>
+</entry>
+<entry>
+      <orth>aestimare</orth>
+      <lemma>aestimo</lemma>
+</entry>
+<entry>
+      <orth>bladiri</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>impetrare</orth>
+      <lemma>impetro</lemma>
+</entry>
+<entry>
+      <orth>patrimonium</orth>
+      <lemma>patrimonium</lemma>
+</entry>
+<entry>
+      <orth>reliquus</orth>
+      <lemma>reliquus</lemma>
+</entry>
+<entry>
+      <orth>contentus</orth>
+      <lemma>contineo</lemma>
+</entry>
+<entry>
+      <orth>pius</orth>
+      <lemma>pius</lemma>
+</entry>
+<entry>
+      <orth>benignus</orth>
+      <lemma>benignus</lemma>
+</entry>
+<entry>
+      <orth>revera</orth>
+      <lemma>re-vero#2</lemma>
+</entry>
+</section>
+
+<section n="Chapter 9">
+<entry>
+      <orth>praesum</orth>
+      <lemma>praesum</lemma>
+</entry>
+<entry>
+      <orth>aegrotare</orth>
+      <lemma>aegroto</lemma>
+</entry>
+<entry>
+      <orth>fraus</orth>
+      <lemma>fraus</lemma>
+</entry>
+<entry>
+      <orth>recusare</orth>
+      <lemma>recuso</lemma>
+</entry>
+<entry>
+      <orth>deliberare</orth>
+      <lemma>delibero</lemma>
+</entry>
+<entry>
+      <orth>procrastinare</orth>
+      <lemma>procrastino</lemma>
+</entry>
+<entry>
+      <orth>signatus</orth>
+      <lemma>signo</lemma>
+</entry>
+<entry>
+      <orth>simul ac</orth>
+      <lemma>simul</lemma>
+</entry>
+<entry>
+      <orth>sino</orth>
+      <lemma>sinum</lemma>
+</entry>
+<entry>
+      <orth>adire</orth>
+      <lemma>adeo#1</lemma>
+</entry>
+<entry>
+      <orth>pridie</orth>
+      <lemma>pridie</lemma>
+</entry>
+<entry>
+      <orth>dispono</orth>
+      <lemma>dispono</lemma>
+</entry>
+<entry>
+      <orth>poples</orth>
+      <lemma>poples</lemma>
+</entry>
+<entry>
+      <orth>succido</orth>
+      <lemma>succido#2</lemma>
+</entry>
+<entry>
+      <orth>effugio</orth>
+      <lemma>effugio</lemma>
+</entry>
+<entry>
+      <orth>incolumis</orth>
+      <lemma>incolumis</lemma>
+</entry>
+!obire mortem	obeo
+@contendo
+<entry>
+      <orth>agmen</orth>
+      <lemma>agmen</lemma>
+</entry>
+<entry>
+      <orth>crux</orth>
+      <lemma>crux</lemma>
+</entry>
+<entry>
+      <orth>coruscus</orth>
+      <lemma>coruscus</lemma>
+</entry>
+<entry>
+      <orth>signum</orth>
+      <lemma>signum</lemma>
+</entry>
+<entry>
+      <orth>vinco</orth>
+      <lemma>vinco</lemma>
+</entry>
+<entry>
+      <orth>proximus</orth>
+      <lemma>proximus</lemma>
+</entry>
+<entry>
+      <orth>apparere</orth>
+      <lemma>appareo</lemma>
+</entry>
+<entry>
+      <orth>forma</orth>
+      <lemma>forma</lemma>
+</entry>
+!ius iurandum	jus
+<entry>
+      <orth>confirmare</orth>
+      <lemma>confirmo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 10">
+<entry>
+      <orth>opulentus</orth>
+      <lemma>opulentus</lemma>
+</entry>
+<entry>
+      <orth>fullonica</orth>
+      <lemma>fullonica</lemma>
+</entry>
+<entry>
+      <orth>avus</orth>
+      <lemma>avus</lemma>
+</entry>
+<entry>
+      <orth>magistratus</orth>
+      <lemma>magistratus</lemma>
+</entry>
+<entry>
+      <orth>duodeviginti</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>architectura</orth>
+      <lemma>architectura</lemma>
+</entry>
+!operam dare	opera
+<entry>
+      <orth>educare</orth>
+      <lemma>educo#2</lemma>
+</entry>
+<entry>
+      <orth>grammaticus</orth>
+      <lemma>grammaticus#2</lemma>
+</entry>
+<entry>
+      <orth>invisus</orth>
+      <lemma>invisus#2</lemma>
+</entry>
+<entry>
+      <orth>negotium</orth>
+      <lemma>negotium</lemma>
+</entry>
+<entry>
+      <orth>sicut</orth>
+      <lemma>sicut</lemma>
+</entry>
+<entry>
+      <orth>libertus</orth>
+      <lemma>libertus</lemma>
+</entry>
+<entry>
+      <orth>ratio</orth>
+      <lemma>ratio</lemma>
+</entry>
+<entry>
+      <orth>subducere</orth>
+      <lemma>subduco</lemma>
+</entry>
+<entry>
+      <orth>curare</orth>
+      <lemma>curo</lemma>
+</entry>
+<entry>
+      <orth>suscipio</orth>
+      <lemma>suscipio</lemma>
+</entry>
+<entry>
+      <orth>confidere</orth>
+      <lemma>confido</lemma>
+</entry>
+@prope
+<entry>
+      <orth>nuper</orth>
+      <lemma>nuper</lemma>
+</entry>
+<entry>
+      <orth>reficio</orth>
+      <lemma>reficio</lemma>
+</entry>
+<entry>
+      <orth>lautus</orth>
+      <lemma>lavo</lemma>
+</entry>
+<entry>
+      <orth>pavimentum</orth>
+      <lemma>pavimentum</lemma>
+</entry>
+<entry>
+      <orth>tectum</orth>
+      <lemma>tectum</lemma>
+</entry>
+<entry>
+      <orth>ornare</orth>
+      <lemma>orno</lemma>
+</entry>
+<entry>
+      <orth>columna</orth>
+      <lemma>columna</lemma>
+</entry>
+<entry>
+      <orth>marmoreus</orth>
+      <lemma>marmoreus</lemma>
+</entry>
+<entry>
+      <orth>sustineo</orth>
+      <lemma>sustineo</lemma>
+</entry>
+<entry>
+      <orth>circumdare</orth>
+      <lemma>circumdo</lemma>
+</entry>
+<entry>
+      <orth>aspergo</orth>
+      <lemma>aspergo#2</lemma>
+</entry>
+<entry>
+      <orth>amoenus</orth>
+      <lemma>amoenus</lemma>
+</entry>
+<entry>
+      <orth>porticus</orth>
+      <lemma>porticus</lemma>
+</entry>
+<entry>
+      <orth>cinctus</orth>
+      <lemma>cingo</lemma>
+</entry>
+<entry>
+      <orth>praebere</orth>
+      <lemma>praebeo</lemma>
+</entry>
+<entry>
+      <orth>frutex</orth>
+      <lemma>frutex</lemma>
+</entry>
+<entry>
+      <orth>efficere</orth>
+      <lemma>efficio</lemma>
+</entry>
+<entry>
+      <orth>clemens</orth>
+      <lemma>clemens#1</lemma>
+</entry>
+<entry>
+      <orth>fidelis</orth>
+      <lemma>fidelis</lemma>
+</entry>
+<entry>
+      <orth>felix</orth>
+      <lemma>felix#1</lemma>
+</entry>
+@Lession 11
+<entry>
+      <orth>iucundus</orth>
+      <lemma>jucundus</lemma>
+</entry>
+<entry>
+      <orth>harena</orth>
+      <lemma>harena</lemma>
+</entry>
+<entry>
+      <orth>comitor</orth>
+      <lemma>comitor</lemma>
+</entry>
+<entry>
+      <orth>consobrinus</orth>
+      <lemma>consobrinus</lemma>
+</entry>
+<entry>
+      <orth>mercator</orth>
+      <lemma>mercator</lemma>
+</entry>
+<entry>
+      <orth>amita</orth>
+      <lemma>amita</lemma>
+</entry>
+<entry>
+      <orth>proficiscor</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>plaustrum</orth>
+      <lemma>plaustrum</lemma>
+</entry>
+<entry>
+      <orth>holus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>fructus</orth>
+      <lemma>fructus#2</lemma>
+</entry>
+<entry>
+      <orth>ovum</orth>
+      <lemma>ovum</lemma>
+</entry>
+<entry>
+      <orth>pullus</orth>
+      <lemma>pullus#1</lemma>
+</entry>
+<entry>
+      <orth>macellum</orth>
+      <lemma>macellum</lemma>
+</entry>
+<entry>
+      <orth>raeda</orth>
+      <lemma>raeda</lemma>
+</entry>
+<entry>
+      <orth>mannus</orth>
+      <lemma>mannus</lemma>
+</entry>
+<entry>
+      <orth>raedarius</orth>
+      <lemma>raedarius</lemma>
+</entry>
+<entry>
+      <orth>insilio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>veho</orth>
+      <lemma>veho</lemma>
+</entry>
+<entry>
+      <orth>gaudium</orth>
+      <lemma>gaudium</lemma>
+</entry>
+<entry>
+      <orth>colloquor</orth>
+      <lemma>colloquor</lemma>
+</entry>
+<entry>
+      <orth>percontor</orth>
+      <lemma>percontor</lemma>
+</entry>
+@ingredior
+<entry>
+      <orth>egredior</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>occurro</orth>
+      <lemma>occurro</lemma>
+</entry>
+<entry>
+      <orth>celeritas</orth>
+      <lemma>celeritas</lemma>
+</entry>
+<entry>
+      <orth>fur</orth>
+      <lemma>fur</lemma>
+</entry>
+<entry>
+      <orth>aufero</orth>
+      <lemma>aufero</lemma>
+</entry>
+<entry>
+      <orth>comprehendo</orth>
+      <lemma>comprehendo</lemma>
+</entry>
+<entry>
+      <orth>conor</orth>
+      <lemma>conor</lemma>
+</entry>
+<entry>
+      <orth>frustra</orth>
+      <lemma>frustra</lemma>
+</entry>
+<entry>
+      <orth>aliquamdiu</orth>
+      <lemma>aliquamdiu</lemma>
+</entry>
+<entry>
+      <orth>sequor</orth>
+      <lemma>sequor</lemma>
+</entry>
+<entry>
+      <orth>redeo</orth>
+      <lemma>redeo</lemma>
+</entry>
+<entry>
+      <orth>caupona</orth>
+      <lemma>caupona</lemma>
+</entry>
+<entry>
+      <orth>praetereo</orth>
+      <lemma>praetereo</lemma>
+</entry>
+<entry>
+      <orth>bibo</orth>
+      <lemma>bibo#1</lemma>
+</entry>
+<entry>
+      <orth>vendo</orth>
+      <lemma>vendo</lemma>
+</entry>
+<entry>
+      <orth>vereor</orth>
+      <lemma>vereor</lemma>
+</entry>
+<entry>
+      <orth>conicere</orth>
+      <lemma>conicio</lemma>
+</entry>
+<entry>
+      <orth>restituo</orth>
+      <lemma>restituo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 12">
+<entry>
+      <orth>lectus</orth>
+      <lemma>lectus#2</lemma>
+</entry>
+<entry>
+      <orth>surgo</orth>
+      <lemma>surgo</lemma>
+</entry>
+<entry>
+      <orth>os</orth>
+      <lemma>os</lemma>
+</entry>
+<entry>
+      <orth>lavo</orth>
+      <lemma>lavo</lemma>
+</entry>
+<entry>
+      <orth>cesso</orth>
+      <lemma>cesso</lemma>
+</entry>
+<entry>
+      <orth>scelestus</orth>
+      <lemma>scelestus</lemma>
+</entry>
+<entry>
+      <orth>sordidatus</orth>
+      <lemma>sordidatus</lemma>
+</entry>
+<entry>
+      <orth>vivus</orth>
+      <lemma>vivus</lemma>
+</entry>
+<entry>
+      <orth>vigilare</orth>
+      <lemma>vigilo</lemma>
+</entry>
+<entry>
+      <orth>audeo</orth>
+      <lemma>audeo</lemma>
+</entry>
+<entry>
+      <orth>simul</orth>
+      <lemma>simul</lemma>
+</entry>
+<entry>
+      <orth>hilaris</orth>
+      <lemma>hilaris</lemma>
+</entry>
+<entry>
+      <orth>lente</orth>
+      <lemma>lentus</lemma>
+</entry>
+<entry>
+      <orth>progredior</orth>
+      <lemma>progredior</lemma>
+</entry>
+<entry>
+      <orth>faber</orth>
+      <lemma>faber#1</lemma>
+</entry>
+<entry>
+      <orth>cursus</orth>
+      <lemma>cursus</lemma>
+</entry>
+<entry>
+      <orth>certare</orth>
+      <lemma>certo#2</lemma>
+</entry>
+<entry>
+      <orth>uter</orth>
+      <lemma>uter#3</lemma>
+</entry>
+<entry>
+      <orth>latratus</orth>
+      <lemma>latratus</lemma>
+</entry>
+<entry>
+      <orth>exsilio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>catena</orth>
+      <lemma>catena</lemma>
+</entry>
+<entry>
+      <orth>impeditus</orth>
+      <lemma>impedio</lemma>
+</entry>
+<entry>
+      <orth>accurrere</orth>
+      <lemma>accurro</lemma>
+</entry>
+<entry>
+      <orth>mulcere</orth>
+      <lemma>mulceo</lemma>
+</entry>
+@hortari
+<entry>
+      <orth>callide</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>labrum</orth>
+      <lemma>labrum#2</lemma>
+</entry>
+<entry>
+      <orth>vestimentum</orth>
+      <lemma>vestimentum</lemma>
+</entry>
+<entry>
+      <orth>occulcare</orth>
+      <lemma>occulco</lemma>
+</entry>
+<entry>
+      <orth>creta</orth>
+      <lemma>creta#2</lemma>
+</entry>
+<entry>
+      <orth>fricare</orth>
+      <lemma>frico</lemma>
+</entry>
+<entry>
+      <orth>conficio</orth>
+      <lemma>conficio</lemma>
+</entry>
+<entry>
+      <orth>fames</orth>
+      <lemma>fames</lemma>
+</entry>
+!valere iubeo	valeo
+@Lession 13
+<entry>
+      <orth>caleo</orth>
+      <lemma>caleo</lemma>
+</entry>
+<entry>
+      <orth>hora</orth>
+      <lemma>hora#1</lemma>
+</entry>
+<entry>
+      <orth>expergiscor</orth>
+      <lemma>expergiscor</lemma>
+</entry>
+<entry>
+      <orth>inspicio</orth>
+      <lemma>inspicio</lemma>
+</entry>
+<entry>
+      <orth>multitudo</orth>
+      <lemma>multitudo</lemma>
+</entry>
+<entry>
+      <orth>aedificium</orth>
+      <lemma>aedificium</lemma>
+</entry>
+<entry>
+      <orth>aspectus</orth>
+      <lemma>aspectus#2</lemma>
+</entry>
+<entry>
+      <orth>admiror</orth>
+      <lemma>admiror</lemma>
+</entry>
+<entry>
+      <orth>scalae</orth>
+      <lemma>scalae</lemma>
+</entry>
+<entry>
+      <orth>strepitus</orth>
+      <lemma>strepitus</lemma>
+</entry>
+<entry>
+      <orth>conclamare</orth>
+      <lemma>conclamo</lemma>
+</entry>
+<entry>
+      <orth>tabernarius</orth>
+      <lemma>tabernarius</lemma>
+</entry>
+<entry>
+      <orth>huc</orth>
+      <lemma>huc</lemma>
+</entry>
+<entry>
+      <orth>illuc</orth>
+      <lemma>illic</lemma>
+</entry>
+<entry>
+      <orth>asinus</orth>
+      <lemma>asinus</lemma>
+</entry>
+<entry>
+      <orth>rudo</orth>
+      <lemma>rudo</lemma>
+</entry>
+<entry>
+      <orth>gallus</orth>
+      <lemma>gallus#1</lemma>
+</entry>
+<entry>
+      <orth>infans</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>plorare</orth>
+      <lemma>ploro</lemma>
+</entry>
+<entry>
+      <orth>hinc</orth>
+      <lemma>hinc</lemma>
+</entry>
+<entry>
+      <orth>dubius</orth>
+      <lemma>dubius</lemma>
+</entry>
+<entry>
+      <orth>surdus</orth>
+      <lemma>surdus</lemma>
+</entry>
+<entry>
+      <orth>pistrina</orth>
+      <lemma>pistrina</lemma>
+</entry>
+<entry>
+      <orth>pistor</orth>
+      <lemma>pistor</lemma>
+</entry>
+</section>
+
+<section n="Chapter 14">
+<entry>
+      <orth>cubo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>cubitum</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>nondum</orth>
+      <lemma>nondum</lemma>
+</entry>
+<entry>
+      <orth>restare</orth>
+      <lemma>resto</lemma>
+</entry>
+<entry>
+      <orth>placere</orth>
+      <lemma>placeo</lemma>
+</entry>
+<entry>
+      <orth>complures</orth>
+      <lemma>complures</lemma>
+</entry>
+<entry>
+      <orth>concurrere</orth>
+      <lemma>concurro</lemma>
+</entry>
+<entry>
+      <orth>aufugere</orth>
+      <lemma>aufugio</lemma>
+</entry>
+<entry>
+      <orth>illic</orth>
+      <lemma>illic#2</lemma>
+</entry>
+<entry>
+      <orth>haereo</orth>
+      <lemma>haereo</lemma>
+</entry>
+<entry>
+      <orth>orbita</orth>
+      <lemma>orbita</lemma>
+</entry>
+<entry>
+      <orth>rota</orth>
+      <lemma>rota</lemma>
+</entry>
+<entry>
+      <orth>agitator</orth>
+      <lemma>agitator</lemma>
+</entry>
+<entry>
+      <orth>mulus</orth>
+      <lemma>mulus</lemma>
+</entry>
+<entry>
+      <orth>sublata</orth>
+      <lemma>tollo</lemma>
+</entry>
+<entry>
+      <orth>onus</orth>
+      <lemma>onus</lemma>
+</entry>
+<entry>
+      <orth>trudo</orth>
+      <lemma>trudo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 15">
+<entry>
+      <orth>sinister</orth>
+      <lemma>sinister</lemma>
+</entry>
+<entry>
+      <orth>palaestra</orth>
+      <lemma>palaestra</lemma>
+</entry>
+<entry>
+      <orth>dexter</orth>
+      <lemma>dexter</lemma>
+</entry>
+<entry>
+      <orth>officina</orth>
+      <lemma>officina</lemma>
+</entry>
+<entry>
+      <orth>vestiarius</orth>
+      <lemma>vestiarius</lemma>
+</entry>
+<entry>
+      <orth>lectica</orth>
+      <lemma>lectica</lemma>
+</entry>
+<entry>
+      <orth>lecticarius</orth>
+      <lemma>lecticarius</lemma>
+</entry>
+<entry>
+      <orth>depono</orth>
+      <lemma>depono</lemma>
+</entry>
+<entry>
+      <orth>domina</orth>
+      <lemma>domina</lemma>
+</entry>
+<entry>
+      <orth>amphitheatrum</orth>
+      <lemma>amphitheatrum</lemma>
+</entry>
+<entry>
+      <orth>palla</orth>
+      <lemma>palla</lemma>
+</entry>
+<entry>
+      <orth>laneus</orth>
+      <lemma>laneus</lemma>
+</entry>
+<entry>
+      <orth>lana</orth>
+      <lemma>lana</lemma>
+</entry>
+<entry>
+      <orth>texo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>vero</orth>
+      <lemma>verum#2</lemma>
+</entry>
+<entry>
+      <orth>veneo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>quadraginta</orth>
+      <lemma>quadraginta</lemma>
+</entry>
+<entry>
+      <orth>quinquaginta</orth>
+      <lemma>quinquaginta</lemma>
+</entry>
+<entry>
+      <orth>sexaginta</orth>
+      <lemma>sexa</lemma>
+</entry>_ginta
+<entry>
+      <orth>denarius</orth>
+      <lemma>denarius</lemma>
+</entry>
+<entry>
+      <orth>spoliare</orth>
+      <lemma>spolio</lemma>
+</entry>
+<entry>
+      <orth>coccum</orth>
+      <lemma>coccum</lemma>
+</entry>
+<entry>
+      <orth>tinctus</orth>
+      <lemma>tingo</lemma>
+</entry>
+<entry>
+      <orth>opera</orth>
+      <lemma>opera</lemma>
+</entry>
+<entry>
+      <orth>perdo</orth>
+      <lemma>perdo</lemma>
+</entry>
+<entry>
+      <orth>licet</orth>
+      <lemma>licet</lemma>
+</entry>
+!faber aerarius	faber#1	faber#3
+<entry>
+      <orth>galea</orth>
+      <lemma>galea</lemma>
+</entry>
+<entry>
+      <orth>lorica</orth>
+      <lemma>lorica</lemma>
+</entry>
+</section>
+
+<section n="Chapter 16">
+<entry>
+      <orth>propter</orth>
+      <lemma>propter</lemma>
+</entry>
+<entry>
+      <orth>creber</orth>
+      <lemma>creber</lemma>
+</entry>
+<entry>
+      <orth>tremor</orth>
+      <lemma>tremor</lemma>
+</entry>
+<entry>
+      <orth>loquor</orth>
+      <lemma>loquor</lemma>
+</entry>
+<entry>
+      <orth>quam</orth>
+      <lemma>quam</lemma>
+</entry>
+<entry>
+      <orth>stultus</orth>
+      <lemma>stultus</lemma>
+</entry>
+<entry>
+      <orth>talis</orth>
+      <lemma>talis</lemma>
+</entry>
+<entry>
+      <orth>tablinum</orth>
+      <lemma>tablinum</lemma>
+</entry>
+<entry>
+      <orth>recipere</orth>
+      <lemma>recipio</lemma>
+</entry>
+<entry>
+      <orth>invitare</orth>
+      <lemma>invito</lemma>
+</entry>
+<entry>
+      <orth>brevis</orth>
+      <lemma>brevis</lemma>
+</entry>
+<entry>
+      <orth>festus</orth>
+      <lemma>festus#1</lemma>
+</entry>
+<entry>
+      <orth>adsentior</orth>
+      <lemma>ad-sentio</lemma>
+</entry>
+@vicus
+<entry>
+      <orth>eruptio</orth>
+      <lemma>eruptio</lemma>
+</entry>
+<entry>
+      <orth>fuga</orth>
+      <lemma>fuga</lemma>
+</entry>
+<entry>
+      <orth>abhinc</orth>
+      <lemma>abhinc</lemma>
+</entry>
+<entry>
+      <orth>parco</orth>
+      <lemma>parco</lemma>
+</entry>
+<entry>
+      <orth>pugna</orth>
+      <lemma>pugna</lemma>
+</entry>
+<entry>
+      <orth>damno</orth>
+      <lemma>damno</lemma>
+</entry>
+<entry>
+      <orth>orior</orth>
+      <lemma>orior</lemma>
+</entry>
+<entry>
+      <orth>vulnerare</orth>
+      <lemma>vulnero</lemma>
+</entry>
+<entry>
+      <orth>defero</orth>
+      <lemma>defero</lemma>
+</entry>
+<entry>
+      <orth>senatus</orth>
+      <lemma>senatus</lemma>
+</entry>
+<entry>
+      <orth>claudo</orth>
+      <lemma>claudo#1</lemma>
+</entry>
+<entry>
+      <orth>miror</orth>
+      <lemma>miror</lemma>
+</entry>
+<entry>
+      <orth>testula</orth>
+      <lemma>testula</lemma>
+</entry>
+<entry>
+      <orth>murus</orth>
+      <lemma>murus</lemma>
+</entry>
+<entry>
+      <orth>testula</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>murus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>immemor</orth>
+      <lemma>immemor</lemma>
+</entry>
+</section>
+
+<section n="Chapter 17">
+<entry>
+      <orth>perturbare</orth>
+      <lemma>perturbo</lemma>
+</entry>
+<entry>
+      <orth>timere</orth>
+      <lemma>timeo</lemma>
+</entry>
+<entry>
+      <orth>comitor</orth>
+      <lemma>comitor</lemma>
+</entry>
+<entry>
+      <orth>sumo</orth>
+      <lemma>sumo</lemma>
+</entry>
+<entry>
+      <orth>ruo</orth>
+      <lemma>ruo</lemma>
+</entry>
+<entry>
+      <orth>thermae</orth>
+      <lemma>thermae</lemma>
+</entry>
+<entry>
+      <orth>occludo</orth>
+      <lemma>occludo</lemma>
+</entry>
+<entry>
+      <orth>placentarius</orth>
+      <lemma>placentarius</lemma>
+</entry>
+<entry>
+      <orth>spes</orth>
+      <lemma>spes</lemma>
+</entry>
+<entry>
+      <orth>lucrum</orth>
+      <lemma>lucrum</lemma>
+</entry>
+<entry>
+      <orth>adduco</orth>
+      <lemma>adduco</lemma>
+</entry>
+<entry>
+      <orth>intus</orth>
+      <lemma>intus</lemma>
+</entry>
+<entry>
+      <orth>moriturus</orth>
+      <lemma>morior</lemma>
+</entry>
+<entry>
+      <orth>respicio</orth>
+      <lemma>respicio</lemma>
+</entry>
+<entry>
+      <orth>ater</orth>
+      <lemma>ater#1</lemma>
+</entry>
+<entry>
+      <orth>nubes</orth>
+      <lemma>nubes</lemma>
+</entry>
+<entry>
+      <orth>magnitudo</orth>
+      <lemma>magnitudo</lemma>
+</entry>
+<entry>
+      <orth>species</orth>
+      <lemma>species</lemma>
+</entry>
+<entry>
+      <orth>inusitatus</orth>
+      <lemma>inusitatus</lemma>
+</entry>
+<entry>
+      <orth>tumultus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>liberi</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>effundo</orth>
+      <lemma>effundo</lemma>
+</entry>
+<entry>
+      <orth>lacrima</orth>
+      <lemma>lacrima</lemma>
+</entry>
+<entry>
+      <orth>implorare</orth>
+      <lemma>imploro</lemma>
+</entry>
+<entry>
+      <orth>ramosus</orth>
+      <lemma>ramosus</lemma>
+</entry>
+<entry>
+      <orth>similis</orth>
+      <lemma>similis</lemma>
+</entry>
+<entry>
+      <orth>candidus</orth>
+      <lemma>candidus</lemma>
+</entry>
+<entry>
+      <orth>cinis</orth>
+      <lemma>cinis</lemma>
+</entry>
+<entry>
+      <orth>obscurare</orth>
+      <lemma>obscuro</lemma>
+</entry>
+<entry>
+      <orth>tamquam</orth>
+      <lemma>tamquam</lemma>
+</entry>
+<entry>
+      <orth>imber</orth>
+      <lemma>imber</lemma>
+</entry>
+<entry>
+      <orth>levis</orth>
+      <lemma>levis#1</lemma>
+</entry>
+<entry>
+      <orth>incipio</orth>
+      <lemma>incipio</lemma>
+</entry>
+<entry>
+      <orth>undique</orth>
+      <lemma>undique</lemma>
+</entry>
+<entry>
+      <orth>tuba</orth>
+      <lemma>tuba</lemma>
+</entry>
+<entry>
+      <orth>periculosus</orth>
+      <lemma>periculosus</lemma>
+</entry>
+<entry>
+      <orth>opprimo</orth>
+      <lemma>opprimo</lemma>
+</entry>
+<entry>
+      <orth>inclusus</orth>
+      <lemma>includo</lemma>
+</entry>
+<entry>
+      <orth>vix</orth>
+      <lemma>vix</lemma>
+</entry>
+<entry>
+      <orth>caligo</orth>
+      <lemma>caligo#1</lemma>
+</entry>
+<entry>
+      <orth>pulsare</orth>
+      <lemma>pulso</lemma>
+</entry>
+</section>
+
+<section n="Chapter 18">
+<entry>
+      <orth>imminere</orth>
+      <lemma>immineo</lemma>
+</entry>
+<entry>
+      <orth>sentio</orth>
+      <lemma>sentio</lemma>
+</entry>
+<entry>
+      <orth>ut</orth>
+      <lemma>ut</lemma>
+</entry>
+<entry>
+      <orth>incido</orth>
+      <lemma>incido#1</lemma>
+</entry>
+<entry>
+      <orth>augeo</orth>
+      <lemma>augeo</lemma>
+</entry>
+<entry>
+      <orth>consido</orth>
+      <lemma>consido</lemma>
+</entry>
+<entry>
+      <orth>quiesco</orth>
+      <lemma>quiesco</lemma>
+</entry>
+<entry>
+      <orth>oblitus</orth>
+      <lemma>obliviscor</lemma>
+</entry>
+<entry>
+      <orth>solvo</orth>
+      <lemma>solvo</lemma>
+</entry>
+<entry>
+      <orth>ne</orth>
+      <lemma>ne#1</lemma>
+</entry>
+<entry>
+      <orth>turba</orth>
+      <lemma>turba</lemma>
+</entry>
+<entry>
+      <orth>occido</orth>
+      <lemma>occido#2</lemma>
+</entry>
+<entry>
+      <orth>confirmare</orth>
+      <lemma>confirmo</lemma>
+</entry>
+<entry>
+      <orth>hilariter</orth>
+      <lemma>hilaris</lemma>
+</entry>
+<entry>
+      <orth>tenebrae</orth>
+      <lemma>tenebrae</lemma>
+</entry>
+<entry>
+      <orth>sollicitus</orth>
+      <lemma>sollicitus</lemma>
+</entry>
+<entry>
+      <orth>adhuc</orth>
+      <lemma>adhuc</lemma>
+</entry>
+<entry>
+      <orth>supersum</orth>
+      <lemma>supersum</lemma>
+</entry>
+<entry>
+      <orth>sin</orth>
+      <lemma>sin</lemma>
+</entry>
+<entry>
+      <orth>modicus</orth>
+      <lemma>modicus</lemma>
+</entry>
+<entry>
+      <orth>appono</orth>
+      <lemma>appono</lemma>
+</entry>
+<entry>
+      <orth>timor</orth>
+      <lemma>timor</lemma>
+</entry>
+<entry>
+      <orth>appeto</orth>
+      <lemma>appeto#1</lemma>
+</entry>
+<entry>
+      <orth>praeter</orth>
+      <lemma>praeter</lemma>
+</entry>
+<entry>
+      <orth>tabulae</orth>
+      <lemma>tabula</lemma>
+</entry>
+<entry>
+      <orth>argentum</orth>
+      <lemma>argentum</lemma>
+</entry>
+<entry>
+      <orth>colligo</orth>
+      <lemma>colligo#1</lemma>
+</entry>
+<entry>
+      <orth>assiduus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>fulgeo</orth>
+      <lemma>fulgeo</lemma>
+</entry>
+<entry>
+      <orth>lumen</orth>
+      <lemma>lumen</lemma>
+</entry>
+<entry>
+      <orth>luridus</orth>
+      <lemma>luridus</lemma>
+</entry>
+<entry>
+      <orth>pareo</orth>
+      <lemma>pareo</lemma>
+</entry>
+<entry>
+      <orth>saccus</orth>
+      <lemma>saccus</lemma>
+</entry>
+<entry>
+      <orth>nummi</orth>
+      <lemma>nummus</lemma>
+</entry>
+<entry>
+      <orth>faveo</orth>
+      <lemma>faveo</lemma>
+</entry>
+<entry>
+      <orth>antecedo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>patefacio</orth>
+      <lemma>patefacio</lemma>
+</entry>
+<entry>
+      <orth>ancilla</orth>
+      <lemma>ancilla</lemma>
+</entry>
+<entry>
+      <orth>obtero</orth>
+      <lemma>obtero</lemma>
+</entry>
+<entry>
+      <orth>cumulus</orth>
+      <lemma>cumulus</lemma>
+</entry>
+<entry>
+      <orth>obstructus</orth>
+      <lemma>obstruo</lemma>
+</entry>
+<entry>
+      <orth>ruina</orth>
+      <lemma>ruina</lemma>
+</entry>
+<entry>
+      <orth>trepidatio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>compleo</orth>
+      <lemma>compleo</lemma>
+</entry>
+<entry>
+      <orth>pumex</orth>
+      <lemma>pumex</lemma>
+</entry>
+<entry>
+      <orth>mixtus</orth>
+      <lemma>misceo</lemma>
+</entry>
+<entry>
+      <orth>ululatus</orth>
+      <lemma>ululatus</lemma>
+</entry>
+<entry>
+      <orth>quiritatus</orth>
+      <lemma>quiritatus</lemma>
+</entry>
+<entry>
+      <orth>aegre</orth>
+      <lemma>aeger</lemma>
+</entry>
+</section>
+
+<section n="Chapter 19">
+<entry>
+      <orth>longius</orth>
+      <lemma>longus</lemma>
+</entry>
+<entry>
+      <orth>misereor</orth>
+      <lemma>misereor</lemma>
+</entry>
+<entry>
+      <orth>ubique</orth>
+      <lemma>ubique</lemma>
+</entry>
+<entry>
+      <orth>postratus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>umerus</orth>
+      <lemma>umerus</lemma>
+</entry>
+<entry>
+      <orth>permitto</orth>
+      <lemma>permitto</lemma>
+</entry>
+<entry>
+      <orth>reluxit</orth>
+      <lemma>reluceo</lemma>
+</entry>
+<entry>
+      <orth>adventans</orth>
+      <lemma>advento</lemma>
+</entry>
+<entry>
+      <orth>indicium</orth>
+      <lemma>indicium</lemma>
+</entry>
+<entry>
+      <orth>quidem</orth>
+      <lemma>quidem</lemma>
+</entry>
+<entry>
+      <orth>lassitudo</orth>
+      <lemma>lassitudo</lemma>
+</entry>
+<entry>
+      <orth>excutio</orth>
+      <lemma>excutio</lemma>
+</entry>
+<entry>
+      <orth>opertus</orth>
+      <lemma>operio</lemma>
+</entry>
+<entry>
+      <orth>tenuatus</orth>
+      <lemma>tenuo</lemma>
+</entry>
+<entry>
+      <orth>nebula</orth>
+      <lemma>nebula</lemma>
+</entry>
+<entry>
+      <orth>effulgeo</orth>
+      <lemma>effulgeo</lemma>
+</entry>
+<entry>
+      <orth>qualis</orth>
+      <lemma>qualis</lemma>
+</entry>
+<entry>
+      <orth>deficit</orth>
+      <lemma>deficio</lemma>
+</entry>
+<entry>
+      <orth>ploratus</orth>
+      <lemma>ploratus</lemma>
+</entry>
+<entry>
+      <orth>planities</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>nix</orth>
+      <lemma>nix</lemma>
+</entry>
+<entry>
+      <orth>oculus</orth>
+      <lemma>oculus</lemma>
+</entry>
+<entry>
+      <orth>occursare</orth>
+      <lemma>occurso</lemma>
+</entry>
+!prae dolore
+<entry>
+      <orth>vicinus</orth>
+      <lemma>vicinus</lemma>
+</entry>
+<entry>
+      <orth>commodare</orth>
+      <lemma>commodo#2</lemma>
+</entry>
+<entry>
+      <orth>huc</orth>
+      <lemma>huc</lemma>
+</entry>
+<entry>
+      <orth>cisium</orth>
+      <lemma>cisium</lemma>
+</entry>
+<entry>
+      <orth>distribuo</orth>
+      <lemma>distribuo</lemma>
+</entry>
+<entry>
+      <orth>edo</orth>
+      <lemma>edo#1</lemma>
+</entry>
+<entry>
+      <orth>pulvis</orth>
+      <lemma>pulvis</lemma>
+</entry>
+<entry>
+      <orth>appropinquare</orth>
+      <lemma>appropinquo</lemma>
+</entry>
+<entry>
+      <orth>salvus</orth>
+      <lemma>salvus</lemma>
+</entry>
+<entry>
+      <orth>desilio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>desperare</orth>
+      <lemma>despero</lemma>
+</entry>
+<entry>
+      <orth>exitium</orth>
+      <lemma>exitium</lemma>
+</entry>
+<entry>
+      <orth>casus</orth>
+      <lemma>casus#1</lemma>
+</entry>
+</section>
+
+<section n="Chapter 20">
+<entry>
+      <orth>aper</orth>
+      <lemma>aper#1</lemma>
+</entry>
+<entry>
+      <orth>damma</orth>
+      <lemma>damma</lemma>
+</entry>
+<entry>
+      <orth>contemno</orth>
+      <lemma>contemno</lemma>
+</entry>
+<entry>
+      <orth>iaceo</orth>
+      <lemma>jaceo</lemma>
+</entry>
+<entry>
+      <orth>immotus</orth>
+      <lemma>immotus</lemma>
+</entry>
+<entry>
+      <orth>segnitia</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>offensus</orth>
+      <lemma>offendo#1</lemma>
+</entry>
+<entry>
+      <orth>addo</orth>
+      <lemma>addo</lemma>
+</entry>
+<entry>
+      <orth>experiri</orth>
+      <lemma>experior</lemma>
+</entry>
+<entry>
+      <orth>frango</orth>
+      <lemma>frango</lemma>
+</entry>
+<entry>
+      <orth>protinus</orth>
+      <lemma>protinus</lemma>
+</entry>
+<entry>
+      <orth>horreo</orth>
+      <lemma>horreo</lemma>
+</entry>
+<entry>
+      <orth>villus</orth>
+      <lemma>villus</lemma>
+</entry>
+<entry>
+      <orth>intono</orth>
+      <lemma>intono</lemma>
+</entry>
+<entry>
+      <orth>adsultare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>recedere</orth>
+      <lemma>recedo</lemma>
+</entry>
+<entry>
+      <orth>donec</orth>
+      <lemma>donec</lemma>
+</entry>
+<entry>
+      <orth>assidue</orth>
+      <lemma>assiduus#2</lemma>
+</entry>
+<entry>
+      <orth>rotare</orth>
+      <lemma>roto</lemma>
+</entry>
+<entry>
+      <orth>concido</orth>
+      <lemma>concido#1</lemma>
+</entry>
+<entry>
+      <orth>sutrina</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>devolare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>adsuefactus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>sermo</orth>
+      <lemma>sermo</lemma>
+</entry>
+<entry>
+      <orth>nominatim</orth>
+      <lemma>nominatim</lemma>
+</entry>
+<entry>
+      <orth>notus</orth>
+      <lemma>notus</lemma>
+</entry>
+<entry>
+      <orth>manceps</orth>
+      <lemma>manceps</lemma>
+</entry>
+<entry>
+      <orth>invidia</orth>
+      <lemma>invidia</lemma>
+</entry>
+<entry>
+      <orth>plebs</orth>
+      <lemma>plebs</lemma>
+</entry>
+<entry>
+      <orth>consternatio</orth>
+      <lemma>consternatio</lemma>
+</entry>
+<entry>
+      <orth>pello</orth>
+      <lemma>pello</lemma>
+</entry>
+<entry>
+      <orth>funus</orth>
+      <lemma>funus</lemma>
+</entry>
+<entry>
+      <orth>avis</orth>
+      <lemma>avis</lemma>
+</entry>
+<entry>
+      <orth>lectus</orth>
+      <lemma>lectus#2</lemma>
+</entry>
+<entry>
+      <orth>praecedere</orth>
+      <lemma>praecedo</lemma>
+</entry>
+<entry>
+      <orth>tibicen</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>genus</orth>
+      <lemma>genus#1</lemma>
+</entry>
+<entry>
+      <orth>rogus</orth>
+      <lemma>rogus</lemma>
+</entry>
+<entry>
+      <orth>lapis</orth>
+      <lemma>lapis</lemma>
+</entry>
+<entry>
+      <orth>construo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>apis</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>statio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>bombus</orth>
+      <lemma>bombus</lemma>
+</entry>
+<entry>
+      <orth>universae</orth>
+      <lemma>universus</lemma>
+</entry>
+<entry>
+      <orth>praedivinare</orth>
+      <lemma>praedivino</lemma>
+</entry>
+<entry>
+      <orth>continere</orth>
+      <lemma>contineo</lemma>
+</entry>
+<entry>
+      <orth>tecta</orth>
+      <lemma>tectum</lemma>
+</entry>
+<entry>
+      <orth>adulescentia</orth>
+      <lemma>adulescentia</lemma>
+</entry>
+<entry>
+      <orth>senior</orth>
+      <lemma>senex</lemma>
+</entry>
+<entry>
+      <orth>operari</orth>
+      <lemma>opero</lemma>
+</entry>
+<entry>
+      <orth>femur</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>excipere</orth>
+      <lemma>excipio</lemma>
+</entry>
+<entry>
+      <orth>officium</orth>
+      <lemma>officium</lemma>
+</entry>
+<entry>
+      <orth>struo</orth>
+      <lemma>struo</lemma>
+</entry>
+<entry>
+      <orth>polio</orth>
+      <lemma>polio#1</lemma>
+</entry>
+<entry>
+      <orth>suggero</orth>
+      <lemma>suggero</lemma>
+</entry>
+<entry>
+      <orth>separatim</orth>
+      <lemma>separatim</lemma>
+</entry>
+<entry>
+      <orth>vescor</orth>
+      <lemma>vesco</lemma>
+</entry>
+<entry>
+      <orth>inaequalitas</orth>
+      <lemma>inaequalitas</lemma>
+</entry>
+</section>
+
+<section n="Chapter 21">
+<entry>
+      <orth>studeo</orth>
+      <lemma>studeo</lemma>
+</entry>
+<entry>
+      <orth>quia</orth>
+      <lemma>quia</lemma>
+</entry>
+<entry>
+      <orth>quare</orth>
+      <lemma>quare</lemma>
+</entry>
+<entry>
+      <orth>complures</orth>
+      <lemma>complures</lemma>
+</entry>
+<entry>
+      <orth>pudicus</orth>
+      <lemma>pudicus</lemma>
+</entry>
+<entry>
+      <orth>sumptus</orth>
+      <lemma>sumptus#2</lemma>
+</entry>
+<entry>
+      <orth>quantulum</orth>
+      <lemma>quantulus</lemma>
+</entry>
+<entry>
+      <orth>conduco</orth>
+      <lemma>conduco</lemma>
+</entry>
+<entry>
+      <orth>habitatio</orth>
+      <lemma>habitatio</lemma>
+</entry>
+<entry>
+      <orth>viaticum</orth>
+      <lemma>viaticum</lemma>
+</entry>
+<entry>
+      <orth>impendo</orth>
+      <lemma>impendo</lemma>
+</entry>
+<entry>
+      <orth>adicio</orth>
+      <lemma>adicio</lemma>
+</entry>
+<entry>
+      <orth>merces</orth>
+      <lemma>merces#1</lemma>
+</entry>
+<entry>
+      <orth>conferre</orth>
+      <lemma>confero</lemma>
+</entry>
+<entry>
+      <orth>honestus</orth>
+      <lemma>honestus</lemma>
+</entry>
+<entry>
+      <orth>praesto</orth>
+      <lemma>praesto#2</lemma>
+</entry>
+<entry>
+      <orth>nascor</orth>
+      <lemma>nascor</lemma>
+</entry>
+<entry>
+      <orth>infantia</orth>
+      <lemma>infantia</lemma>
+</entry>
+<entry>
+      <orth>solum</orth>
+      <lemma>solum#1</lemma>
+</entry>
+<entry>
+      <orth>frequentare</orth>
+      <lemma>frequento</lemma>
+</entry>
+<entry>
+      <orth>consuesco</orth>
+      <lemma>consuesco</lemma>
+</entry>
+<entry>
+      <orth>tumultus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>turbulentus</orth>
+      <lemma>turbulentus</lemma>
+</entry>
+<entry>
+      <orth>dolere</orth>
+      <lemma>doleo</lemma>
+</entry>
+<entry>
+      <orth>noctu</orth>
+      <lemma>nox</lemma>
+</entry>
+<entry>
+      <orth>eum</orth>
+      <lemma>is</lemma>
+</entry>
+<entry>
+      <orth>adhuc</orth>
+      <lemma>adhuc</lemma>
+</entry>
+<entry>
+      <orth>cristatus</orth>
+      <lemma>cristatus</lemma>
+</entry>
+<entry>
+      <orth>gallus</orth>
+      <lemma>gallus#1</lemma>
+</entry>
+<entry>
+      <orth>causidicus</orth>
+      <lemma>causidicus</lemma>
+</entry>
+<entry>
+      <orth>incus</orth>
+      <lemma>incus</lemma>
+</entry>
+<entry>
+      <orth>tundere</orth>
+      <lemma>tundo</lemma>
+</entry>
+<entry>
+      <orth>cohibere</orth>
+      <lemma>cohibeo</lemma>
+</entry>
+<entry>
+      <orth>sapio</orth>
+      <lemma>sapio</lemma>
+</entry>
+<entry>
+      <orth>morbus</orth>
+      <lemma>morbus</lemma>
+</entry>
+<entry>
+      <orth>incidere</orth>
+      <lemma>incido#1</lemma>
+</entry>
+<entry>
+      <orth>convenire</orth>
+      <lemma>convenio</lemma>
+</entry>
+<entry>
+      <orth>opera</orth>
+      <lemma>opera</lemma>
+</entry>
+</section>
+
+<section n="Chapter 22">
+<entry>
+      <orth>expendo</orth>
+      <lemma>expendo</lemma>
+</entry>
+<entry>
+      <orth>repente</orth>
+      <lemma>repens#2</lemma>
+</entry>
+<entry>
+      <orth>par</orth>
+      <lemma>par</lemma>
+</entry>
+<entry>
+      <orth>gravitas</orth>
+      <lemma>gravitas</lemma>
+</entry>
+<entry>
+      <orth>error</orth>
+      <lemma>error</lemma>
+</entry>
+<entry>
+      <orth>indulgeo</orth>
+      <lemma>indulgeo</lemma>
+</entry>
+<entry>
+      <orth>severitas</orth>
+      <lemma>severitas</lemma>
+</entry>
+<entry>
+      <orth>exemplum</orth>
+      <lemma>exemplum</lemma>
+</entry>
+<entry>
+      <orth>admonitus</orth>
+      <lemma>admoneo</lemma>
+</entry>
+<entry>
+      <orth>tractare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>evenire</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>venatio</orth>
+      <lemma>venatio</lemma>
+</entry>
+<entry>
+      <orth>inertia</orth>
+      <lemma>inertia</lemma>
+</entry>
+<entry>
+      <orth>quies</orth>
+      <lemma>quies#1</lemma>
+</entry>
+<entry>
+      <orth>omitto</orth>
+      <lemma>omitto</lemma>
+</entry>
+<entry>
+      <orth>venabulum</orth>
+      <lemma>venabulum</lemma>
+</entry>
+<entry>
+      <orth>lancea</orth>
+      <lemma>lancea</lemma>
+</entry>
+<entry>
+      <orth>vacuus</orth>
+      <lemma>vacuus</lemma>
+</entry>
+<entry>
+      <orth>plenus</orth>
+      <lemma>plenus</lemma>
+</entry>
+<entry>
+      <orth>contemno</orth>
+      <lemma>contemno</lemma>
+</entry>
+<entry>
+      <orth>agitatio</orth>
+      <lemma>agitatio</lemma>
+</entry>
+<entry>
+      <orth>motus</orth>
+      <lemma>motus#2</lemma>
+</entry>
+<entry>
+      <orth>solitudo</orth>
+      <lemma>solitudo</lemma>
+</entry>
+<entry>
+      <orth>cogitatio</orth>
+      <lemma>cogitatio</lemma>
+</entry>
+<entry>
+      <orth>incitare</orth>
+      <lemma>incito</lemma>
+</entry>
+<entry>
+      <orth>probare</orth>
+      <lemma>probo</lemma>
+</entry>
+<entry>
+      <orth>venor</orth>
+      <lemma>venor</lemma>
+</entry>
+<entry>
+      <orth>irritare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>ignosco</orth>
+      <lemma>ignosco</lemma>
+</entry>
+<entry>
+      <orth>sanus</orth>
+      <lemma>sanus</lemma>
+</entry>
+<entry>
+      <orth>praesertim</orth>
+      <lemma>praesertim</lemma>
+</entry>
+<entry>
+      <orth>opinor</orth>
+      <lemma>opinor</lemma>
+</entry>
+<entry>
+      <orth>mollis</orth>
+      <lemma>mollis</lemma>
+</entry>
+<entry>
+      <orth>deditus</orth>
+      <lemma>dedo</lemma>
+</entry>
+<entry>
+      <orth>sententia</orth>
+      <lemma>sententia</lemma>
+</entry>
+<entry>
+      <orth>inanis</orth>
+      <lemma>inanis</lemma>
+</entry>
+<entry>
+      <orth>semel</orth>
+      <lemma>semel</lemma>
+</entry>
+<entry>
+      <orth>imitari</orth>
+      <lemma>imitor</lemma>
+</entry>
+<entry>
+      <orth>identidem</orth>
+      <lemma>identidem</lemma>
+</entry>
+<entry>
+      <orth>currus</orth>
+      <lemma>currus</lemma>
+</entry>
+<entry>
+      <orth>insisto</orth>
+      <lemma>insisto</lemma>
+</entry>
+<entry>
+      <orth>velocitas</orth>
+      <lemma>velocitas</lemma>
+</entry>
+<entry>
+      <orth>pannus</orth>
+      <lemma>pannus</lemma>
+</entry>
+<entry>
+      <orth>favor</orth>
+      <lemma>favor</lemma>
+</entry>
+<entry>
+      <orth>agitator</orth>
+      <lemma>agitator</lemma>
+</entry>
+<entry>
+      <orth>clamitare</orth>
+      <lemma>clamito</lemma>
+</entry>
+<entry>
+      <orth>prasinus</orth>
+      <lemma>prasinus</lemma>
+</entry>
+<entry>
+      <orth>frontem</orth>
+      <lemma>frons#2</lemma>
+</entry>
+<entry>
+      <orth>contrahere</orth>
+      <lemma>contraho</lemma>
+</entry>
+<entry>
+      <orth>venetus</orth>
+      <lemma></lemma>
+</entry>
+</section>
+
+<section n="Chapter 23">
+<entry>
+      <orth>proscribo</orth>
+      <lemma>proscribo</lemma>
+</entry>
+<entry>
+      <orth>lateo</orth>
+      <lemma>lateo</lemma>
+</entry>
+<entry>
+      <orth>latebrae</orth>
+      <lemma>latebra</lemma>
+</entry>
+<entry>
+      <orth>odoror</orth>
+      <lemma>odoror</lemma>
+</entry>
+<entry>
+      <orth>torqueo</orth>
+      <lemma>torqueo</lemma>
+</entry>
+<entry>
+      <orth>egregius</orth>
+      <lemma>egregius</lemma>
+</entry>
+<entry>
+      <orth>ulterius</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>cruciare</orth>
+      <lemma>crucio</lemma>
+</entry>
+<entry>
+      <orth>iugulum</orth>
+      <lemma>jugulum</lemma>
+</entry>
+<entry>
+      <orth>obicio</orth>
+      <lemma>obicio</lemma>
+</entry>
+<entry>
+      <orth>dinosco</orth>
+      <lemma>dinosco</lemma>
+</entry>
+<entry>
+      <orth>constans</orth>
+      <lemma>consto</lemma>
+</entry>
+<entry>
+      <orth>fides</orth>
+      <lemma>fides#1</lemma>
+</entry>
+<entry>
+      <orth>misericordia</orth>
+      <lemma>misericordia</lemma>
+</entry>
+<entry>
+      <orth>quaestio</orth>
+      <lemma>quaestio</lemma>
+</entry>
+<entry>
+      <orth>saevitia</orth>
+      <lemma>saevitia</lemma>
+</entry>
+<entry>
+      <orth>domesticus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>praeda</orth>
+      <lemma>praeda</lemma>
+</entry>
+<entry>
+      <orth>occupatus</orth>
+      <lemma>occupo</lemma>
+</entry>
+<entry>
+      <orth>dissimulare</orth>
+      <lemma>dissimulo</lemma>
+</entry>
+<entry>
+      <orth>subducere</orth>
+      <lemma>subduco</lemma>
+</entry>
+<entry>
+      <orth>furtivus</orth>
+      <lemma>furtivus</lemma>
+</entry>
+<entry>
+      <orth>egressus</orth>
+      <lemma>egressus#2</lemma>
+</entry>
+<entry>
+      <orth>inexpiabilis</orth>
+      <lemma>inexpiabilis</lemma>
+</entry>
+<entry>
+      <orth>nota</orth>
+      <lemma>nota</lemma>
+</entry>
+<entry>
+      <orth>inuro</orth>
+      <lemma>inuro</lemma>
+</entry>
+<entry>
+      <orth>animadverto</orth>
+      <lemma>animadverto</lemma>
+</entry>
+<entry>
+      <orth>vestigium</orth>
+      <lemma>vestigium</lemma>
+</entry>
+<entry>
+      <orth>voluntarius</orth>
+      <lemma>voluntarius</lemma>
+</entry>
+<entry>
+      <orth>cupidus</orth>
+      <lemma>cupidus</lemma>
+</entry>
+<entry>
+      <orth>sanguis</orth>
+      <lemma>sanguis</lemma>
+</entry>
+<entry>
+      <orth>superiacio</orth>
+      <lemma>superjacio</lemma>
+</entry>
+<entry>
+      <orth>crudelitas</orth>
+      <lemma>crudelitas</lemma>
+</entry>
+<entry>
+      <orth>poenas</orth>
+      <lemma>poena</lemma>
+</entry>
+<entry>
+      <orth>atrox</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>superbus</orth>
+      <lemma>superbus</lemma>
+</entry>
+<entry>
+      <orth>saevus</orth>
+      <lemma>saevus</lemma>
+</entry>
+<entry>
+      <orth>memini</orth>
+      <lemma>memini</lemma>
+</entry>
+<entry>
+      <orth>fauces</orth>
+      <lemma>fauces</lemma>
+</entry>
+<entry>
+      <orth>invado</orth>
+      <lemma>invado</lemma>
+</entry>
+<entry>
+      <orth>venter</orth>
+      <lemma>venter</lemma>
+</entry>
+<entry>
+      <orth>contundo</orth>
+      <lemma>contundo</lemma>
+</entry>
+<entry>
+      <orth>exanimis exanimis</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>fervens</orth>
+      <lemma>ferveo</lemma>
+</entry>
+<entry>
+      <orth>sentire</orth>
+      <lemma>sentio</lemma>
+</entry>
+<entry>
+      <orth>effero</orth>
+      <lemma>effero#1</lemma>
+</entry>
+<entry>
+      <orth>excipio</orth>
+      <lemma>excipio</lemma>
+</entry>
+<entry>
+      <orth>simulare</orth>
+      <lemma>simulo</lemma>
+</entry>
+<entry>
+      <orth>recreare</orth>
+      <lemma>recreo</lemma>
+</entry>
+<entry>
+      <orth>demonstrare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>diffugere</orth>
+      <lemma>diffugio</lemma>
+</entry>
+<entry>
+      <orth>focilare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>ultio</orth>
+      <lemma>ultio</lemma>
+</entry>
+@Leson 24
+<entry>
+      <orth>infamis</orth>
+      <lemma>infamis</lemma>
+</entry>
+<entry>
+      <orth>effigies</orth>
+      <lemma>effigies</lemma>
+</entry>
+<entry>
+      <orth>crus</orth>
+      <lemma>crus</lemma>
+</entry>
+<entry>
+      <orth>compes</orth>
+      <lemma>compes#1</lemma>
+</entry>
+<entry>
+      <orth>gerere</orth>
+      <lemma>gero#1</lemma>
+</entry>
+<entry>
+      <orth>quatio</orth>
+      <lemma>quatio</lemma>
+</entry>
+<entry>
+      <orth>tristis</orth>
+      <lemma>tristis</lemma>
+</entry>
+<entry>
+      <orth>metus</orth>
+      <lemma>metus</lemma>
+</entry>
+<entry>
+      <orth>desero</orth>
+      <lemma>desero#2</lemma>
+</entry>
+<entry>
+      <orth>monstrum</orth>
+      <lemma>monstrum</lemma>
+</entry>
+<entry>
+      <orth>titulus</orth>
+      <lemma>titulus</lemma>
+</entry>
+<entry>
+      <orth>intendo</orth>
+      <lemma>intendo</lemma>
+</entry>
+<entry>
+      <orth>mens</orth>
+      <lemma>mens</lemma>
+</entry>
+<entry>
+      <orth>inanis</orth>
+      <lemma>inanis</lemma>
+</entry>
+<entry>
+      <orth>fingo</orth>
+      <lemma>fingo</lemma>
+</entry>
+<entry>
+      <orth>initium</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>ferrum</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>remittere</orth>
+      <lemma>remitto</lemma>
+</entry>
+<entry>
+      <orth>offirmare</orth>
+      <lemma>offirmo</lemma>
+</entry>
+<entry>
+      <orth>crebresco</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>intra</orth>
+      <lemma>intra</lemma>
+</entry>
+<entry>
+      <orth>limen</orth>
+      <lemma>limen</lemma>
+</entry>
+<entry>
+      <orth>innuo</orth>
+      <lemma>innuo</lemma>
+</entry>
+<entry>
+      <orth>digitus</orth>
+      <lemma>digitus#1</lemma>
+</entry>
+<entry>
+      <orth>significare</orth>
+      <lemma>significo</lemma>
+</entry>
+<entry>
+      <orth>incumbere</orth>
+      <lemma>incumbo</lemma>
+</entry>
+<entry>
+      <orth>insonare</orth>
+      <lemma>insono</lemma>
+</entry>
+<entry>
+      <orth>lentus</orth>
+      <lemma>lentus</lemma>
+</entry>
+<entry>
+      <orth>gradus</orth>
+      <lemma>gradus</lemma>
+</entry>
+<entry>
+      <orth>deflecto</orth>
+      <lemma>deflecto</lemma>
+</entry>
+<entry>
+      <orth>area</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>folium</orth>
+      <lemma>folium</lemma>
+</entry>
+<entry>
+      <orth>indicare</orth>
+      <lemma>indico#1</lemma>
+</entry>
+<entry>
+      <orth>effodio</orth>
+      <lemma>effodio</lemma>
+</entry>
+<entry>
+      <orth>os</orth>
+      <lemma>os#2</lemma>
+</entry>
+<entry>
+      <orth>publice</orth>
+      <lemma>publicus</lemma>
+</entry>
+<entry>
+      <orth>sepelio</orth>
+      <lemma>sepelio</lemma>
+</entry>
+</section>
+
+<section n="Chapter 25">
+<entry>
+      <orth>coepi</orth>
+      <lemma>coepio</lemma>
+</entry>
+<entry>
+      <orth>negare</orth>
+      <lemma>nego</lemma>
+</entry>
+<entry>
+      <orth>semis</orth>
+      <lemma>semis</lemma>
+</entry>
+<entry>
+      <orth>fallo</orth>
+      <lemma>fallo</lemma>
+</entry>
+<entry>
+      <orth>contubernalis</orth>
+      <lemma>contubernalis</lemma>
+</entry>
+<entry>
+      <orth>nanciscor</orth>
+      <lemma>nanciscor</lemma>
+</entry>
+<entry>
+      <orth>occasio</orth>
+      <lemma>occasio</lemma>
+</entry>
+<entry>
+      <orth>hospes</orth>
+      <lemma>hospes</lemma>
+</entry>
+<entry>
+      <orth>miliarium</orth>
+      <lemma>miliarium</lemma>
+</entry>
+<entry>
+      <orth>luna</orth>
+      <lemma>luna#1</lemma>
+</entry>
+<entry>
+      <orth>luceo</orth>
+      <lemma>luceo</lemma>
+</entry>
+<entry>
+      <orth>monumentum</orth>
+      <lemma>monumentum</lemma>
+</entry>
+<entry>
+      <orth>exuo</orth>
+      <lemma>exuo</lemma>
+</entry>
+<entry>
+      <orth>secundum</orth>
+      <lemma>secundum</lemma>
+</entry>
+<entry>
+      <orth>pono</orth>
+      <lemma>pono</lemma>
+</entry>
+<entry>
+      <orth>lupus</orth>
+      <lemma>lupus#1</lemma>
+</entry>
+<entry>
+      <orth>ululare</orth>
+      <lemma>ululo</lemma>
+</entry>
+<entry>
+      <orth>accedo</orth>
+      <lemma>accedo</lemma>
+</entry>
+<entry>
+      <orth>lapideus</orth>
+      <lemma>lapideus</lemma>
+</entry>
+<entry>
+      <orth>stringo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>donec</orth>
+      <lemma>donec</lemma>
+</entry>
+<entry>
+      <orth>sudor</orth>
+      <lemma>sudor</lemma>
+</entry>
+<entry>
+      <orth>artus</orth>
+      <lemma>artus#2</lemma>
+</entry>
+<entry>
+      <orth>fluo</orth>
+      <lemma>fluo</lemma>
+</entry>
+<entry>
+      <orth>saltem</orth>
+      <lemma>saltem</lemma>
+</entry>
+<entry>
+      <orth>pecus</orth>
+      <lemma>pecus#2</lemma>
+</entry>
+<entry>
+      <orth>collum</orth>
+      <lemma>collum</lemma>
+</entry>
+<entry>
+      <orth>traicio</orth>
+      <lemma>traicio</lemma>
+</entry>
+<entry>
+      <orth>operio</orth>
+      <lemma>operio</lemma>
+</entry>
+<entry>
+      <orth>lectulus</orth>
+      <lemma>lectulus</lemma>
+</entry>
+<entry>
+      <orth>medicus</orth>
+      <lemma>medicus</lemma>
+</entry>
+<entry>
+      <orth>versipellis</orth>
+      <lemma>versipellis</lemma>
+</entry>
+<entry>
+      <orth>gustare</orth>
+      <lemma>gusto</lemma>
+</entry>
+</section>
+
+<section n="Chapter 26">
+<entry>
+      <orth>offendo</orth>
+      <lemma>offendo#1</lemma>
+</entry>
+<entry>
+      <orth>incautus</orth>
+      <lemma>incautus</lemma>
+</entry>
+<entry>
+      <orth>imprudens</orth>
+      <lemma>imprudens</lemma>
+</entry>
+<entry>
+      <orth>praeceps</orth>
+      <lemma>praeceps</lemma>
+</entry>
+<entry>
+      <orth>brutus</orth>
+      <lemma>brutus#1</lemma>
+</entry>
+<entry>
+      <orth>pello</orth>
+      <lemma>pello</lemma>
+</entry>
+<entry>
+      <orth>domesticus</orth>
+      <lemma>domesticus</lemma>
+</entry>
+<entry>
+      <orth>detineo</orth>
+      <lemma>detineo</lemma>
+</entry>
+<entry>
+      <orth>pallidus</orth>
+      <lemma>pallidus</lemma>
+</entry>
+<entry>
+      <orth>vultus</orth>
+      <lemma>vultus</lemma>
+</entry>
+<entry>
+      <orth>aeger</orth>
+      <lemma>aeger</lemma>
+</entry>
+<entry>
+      <orth>pervado</orth>
+      <lemma>pervado</lemma>
+</entry>
+<entry>
+      <orth>ascribo</orth>
+      <lemma>ascribo</lemma>
+</entry>
+<entry>
+      <orth>contendere</orth>
+      <lemma>contendo</lemma>
+</entry>
+<entry>
+      <orth>dimittere</orth>
+      <lemma>dimitto</lemma>
+</entry>
+<entry>
+      <orth>iugulare</orth>
+      <lemma>jugulo</lemma>
+</entry>
+<entry>
+      <orth>pollex</orth>
+      <lemma>pollex#1</lemma>
+</entry>
+<entry>
+      <orth>destinare</orth>
+      <lemma>destino</lemma>
+</entry>
+<entry>
+      <orth>percutio</orth>
+      <lemma>percutio</lemma>
+</entry>
+<entry>
+      <orth>somnium</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>ignotus</orth>
+      <lemma>ignotus#2</lemma>
+</entry>
+<entry>
+      <orth>humare</orth>
+      <lemma>humo</lemma>
+</entry>
+<entry>
+      <orth>conscendere</orth>
+      <lemma>conscendo</lemma>
+</entry>
+<entry>
+      <orth>naufragium</orth>
+      <lemma>naufragium</lemma>
+</entry>
+<entry>
+      <orth>deverto</orth>
+      <lemma>deverto</lemma>
+</entry>
+<entry>
+      <orth>hospes</orth>
+      <lemma>hospes</lemma>
+</entry>
+<entry>
+      <orth>hospitium</orth>
+      <lemma>hospitium</lemma>
+</entry>
+<entry>
+      <orth>orare</orth>
+      <lemma>oro</lemma>
+</entry>
+<entry>
+      <orth>subvenio</orth>
+      <lemma>subvenio</lemma>
+</entry>
+<entry>
+      <orth>recumbo</orth>
+      <lemma>recumbo</lemma>
+</entry>
+<entry>
+      <orth>quoniam</orth>
+      <lemma>quoniam</lemma>
+</entry>
+<entry>
+      <orth>inultus</orth>
+      <lemma>inultus</lemma>
+</entry>
+<entry>
+      <orth>patior</orth>
+      <lemma>patior</lemma>
+</entry>
+<entry>
+      <orth>supra</orth>
+      <lemma>supra</lemma>
+</entry>
+<entry>
+      <orth>faenum</orth>
+      <lemma>faenum</lemma>
+</entry>
+<entry>
+      <orth>priusquam</orth>
+      <lemma>prior</lemma>
+</entry>
+<entry>
+      <orth>oppidum</orth>
+      <lemma>oppidum</lemma>
+</entry>
+<entry>
+      <orth>commoveo</orth>
+      <lemma>commoveo</lemma>
+</entry>
+<entry>
+      <orth>bubulcus</orth>
+      <lemma>bubulcus#1</lemma>
+</entry>
+<entry>
+      <orth>eruo</orth>
+      <lemma>eruo</lemma>
+</entry>
+<entry>
+      <orth>patefacere</orth>
+      <lemma>patefacio</lemma>
+</entry>
+</section>
+
+<section n="Chapter 27">
+<entry>
+      <orth>cunctor</orth>
+      <lemma>cunctor</lemma>
+</entry>
+<entry>
+      <orth>altitudo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>aquila</orth>
+      <lemma>aquila#1</lemma>
+</entry>
+<entry>
+      <orth>contestor</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>prodo</orth>
+      <lemma>prodo</lemma>
+</entry>
+<entry>
+      <orth>certe</orth>
+      <lemma>certus</lemma>
+</entry>
+<entry>
+      <orth>praesto</orth>
+      <lemma>praesto#2</lemma>
+</entry>
+<entry>
+      <orth>cohortor</orth>
+      <lemma>cohortor</lemma>
+</entry>
+<entry>
+      <orth>dedecus</orth>
+      <lemma>dedecus</lemma>
+</entry>
+<entry>
+      <orth>admittere</orth>
+      <lemma>admitto</lemma>
+</entry>
+<entry>
+      <orth>subsequor</orth>
+      <lemma>subsequor</lemma>
+</entry>
+<entry>
+      <orth>maritimus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>efficio</orth>
+      <lemma>efficio</lemma>
+</entry>
+<entry>
+      <orth>consuesco</orth>
+      <lemma>consuesco</lemma>
+</entry>
+<entry>
+      <orth>incognitus</orth>
+      <lemma>incognitus</lemma>
+</entry>
+<entry>
+      <orth>aridum</orth>
+      <lemma>aridus</lemma>
+</entry>
+<entry>
+      <orth>subducere</orth>
+      <lemma>subduco</lemma>
+</entry>
+<entry>
+      <orth>ancora</orth>
+      <lemma>ancora</lemma>
+</entry>
+<entry>
+      <orth>deligare</orth>
+      <lemma>deligo#2</lemma>
+</entry>
+<entry>
+      <orth>afflictare</orth>
+      <lemma>afflicto</lemma>
+</entry>
+<entry>
+      <orth>frango</orth>
+      <lemma>frango</lemma>
+</entry>
+<entry>
+      <orth>funis</orth>
+      <lemma>funis</lemma>
+</entry>
+<entry>
+      <orth>armamenta</orth>
+      <lemma>armamenta</lemma>
+</entry>
+<entry>
+      <orth>amitto</orth>
+      <lemma>amitto</lemma>
+</entry>
+<entry>
+      <orth>inutilis</orth>
+      <lemma>inutilis</lemma>
+</entry>
+<entry>
+      <orth>perturbatio</orth>
+      <lemma>perturbatio</lemma>
+</entry>
+<entry>
+      <orth>deerant</orth>
+      <lemma>desum</lemma>
+</entry>
+<entry>
+      <orth>usui</orth>
+      <lemma>usus#2</lemma>
+</entry>
+<entry>
+      <orth>hiemare</orth>
+      <lemma>hiemo</lemma>
+</entry>
+<entry>
+      <orth>provideo</orth>
+      <lemma>provideo</lemma>
+</entry>
+<entry>
+      <orth>vitrum</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>gestus</orth>
+      <lemma>gestus#2</lemma>
+</entry>
+<entry>
+      <orth>defigo</orth>
+      <lemma>defigo</lemma>
+</entry>
+<entry>
+      <orth>demitto</orth>
+      <lemma>demitto</lemma>
+</entry>
+<entry>
+      <orth>coniurare</orth>
+      <lemma>conjuro</lemma>
+</entry>
+<entry>
+      <orth>adduco</orth>
+      <lemma>adduco</lemma>
+</entry>
+<entry>
+      <orth>rebellio</orth>
+      <lemma>rebellio#1</lemma>
+</entry>
+<entry>
+      <orth>prohibeo</orth>
+      <lemma>prohibeo</lemma>
+</entry>
+<entry>
+      <orth>producere</orth>
+      <lemma>produco</lemma>
+</entry>
+<entry>
+      <orth>reditus</orth>
+      <lemma>redeo</lemma>
+</entry>
+<entry>
+      <orth>intercludo</orth>
+      <lemma>intercludo</lemma>
+</entry>
+<entry>
+      <orth>adeo</orth>
+      <lemma>adeo#1</lemma>
+</entry>
+<entry>
+      <orth>repello</orth>
+      <lemma>repello</lemma>
+</entry>
+<entry>
+      <orth>sustineo</orth>
+      <lemma>sustineo</lemma>
+</entry>
+<entry>
+      <orth>vastare</orth>
+      <lemma>vasto</lemma>
+</entry>
+<entry>
+      <orth>diripio</orth>
+      <lemma>diripio</lemma>
+</entry>
+<entry>
+      <orth>conferre</orth>
+      <lemma>confero</lemma>
+</entry>
+<entry>
+      <orth>beneficium</orth>
+      <lemma>beneficium</lemma>
+</entry>
+<entry>
+      <orth>fecundus</orth>
+      <lemma>fecundus</lemma>
+</entry>
+<entry>
+      <orth>utor</orth>
+      <lemma>utor</lemma>
+</entry>
+<entry>
+      <orth>maiores</orth>
+      <lemma>majores</lemma>
+</entry>
+</section>
+
+<section n="Chapter 28">
+<entry>
+      <orth>utilis</orth>
+      <lemma>utilis</lemma>
+</entry>
+<entry>
+      <orth>ostentare</orth>
+      <lemma>ostento</lemma>
+</entry>
+<entry>
+      <orth>tumultus</orth>
+      <lemma>tumultus</lemma>
+</entry>
+<entry>
+      <orth>transfuga</orth>
+      <lemma>transfuga</lemma>
+</entry>
+<entry>
+      <orth>transvehor</orth>
+      <lemma>transveho</lemma>
+</entry>
+<entry>
+      <orth>recipere</orth>
+      <lemma>recipio</lemma>
+</entry>
+<entry>
+      <orth>ultra</orth>
+      <lemma>ultra</lemma>
+</entry>
+<entry>
+      <orth>adicio</orth>
+      <lemma>adicio</lemma>
+</entry>
+<entry>
+      <orth>impono</orth>
+      <lemma>impono</lemma>
+</entry>
+<entry>
+      <orth>indomitus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>triquetrus</orth>
+      <lemma>triquetrus</lemma>
+</entry>
+<entry>
+      <orth>planus</orth>
+      <lemma>planus#1</lemma>
+</entry>
+<entry>
+      <orth>benigne</orth>
+      <lemma>benignus</lemma>
+</entry>
+<entry>
+      <orth>alo</orth>
+      <lemma>alo</lemma>
+</entry>
+<entry>
+      <orth>nemus</orth>
+      <lemma>nemus</lemma>
+</entry>
+<entry>
+      <orth>saltus</orth>
+      <lemma>saltus#2</lemma>
+</entry>
+<entry>
+      <orth>praegrandis</orth>
+      <lemma>praegrandis</lemma>
+</entry>
+<entry>
+      <orth>motus</orth>
+      <lemma>motus#2</lemma>
+</entry>
+<entry>
+      <orth>retro</orth>
+      <lemma>retro</lemma>
+</entry>
+<entry>
+      <orth>pelagus</orth>
+      <lemma>pelagus</lemma>
+</entry>
+<entry>
+      <orth>fluo</orth>
+      <lemma>fluo</lemma>
+</entry>
+<entry>
+      <orth>gemma</orth>
+      <lemma>gemma</lemma>
+</entry>
+<entry>
+      <orth>margarita</orth>
+      <lemma>margarita</lemma>
+</entry>
+<entry>
+      <orth>generare</orth>
+      <lemma>genero</lemma>
+</entry>
+<entry>
+      <orth>incultus</orth>
+      <lemma>incultus#1</lemma>
+</entry>
+<entry>
+      <orth>continens</orth>
+      <lemma>continens</lemma>
+</entry>
+<entry>
+      <orth>opes</orth>
+      <lemma>ops#1</lemma>
+</entry>
+<entry>
+      <orth>ignarus</orth>
+      <lemma>ignarus</lemma>
+</entry>
+<entry>
+      <orth>fines</orth>
+      <lemma>finis</lemma>
+</entry>
+<entry>
+      <orth>bigae</orth>
+      <lemma>bigae</lemma>
+</entry>
+<entry>
+      <orth>armatus</orth>
+      <lemma>armo</lemma>
+</entry>
+<entry>
+      <orth>falcatus</orth>
+      <lemma>falcatus</lemma>
+</entry>
+<entry>
+      <orth>axis</orth>
+      <lemma>axis</lemma>
+</entry>
+</section>
+
+<section n="Chapter 29">
+<entry>
+      <orth>calidus</orth>
+      <lemma>calidus</lemma>
+</entry>
+!praefectus portus	praefectus	praefectus#1	praeficio
+<entry>
+      <orth>insolitus</orth>
+      <lemma>insolitus</lemma>
+</entry>
+<entry>
+      <orth>pretiosus</orth>
+      <lemma>pretiosus</lemma>
+</entry>
+<entry>
+      <orth>caeruleus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>dulcis</orth>
+      <lemma>dulcis</lemma>
+</entry>
+<entry>
+      <orth>unguentum</orth>
+      <lemma>unguentum</lemma>
+</entry>
+<entry>
+      <orth>suavis</orth>
+      <lemma>suavis</lemma>
+</entry>
+<entry>
+      <orth>olfacio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>nasus</orth>
+      <lemma>nasus#1</lemma>
+</entry>
+<entry>
+      <orth>luxuria</orth>
+      <lemma>luxuria</lemma>
+</entry>
+<entry>
+      <orth>regia</orth>
+      <lemma>regia</lemma>
+</entry>
+<entry>
+      <orth>navigatio</orth>
+      <lemma>navigatio</lemma>
+</entry>
+<entry>
+      <orth>gloriosus</orth>
+      <lemma>gloriosus</lemma>
+</entry>
+<entry>
+      <orth>splendidus</orth>
+      <lemma>splendidus</lemma>
+</entry>
+<entry>
+      <orth>quidem</orth>
+      <lemma>quidem</lemma>
+</entry>
+<entry>
+      <orth>instructus</orth>
+      <lemma>instruo</lemma>
+</entry>
+<entry>
+      <orth>pratum</orth>
+      <lemma>pratum</lemma>
+</entry>
+<entry>
+      <orth>distinctus</orth>
+      <lemma>distinguo</lemma>
+</entry>
+<entry>
+      <orth>gloriari</orth>
+      <lemma>glorior</lemma>
+</entry>
+<entry>
+      <orth>concipere</orth>
+      <lemma>concipio</lemma>
+</entry>
+<entry>
+      <orth>cista</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>cachinnus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>robustus</orth>
+      <lemma>robustus</lemma>
+</entry>
+<entry>
+      <orth>fuscus</orth>
+      <lemma>fuscus#1</lemma>
+</entry>
+<entry>
+      <orth>capilli</orth>
+      <lemma>capillus</lemma>
+</entry>
+<entry>
+      <orth>revertor</orth>
+      <lemma>revorto</lemma>
+</entry>
+<entry>
+      <orth>dispensator</orth>
+      <lemma>dispensator</lemma>
+</entry>
+<entry>
+      <orth>opportune</orth>
+      <lemma>opportunus</lemma>
+</entry>
+<entry>
+      <orth>studium</orth>
+      <lemma>studium</lemma>
+</entry>
+<entry>
+      <orth>invideo</orth>
+      <lemma>invideo</lemma>
+</entry>
+<entry>
+      <orth>epulae</orth>
+      <lemma>epulae</lemma>
+</entry>
+<entry>
+      <orth>blandus</orth>
+      <lemma>blandus</lemma>
+</entry>
+<entry>
+      <orth>ius</orth>
+      <lemma>jus</lemma>
+</entry>
+<entry>
+      <orth>modius</orth>
+      <lemma>modius</lemma>
+</entry>
+<entry>
+      <orth>maturus</orth>
+      <lemma>maturus</lemma>
+</entry>
+<entry>
+      <orth>excogitare</orth>
+      <lemma>excogito</lemma>
+</entry>
+<entry>
+      <orth>maturesco</orth>
+      <lemma>maturesco</lemma>
+</entry>
+</section>
+
+<section n="Chapter 30">
+<entry>
+      <orth>differo</orth>
+      <lemma>differo</lemma>
+</entry>
+<entry>
+      <orth>servitus</orth>
+      <lemma>servitus</lemma>
+</entry>
+<entry>
+      <orth>usus</orth>
+      <lemma>usus#2</lemma>
+</entry>
+<entry>
+      <orth>contumelia</orth>
+      <lemma>contumelia</lemma>
+</entry>
+<entry>
+      <orth>iniuria</orth>
+      <lemma>injuria</lemma>
+</entry>
+<entry>
+      <orth>privare</orth>
+      <lemma>privo</lemma>
+</entry>
+<entry>
+      <orth>superesse</orth>
+      <lemma>supersum</lemma>
+</entry>
+<entry>
+      <orth>impono</orth>
+      <lemma>impono</lemma>
+</entry>
+<entry>
+      <orth>vectigal</orth>
+      <lemma>vectigal</lemma>
+</entry>
+<entry>
+      <orth>retinere</orth>
+      <lemma>retineo</lemma>
+</entry>
+<entry>
+      <orth>affero</orth>
+      <lemma>affero</lemma>
+</entry>
+<entry>
+      <orth>malum</orth>
+      <lemma>malus</lemma>
+</entry>
+<entry>
+      <orth>admonere</orth>
+      <lemma>admoneo</lemma>
+</entry>
+<entry>
+      <orth>superior</orth>
+      <lemma>superus</lemma>
+</entry>
+<entry>
+      <orth>infestus</orth>
+      <lemma>infestus</lemma>
+</entry>
+<entry>
+      <orth>lepus</orth>
+      <lemma>lepus</lemma>
+</entry>
+<entry>
+      <orth>vulpes</orth>
+      <lemma>vulpis</lemma>
+</entry>
+<entry>
+      <orth>genus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>regius</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>spargo</orth>
+      <lemma>spargo#1</lemma>
+</entry>
+<entry>
+      <orth>castellum</orth>
+      <lemma>castellum</lemma>
+</entry>
+<entry>
+      <orth>consector</orth>
+      <lemma>consector</lemma>
+</entry>
+<entry>
+      <orth>expugnare</orth>
+      <lemma>expugno</lemma>
+</entry>
+<entry>
+      <orth>praesidium</orth>
+      <lemma>praesidium</lemma>
+</entry>
+<entry>
+      <orth>colonia</orth>
+      <lemma>colonia#1</lemma>
+</entry>
+<entry>
+      <orth>sedes</orth>
+      <lemma>sedeo</lemma>
+</entry>
+<entry>
+      <orth>omittere</orth>
+      <lemma>omitto</lemma>
+</entry>
+<entry>
+      <orth>propere</orth>
+      <lemma>properus</lemma>
+</entry>
+<entry>
+      <orth>fortuna</orth>
+      <lemma>fortuna</lemma>
+</entry>
+<entry>
+      <orth>patientia</orth>
+      <lemma>patientia</lemma>
+</entry>
+<entry>
+      <orth>tollo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>exuro</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>felicitas</orth>
+      <lemma>felicitas#1</lemma>
+</entry>
+<entry>
+      <orth>socordia</orth>
+      <lemma>socordia</lemma>
+</entry>
+<entry>
+      <orth>exuere</orth>
+      <lemma>exuo</lemma>
+</entry>
+<entry>
+      <orth>iugum</orth>
+      <lemma>jugum</lemma>
+</entry>
+<entry>
+      <orth>integer</orth>
+      <lemma>integer</lemma>
+</entry>
+<entry>
+      <orth>congressus</orth>
+      <lemma>congressus#2</lemma>
+</entry>
+<entry>
+      <orth>ostendo</orth>
+      <lemma>ostendo</lemma>
+</entry>
+<entry>
+      <orth>sepono</orth>
+      <lemma>sepono</lemma>
+</entry>
+<entry>
+      <orth>gens</orth>
+      <lemma>gens</lemma>
+</entry>
+<entry>
+      <orth>solvo</orth>
+      <lemma>solvo</lemma>
+</entry>
+<entry>
+      <orth>incitamentum</orth>
+      <lemma>incitamentum</lemma>
+</entry>
+<entry>
+      <orth>coniunx</orth>
+      <lemma>conjunx</lemma>
+</entry>
+<entry>
+      <orth>accendere</orth>
+      <lemma>accendo#2</lemma>
+</entry>
+<entry>
+      <orth>exprobrare</orth>
+      <lemma>exprobro</lemma>
+</entry>
+<entry>
+      <orth>plerique</orth>
+      <lemma>plerus</lemma>
+</entry>
+<entry>
+      <orth>trepidus</orth>
+      <lemma>trepidus</lemma>
+</entry>
+<entry>
+      <orth>circumspectare</orth>
+      <lemma>circumspecto</lemma>
+</entry>
+<entry>
+      <orth>trado</orth>
+      <lemma>trado</lemma>
+</entry>
+<entry>
+      <orth>acies</orth>
+      <lemma>acies</lemma>
+</entry>
+<entry>
+      <orth>posteri</orth>
+      <lemma>posterus</lemma>
+</entry>
+<entry>
+      <orth>cogitare</orth>
+      <lemma>cogito</lemma>
+</entry>
+</section>
+
+<section n="Chapter 31">
+<entry>
+      <orth>frigidus</orth>
+      <lemma>frigidus</lemma>
+</entry>
+<entry>
+      <orth>flare</orth>
+      <lemma>flo</lemma>
+</entry>
+<entry>
+      <orth>nubilus</orth>
+      <lemma>nubilus</lemma>
+</entry>
+<entry>
+      <orth>genu</orth>
+      <lemma>genu</lemma>
+</entry>
+<entry>
+      <orth>horrere</orth>
+      <lemma>horreo</lemma>
+</entry>
+<entry>
+      <orth>desum</orth>
+      <lemma>desum</lemma>
+</entry>
+<entry>
+      <orth>voluptas</orth>
+      <lemma>voluptas</lemma>
+</entry>
+<entry>
+      <orth>desiderium</orth>
+      <lemma>desiderium</lemma>
+</entry>
+<entry>
+      <orth>fatigare</orth>
+      <lemma>fatigo</lemma>
+</entry>
+<entry>
+      <orth>cantus</orth>
+      <lemma>cantus</lemma>
+</entry>
+<entry>
+      <orth>unicus</orth>
+      <lemma>unicus</lemma>
+</entry>
+<entry>
+      <orth>pugio</orth>
+      <lemma>pugio</lemma>
+</entry>
+<entry>
+      <orth>infensus</orth>
+      <lemma>infensus</lemma>
+</entry>
+<entry>
+      <orth>remeare</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>centuria</orth>
+      <lemma>centuria</lemma>
+</entry>
+<entry>
+      <orth>deliciae</orth>
+      <lemma>deliciae</lemma>
+</entry>
+<entry>
+      <orth>requiro</orth>
+      <lemma>requiro</lemma>
+</entry>
+<entry>
+      <orth>probrum</orth>
+      <lemma>probrum</lemma>
+</entry>
+<entry>
+      <orth>prostratus</orth>
+      <lemma>prosterno</lemma>
+</entry>
+<entry>
+      <orth>comitas</orth>
+      <lemma>comitas</lemma>
+</entry>
+<entry>
+      <orth>benevolus</orth>
+      <lemma>benevolus</lemma>
+</entry>
+<entry>
+      <orth>iurare</orth>
+      <lemma>juror</lemma>
+</entry>
+<entry>
+      <orth>stipendium</orth>
+      <lemma>stipendium</lemma>
+</entry>
+<entry>
+      <orth>ridiculus</orth>
+      <lemma>ridiculus</lemma>
+</entry>
+</section>
+
+<section n="Chapter 32">
+<entry>
+      <orth>subigo</orth>
+      <lemma>subigo</lemma>
+</entry>
+<entry>
+      <orth>provincialis</orth>
+      <lemma>provincialis</lemma>
+</entry>
+<entry>
+      <orth>reverentia</orth>
+      <lemma>reverentia</lemma>
+</entry>
+<entry>
+      <orth>suscipere</orth>
+      <lemma>suscipio</lemma>
+</entry>
+<entry>
+      <orth>urna</orth>
+      <lemma>urna</lemma>
+</entry>
+<entry>
+      <orth>aureus</orth>
+      <lemma>aureus</lemma>
+</entry>
+<entry>
+      <orth>reliquiae</orth>
+      <lemma>reliquiae</lemma>
+</entry>
+<entry>
+      <orth>ultimus</orth>
+      <lemma>ulter</lemma>
+</entry>
+<entry>
+      <orth>turbatus</orth>
+      <lemma>turbo#1</lemma>
+</entry>
+<entry>
+      <orth>pacatus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>firmus</orth>
+      <lemma>firmus</lemma>
+</entry>
+<entry>
+      <orth>imbecillus</orth>
+      <lemma>imbecillus</lemma>
+</entry>
+<entry>
+      <orth>proximus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>mansio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>solum</orth>
+      <lemma>solus</lemma>
+</entry>
+<entry>
+      <orth>fundare</orth>
+      <lemma>fundo#2</lemma>
+</entry>
+<entry>
+      <orth>animus</orth>
+      <lemma>animus</lemma>
+</entry>
+<entry>
+      <orth>volvere</orth>
+      <lemma>volvo</lemma>
+</entry>
+<entry>
+      <orth>omen</orth>
+      <lemma>omen</lemma>
+</entry>
+<entry>
+      <orth>occurro</orth>
+      <lemma>occurro</lemma>
+</entry>
+<entry>
+      <orth>fama</orth>
+      <lemma>fama</lemma>
+</entry>
+<entry>
+      <orth>scurra</orth>
+      <lemma>scurra</lemma>
+</entry>
+<entry>
+      <orth>clarus</orth>
+      <lemma>clarus</lemma>
+</entry>
+<entry>
+      <orth>iocus</orth>
+      <lemma>jocus</lemma>
+</entry>
+<entry>
+      <orth>corona</orth>
+      <lemma>corona</lemma>
+</entry>
+<entry>
+      <orth>cupressus</orth>
+      <lemma>cupressus</lemma>
+</entry>
+<entry>
+      <orth>removere</orth>
+      <lemma>removeo</lemma>
+</entry>
+<entry>
+      <orth>color</orth>
+      <lemma>color</lemma>
+</entry>
+<entry>
+      <orth>agrestis</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>discrimen</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>tutus</orth>
+      <lemma>tueor</lemma>
+</entry>
+<entry>
+      <orth>dummodo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>casa</orth>
+      <lemma>casa</lemma>
+</entry>
+<entry>
+      <orth>exigo</orth>
+      <lemma>exigo</lemma>
+</entry>
+<entry>
+      <orth>messis</orth>
+      <lemma>messis</lemma>
+</entry>
+<entry>
+      <orth>inopia</orth>
+      <lemma>inopia</lemma>
+</entry>
+<entry>
+      <orth>esurire</orth>
+      <lemma>ex-surio</lemma>
+</entry>
+<entry>
+      <orth>comedo</orth>
+      <lemma>comedus</lemma>
+</entry>
+<entry>
+      <orth>cavum</orth>
+      <lemma>cavum</lemma>
+</entry>
+<entry>
+      <orth>tectus</orth>
+      <lemma>tego</lemma>
+</entry>
+<entry>
+      <orth>validus</orth>
+      <lemma>validus</lemma>
+</entry>
+<entry>
+      <orth>ora</orth>
+      <lemma>ora#1</lemma>
+</entry>
+<entry>
+      <orth>circumvenire</orth>
+      <lemma>circumvenio</lemma>
+</entry>
+<entry>
+      <orth>insidiae</orth>
+      <lemma>insidiae</lemma>
+</entry>
+<entry>
+      <orth>pono</orth>
+      <lemma>pono</lemma>
+</entry>
+<entry>
+      <orth>tranquillus</orth>
+      <lemma>tranquillus</lemma>
+</entry>
+<entry>
+      <orth>serenus</orth>
+      <lemma>serenus#1</lemma>
+</entry>
+<entry>
+      <orth>advesperascit</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>fallo</orth>
+      <lemma>fallo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 33">
+<entry>
+      <orth>conditio</orth>
+      <lemma>condicio</lemma>
+</entry>
+<entry>
+      <orth>regnare</orth>
+      <lemma>regno</lemma>
+</entry>
+<entry>
+      <orth>desisto</orth>
+      <lemma>desisto</lemma>
+</entry>
+<entry>
+      <orth>ferme</orth>
+      <lemma>ferme</lemma>
+</entry>
+<entry>
+      <orth>quadringenti</orth>
+      <lemma>quadringenti</lemma>
+</entry>
+<entry>
+      <orth>intra</orth>
+      <lemma>intra</lemma>
+</entry>
+<entry>
+      <orth>vallum</orth>
+      <lemma>vallum</lemma>
+</entry>
+<entry>
+      <orth>commemorare</orth>
+      <lemma>commemoro</lemma>
+</entry>
+<entry>
+      <orth>plaga</orth>
+      <lemma>plaga#2</lemma>
+</entry>
+<entry>
+      <orth>meridianus</orth>
+      <lemma>meridianus</lemma>
+</entry>
+<entry>
+      <orth>strata</orth>
+      <lemma>sterno</lemma>
+</entry>
+<entry>
+      <orth>ibidem</orth>
+      <lemma>ibidem</lemma>
+</entry>
+<entry>
+      <orth>testari testor</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>prior</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>advehor</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>terminus</orth>
+      <lemma>terminus</lemma>
+</entry>
+<entry>
+      <orth>meto</orth>
+      <lemma>meto#2</lemma>
+</entry>
+<entry>
+      <orth>calcare</orth>
+      <lemma>calco</lemma>
+</entry>
+<entry>
+      <orth>flebilis</orth>
+      <lemma>flebilis</lemma>
+</entry>
+<entry>
+      <orth>penitus</orth>
+      <lemma>penitus#1</lemma>
+</entry>
+<entry>
+      <orth>inopinatus</orth>
+      <lemma>inopinatus</lemma>
+</entry>
+<entry>
+      <orth>autumnus</orth>
+      <lemma>auctumnus#1</lemma>
+</entry>
+<entry>
+      <orth>strages</orth>
+      <lemma>strages</lemma>
+</entry>
+<entry>
+      <orth>evadere</orth>
+      <lemma>evado</lemma>
+</entry>
+<entry>
+      <orth>fugare</orth>
+      <lemma>fugo</lemma>
+</entry>
+<entry>
+      <orth>prius</orth>
+      <lemma>prior</lemma>
+</entry>
+<entry>
+      <orth>anniversarius</orth>
+      <lemma>anniversarius</lemma>
+</entry>
+<entry>
+      <orth>cogere</orth>
+      <lemma>cogo</lemma>
+</entry>
+<entry>
+      <orth>denuntiare</orth>
+      <lemma>denuntio</lemma>
+</entry>
+<entry>
+      <orth>ultra</orth>
+      <lemma>ultra</lemma>
+</entry>
+<entry>
+      <orth>defensio</orth>
+      <lemma>defensio</lemma>
+</entry>
+<entry>
+      <orth>laboriosus</orth>
+      <lemma>laboriosus</lemma>
+</entry>
+<entry>
+      <orth>expeditio</orth>
+      <lemma>expeditio</lemma>
+</entry>
+<entry>
+      <orth>potius</orth>
+      <lemma>potis</lemma>
+</entry>
+<entry>
+      <orth>causa</orth>
+      <lemma>causa</lemma>
+</entry>
+<entry>
+      <orth>derelinquere</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>commodum</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>trames</orth>
+      <lemma>trames</lemma>
+</entry>
+<entry>
+      <orth>ob</orth>
+      <lemma>ob</lemma>
+</entry>
+<entry>
+      <orth>quondam</orth>
+      <lemma>quondam</lemma>
+</entry>
+<entry>
+      <orth>collocare</orth>
+      <lemma>colloco</lemma>
+</entry>
+<entry>
+      <orth>inruptio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>turris</orth>
+      <lemma>turris</lemma>
+</entry>
+<entry>
+      <orth>valedico</orth>
+      <lemma>valedico</lemma>
+</entry>
+<entry>
+      <orth>confestim</orth>
+      <lemma>confestim</lemma>
+</entry>
+<entry>
+      <orth>aquilonalis</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>indigena</orth>
+      <lemma>indigena</lemma>
+</entry>
+<entry>
+      <orth>capesso</orth>
+      <lemma>capesso</lemma>
+</entry>
+<entry>
+      <orth>repello</orth>
+      <lemma>repello</lemma>
+</entry>
+<entry>
+      <orth>funus</orth>
+      <lemma>funus</lemma>
+</entry>
+<entry>
+      <orth>iugulare</orth>
+      <lemma>jugulo</lemma>
+</entry>
+<entry>
+      <orth>mergo</orth>
+      <lemma>mergo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 34">
+<entry>
+      <orth>famulus</orth>
+      <lemma>famulus</lemma>
+</entry>
+<entry>
+      <orth>potens</orth>
+      <lemma>potens</lemma>
+</entry>
+<entry>
+      <orth>orientalis</orth>
+      <lemma>orientalis</lemma>
+</entry>
+<entry>
+      <orth>adplicuit</orth>
+      <lemma>applico</lemma>
+</entry>
+<entry>
+      <orth>praecipio</orth>
+      <lemma>praecipio</lemma>
+</entry>
+<entry>
+      <orth>mandavit</orth>
+      <lemma>mando#1</lemma>
+</entry>
+<entry>
+      <orth>obtemperare</orth>
+      <lemma>obtempero</lemma>
+</entry>
+<entry>
+      <orth>dubietas</orth>
+      <lemma>dubietas</lemma>
+</entry>
+<entry>
+      <orth>necessaria</orth>
+      <lemma>necessaria</lemma>
+</entry>
+<entry>
+      <orth>ministrare</orth>
+      <lemma>ministro</lemma>
+</entry>
+<entry>
+      <orth>vocabulum</orth>
+      <lemma>vocabulum</lemma>
+</entry>
+<entry>
+      <orth>resido</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>divum</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>colloquium</orth>
+      <lemma>colloquium</lemma>
+</entry>
+<entry>
+      <orth>iussio</orth>
+      <lemma>jussio</lemma>
+</entry>
+<entry>
+      <orth>promissa</orth>
+      <lemma>promitto</lemma>
+</entry>
+<entry>
+      <orth>adsensus</orth>
+      <lemma>assensus#2</lemma>
+</entry>
+<entry>
+      <orth>tribuo</orth>
+      <lemma>tribuo</lemma>
+</entry>
+<entry>
+      <orth>peregrinus</orth>
+      <lemma>peregrinus</lemma>
+</entry>
+<entry>
+      <orth>perspicio</orth>
+      <lemma>perspicio</lemma>
+</entry>
+<entry>
+      <orth>communicare</orth>
+      <lemma>communico</lemma>
+</entry>
+<entry>
+      <orth>molestus</orth>
+      <lemma>molestus</lemma>
+</entry>
+<entry>
+      <orth>benignus</orth>
+      <lemma>benignus</lemma>
+</entry>
+<entry>
+      <orth>hospitium</orth>
+      <lemma>hospitium</lemma>
+</entry>
+<entry>
+      <orth>victus</orth>
+      <lemma>victus#2</lemma>
+</entry>
+<entry>
+      <orth>sociare</orth>
+      <lemma>socio</lemma>
+</entry>
+</section>
+
+<section n="Chapter 35">
+<entry>
+      <orth>dono</orth>
+      <lemma>dono</lemma>
+</entry>
+<entry>
+      <orth>antistes</orth>
+      <lemma>antistes</lemma>
+</entry>
+<entry>
+      <orth>quamvis</orth>
+      <lemma>quamvis</lemma>
+</entry>
+<entry>
+      <orth>amnis</orth>
+      <lemma>amnis</lemma>
+</entry>
+<entry>
+      <orth>peragere</orth>
+      <lemma>perago</lemma>
+</entry>
+<entry>
+      <orth>elimosyna</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>misericors</orth>
+      <lemma>misericors</lemma>
+</entry>
+<entry>
+      <orth>episcopus</orth>
+      <lemma>episcopus</lemma>
+</entry>
+<entry>
+      <orth>proprius</orth>
+      <lemma>proprius</lemma>
+</entry>
+<entry>
+      <orth>vilis</orth>
+      <lemma>vilis</lemma>
+</entry>
+<entry>
+      <orth>donum</orth>
+      <lemma>donum</lemma>
+</entry>
+<entry>
+      <orth>sufficio</orth>
+      <lemma>sufficio</lemma>
+</entry>
+<entry>
+      <orth>recordari</orth>
+      <lemma>recordor</lemma>
+</entry>
+<entry>
+      <orth>conruere</orth>
+      <lemma>con-ruo</lemma>
+</entry>
+<entry>
+      <orth>indicare</orth>
+      <lemma>indico#1</lemma>
+</entry>
+<entry>
+      <orth>tribuo</orth>
+      <lemma>tribuo</lemma>
+</entry>
+<entry>
+      <orth>levare</orth>
+      <lemma>levo#1</lemma>
+</entry>
+<entry>
+      <orth>presbyter</orth>
+      <lemma>presbyter</lemma>
+</entry>
+<entry>
+      <orth>lingua</orth>
+      <lemma>lingua</lemma>
+</entry>
+<entry>
+      <orth>patrius</orth>
+      <lemma>patrius#2</lemma>
+</entry>
+<entry>
+      <orth>domestici</orth>
+      <lemma>domesticus</lemma>
+</entry>
+<entry>
+      <orth>rector</orth>
+      <lemma>rector</lemma>
+</entry>
+<entry>
+      <orth>dirus</orth>
+      <lemma>dirus</lemma>
+</entry>
+<entry>
+      <orth>praesagium</orth>
+      <lemma>praesagium</lemma>
+</entry>
+<entry>
+      <orth>impleo</orth>
+      <lemma>impleo</lemma>
+</entry>
+</section>
+
+<section n="Chapter 36">
+<entry>
+      <orth>prelatus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>valde</orth>
+      <lemma>validus</lemma>
+</entry>
+<entry>
+      <orth>torneamentum</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>capellanus</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>horae</orth>
+      <lemma>horae</lemma>
+</entry>
+<entry>
+      <orth>calcar</orth>
+      <lemma>calcar</lemma>
+</entry>
+<entry>
+      <orth>pungo</orth>
+      <lemma>pungo</lemma>
+</entry>
+<entry>
+      <orth>triduum</orth>
+      <lemma>triduum</lemma>
+</entry>
+<entry>
+      <orth>instruo</orth>
+      <lemma>instruo</lemma>
+</entry>
+<entry>
+      <orth>quocienscumque</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>saltus</orth>
+      <lemma>saltus#1</lemma>
+</entry>
+<entry>
+      <orth>fere</orth>
+      <lemma>fere</lemma>
+</entry>
+<entry>
+      <orth>competit</orth>
+      <lemma>competo</lemma>
+</entry>
+<entry>
+      <orth>suaviter</orth>
+      <lemma>suavis</lemma>
+</entry>
+<entry>
+      <orth>accidit</orth>
+      <lemma>accido#2</lemma>
+</entry>
+<entry>
+      <orth>optatus</orth>
+      <lemma>opto</lemma>
+</entry>
+</section>
+
+<section n="Chapter 37">
+<entry>
+      <orth>fabulator</orth>
+      <lemma>fabulator</lemma>
+</entry>
+<entry>
+      <orth>contigit</orth>
+      <lemma>contingo#1</lemma>
+</entry>
+<entry>
+      <orth>cura</orth>
+      <lemma>cura</lemma>
+</entry>
+<entry>
+      <orth>produco</orth>
+      <lemma>produco</lemma>
+</entry>
+<entry>
+      <orth>concedo</orth>
+      <lemma>concedo</lemma>
+</entry>
+<entry>
+      <orth>solidus</orth>
+      <lemma>solidus</lemma>
+</entry>
+<entry>
+      <orth>ovis</orth>
+      <lemma>ovis</lemma>
+</entry>
+<entry>
+      <orth>accidit</orth>
+      <lemma>accido#2</lemma>
+</entry>
+<entry>
+      <orth>inundatio</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>vadum</orth>
+      <lemma>vadum</lemma>
+</entry>
+<entry>
+      <orth>exiguus</orth>
+      <lemma>exiguus</lemma>
+</entry>
+<entry>
+      <orth>navicula</orth>
+      <lemma>navicula</lemma>
+</entry>
+<entry>
+      <orth>obdormire</orth>
+      <lemma>obdormio</lemma>
+</entry>
+<entry>
+      <orth>finire</orth>
+      <lemma>finio</lemma>
+</entry>
+<entry>
+      <orth>fluctus</orth>
+      <lemma>fluctus</lemma>
+</entry>
+<entry>
+      <orth>grex</orth>
+      <lemma>grex</lemma>
+</entry>
+<entry>
+      <orth>innumerabilis</orth>
+      <lemma>innumerabilis</lemma>
+</entry>
+<entry>
+      <orth>finis</orth>
+      <lemma>finis</lemma>
+</entry>
+</section>
+
+<section n="Chapter 38">
+<entry>
+      <orth>mentior</orth>
+      <lemma>mentior</lemma>
+</entry>
+<entry>
+      <orth>aenigma</orth>
+      <lemma>aenigma</lemma>
+</entry>
+<entry>
+      <orth>invisere</orth>
+      <lemma>inviso</lemma>
+</entry>
+<entry>
+      <orth>contulit</orth>
+      <lemma>confero</lemma>
+</entry>
+<entry>
+      <orth>vicissim</orth>
+      <lemma>vicissim</lemma>
+</entry>
+<entry>
+      <orth>conclave</orth>
+      <lemma>conclave</lemma>
+</entry>
+<entry>
+      <orth>impudens</orth>
+      <lemma>impudens</lemma>
+</entry>
+<entry>
+      <orth>occupatus</orth>
+      <lemma>occupo</lemma>
+</entry>
+<entry>
+      <orth>suaviter</orth>
+      <lemma>suavis</lemma>
+</entry>
+<entry>
+      <orth>torqueo</orth>
+      <lemma>torqueo</lemma>
+</entry>
+<entry>
+      <orth>aperte</orth>
+      <lemma>apertus</lemma>
+</entry>
+<entry>
+      <orth>atqui</orth>
+      <lemma>atqui</lemma>
+</entry>
+<entry>
+      <orth>satietas</orth>
+      <lemma>satietas</lemma>
+</entry>
+<entry>
+      <orth>spatium</orth>
+      <lemma>spatium</lemma>
+</entry>
+<entry>
+      <orth>consuetudo</orth>
+      <lemma>consuetudo</lemma>
+</entry>
+<entry>
+      <orth>convivium</orth>
+      <lemma>convivium</lemma>
+</entry>
+<entry>
+      <orth>lusus</orth>
+      <lemma>lusus#2</lemma>
+</entry>
+<entry>
+      <orth>prodigus</orth>
+      <lemma>prodigus</lemma>
+</entry>
+<entry>
+      <orth>parsimonia</orth>
+      <lemma>parsimonia</lemma>
+</entry>
+<entry>
+      <orth>absumo</orth>
+      <lemma>absumo</lemma>
+</entry>
+<entry>
+      <orth>candela</orth>
+      <lemma>candela</lemma>
+</entry>
+<entry>
+      <orth>detereo</orth>
+      <lemma></lemma>
+</entry>
+<entry>
+      <orth>praeposterus</orth>
+      <lemma>praeposterus</lemma>
+</entry>
+<entry>
+      <orth>sapio</orth>
+      <lemma>sapio</lemma>
+</entry>
+<entry>
+      <orth>pretiosus</orth>
+      <lemma>pretiosus</lemma>
+</entry>
+</section>
+</TextbookVocab>

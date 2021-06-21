@@ -1,0 +1,1742 @@
+<br>
+<html>
+<head>
+<script language="javascript">
+
+var cards = Array("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84");
+
+
+
+var currentCard = cards.shift();
+
+function getRandom(low, high) {
+  i = Math.floor(Math.random() * (high - low)) + low;
+  return i;
+}
+
+function insertCard(arr, element, position) {
+  // special case: first element
+  if (position <= 0) {
+    arr.unshift(element);
+    return arr;
+  }
+  if (position >= arr.length -1) {
+    arr.push(element);
+    return arr;
+  }
+  else {
+    for (i = arr.length;i >= position;i--) {
+      if (i == position) {
+        arr[i] = element;
+      }
+      else {
+        arr[i] = arr[i-1];
+      }
+    }
+  }
+}   
+
+function showAnswer() {
+  document.getElementById("a" + currentCard).style.visibility="visible";
+}
+
+function nextCard(confidence) {
+  // make the current card invisible
+  document.getElementById("q" + currentCard).style.visibility="hidden";
+  document.getElementById("a" + currentCard).style.visibility="hidden";
+
+  // -1 means "drop this card"
+  if (confidence != -1) {
+    // move the current card to a new position.
+    // if confidence is low, move it close to the front
+    // if confidence is high, move it to the back
+    position = Math.floor((confidence / 100) * cards.length);
+
+    // mix things up a bit
+    position += Math.floor(getRandom(-confidence/2, confidence/2));
+
+    // put currentCard into cards at position
+    insertCard(cards, currentCard, position);
+  }
+
+  // DEBUG
+  cardsText = "";
+  for (i=0;i<cards.length;i++) {
+    cardsText += cards[i] + " ";
+  }
+
+  //document.getElementById("cards_info").innerHTML = cardsText;
+
+  // get a new card
+  currentCard = cards.shift();
+  document.getElementById("q" + currentCard).style.visibility="visible";
+}
+
+</script>
+
+
+<style type="text/css">
+#cards_info {
+  position: absolute;
+  left: 20; top: 300;
+  visibility: visible;
+}
+
+#q0 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: visible;
+}
+
+#a0 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q1 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a1 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q2 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a2 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q3 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a3 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q4 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a4 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q5 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a5 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q6 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a6 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q7 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a7 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q8 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a8 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q9 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a9 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q10 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a10 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q11 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a11 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q12 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a12 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q13 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a13 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q14 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a14 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q15 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a15 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q16 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a16 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q17 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a17 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q18 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a18 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q19 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a19 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q20 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a20 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q21 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a21 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q22 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a22 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q23 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a23 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q24 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a24 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q25 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a25 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q26 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a26 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q27 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a27 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q28 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a28 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q29 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a29 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q30 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a30 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q31 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a31 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q32 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a32 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q33 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a33 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q34 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a34 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q35 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a35 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q36 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a36 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q37 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a37 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q38 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a38 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q39 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a39 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q40 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a40 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q41 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a41 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q42 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a42 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q43 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a43 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q44 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a44 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q45 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a45 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q46 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a46 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q47 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a47 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q48 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a48 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q49 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a49 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q50 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a50 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q51 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a51 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q52 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a52 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q53 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a53 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q54 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a54 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q55 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a55 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q56 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a56 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q57 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a57 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q58 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a58 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q59 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a59 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q60 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a60 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q61 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a61 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q62 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a62 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q63 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a63 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q64 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a64 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q65 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a65 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q66 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a66 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q67 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a67 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q68 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a68 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q69 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a69 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q70 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a70 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q71 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a71 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q72 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a72 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q73 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a73 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q74 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a74 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q75 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a75 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q76 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a76 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q77 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a77 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q78 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a78 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q79 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a79 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q80 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a80 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q81 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a81 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q82 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a82 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q83 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a83 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#q84 {
+  width: 100%;
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 20;
+  visibility: hidden;
+}
+
+#a84 {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 80;
+  visibility: hidden;
+}
+
+#buttons {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 140;
+  visibility: visible;
+  text-align: left;
+}
+
+.text {
+  font-family: verdana, arial, helvetica;
+  font-size: 12px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div id="q0"><span class="text">ἀγαπάω</span></div>
+
+<div id="a0"><span class="text">to treat with affection, to caress, love, be fond of	</span></div>
+
+<div id="q1"><span class="text">ἀγάπη</span></div>
+
+<div id="a1"><span class="text">love	</span></div>
+
+<div id="q2"><span class="text">πᾶς</span></div>
+
+<div id="a2"><span class="text">all, the whole	</span></div>
+
+<div id="q3"><span class="text">νήπιος</span></div>
+
+<div id="a3"><span class="text">not yet speaking	</span></div>
+
+<div id="q4"><span class="text">ἔχω</span></div>
+
+<div id="a4"><span class="text">to have or to hold	</span></div>
+
+<div id="q5"><span class="text">λαλέω</span></div>
+
+<div id="a5"><span class="text">to talk, chat, prattle, babble	</span></div>
+
+<div id="q6"><span class="text">χόω</span></div>
+
+<div id="a6"><span class="text">to throw or heap up	</span></div>
+
+<div id="q7"><span class="text">μέρος</span></div>
+
+<div id="a7"><span class="text">a part, share	</span></div>
+
+<div id="q8"><span class="text">καταργέω</span></div>
+
+<div id="a8"><span class="text">to leave unemployed or idle	</span></div>
+
+<div id="q9"><span class="text">κἀν</span></div>
+
+<div id="a9"><span class="text">and if, even if, although	</span></div>
+
+<div id="q10"><span class="text">γλῶσσα</span></div>
+
+<div id="a10"><span class="text">the tongue	</span></div>
+
+<div id="q11"><span class="text">γιγνώσκω</span></div>
+
+<div id="a11"><span class="text">to learn to know, to perceive, mark, learn	</span></div>
+
+<div id="q12"><span class="text">ἐπιγιγνώσκω</span></div>
+
+<div id="a12"><span class="text">to look upon, witness, observe	</span></div>
+
+<div id="q13"><span class="text">προφητεία</span></div>
+
+<div id="a13"><span class="text">the gift of interpreting the will of the gods	</span></div>
+
+<div id="q14"><span class="text">πίστις</span></div>
+
+<div id="a14"><span class="text">trust	</span></div>
+
+<div id="q15"><span class="text">τότε</span></div>
+
+<div id="a15"><span class="text">at that time, then	</span></div>
+
+<div id="q16"><span class="text">ζηλόω</span></div>
+
+<div id="a16"><span class="text">to rival, vie with, emulate	</span></div>
+
+<div id="q17"><span class="text">ἵνα</span></div>
+
+<div id="a17"><span class="text">in that place, there	</span></div>
+
+<div id="q18"><span class="text">ὅστε</span></div>
+
+<div id="a18"><span class="text">who, which	</span></div>
+
+<div id="q19"><span class="text">ἄνθρωπος</span></div>
+
+<div id="a19"><span class="text">man	</span></div>
+
+<div id="q20"><span class="text">λογίζομαι</span></div>
+
+<div id="a20"><span class="text">to count, reckon, calculate, compute	</span></div>
+
+<div id="q21"><span class="text">γίγνομαι</span></div>
+
+<div id="a21"><span class="text">to come into being	</span></div>
+
+<div id="q22"><span class="text">προφητεύω</span></div>
+
+<div id="a22"><span class="text">to be an interpreter	</span></div>
+
+<div id="q23"><span class="text">ἄρτι</span></div>
+
+<div id="a23"><span class="text">just, exactly	</span></div>
+
+<div id="q24"><span class="text">ὅτε</span></div>
+
+<div id="a24"><span class="text">when	</span></div>
+
+<div id="q25"><span class="text">πρόσωπον</span></div>
+
+<div id="a25"><span class="text">the face, visage, countenance	</span></div>
+
+<div id="q26"><span class="text">μυστήριον</span></div>
+
+<div id="a26"><span class="text">a mystery or secret doctrine;	</span></div>
+
+<div id="q27"><span class="text">γνῶσις</span></div>
+
+<div id="a27"><span class="text">a judicial inquiry	</span></div>
+
+<div id="q28"><span class="text">πνευματικός</span></div>
+
+<div id="a28"><span class="text">of spirit, spiritual	</span></div>
+
+<div id="q29"><span class="text">ἀλαλάζω</span></div>
+
+<div id="a29"><span class="text">to raise the war-cry	</span></div>
+
+<div id="q30"><span class="text">μέγας</span></div>
+
+<div id="a30"><span class="text">big, great	</span></div>
+
+<div id="q31"><span class="text">ψωμίζω</span></div>
+
+<div id="a31"><span class="text">to feed with sops or tid-bits	</span></div>
+
+<div id="q32"><span class="text">χρηστεύομαι</span></div>
+
+<div id="a32"><span class="text">to be good and kind	</span></div>
+
+<div id="q33"><span class="text">οἶδα</span></div>
+
+<div id="a33"><span class="text">to know	</span></div>
+
+<div id="q34"><span class="text">ἐλπίζω</span></div>
+
+<div id="a34"><span class="text">to hope for, look for, expect	</span></div>
+
+<div id="q35"><span class="text">στέγος</span></div>
+
+<div id="a35"><span class="text">a roof	</span></div>
+
+<div id="q36"><span class="text">ἀνήρ</span></div>
+
+<div id="a36"><span class="text">a man	</span></div>
+
+<div id="q37"><span class="text">περπερεύομαι</span></div>
+
+<div id="a37"><span class="text">to boast or vaunt oneself	</span></div>
+
+<div id="q38"><span class="text">ἠχή</span></div>
+
+<div id="a38"><span class="text">a sound or noise	</span></div>
+
+<div id="q39"><span class="text">νυνί</span></div>
+
+<div id="a39"><span class="text">now, at this moment	</span></div>
+
+<div id="q40"><span class="text">καθώς</span></div>
+
+<div id="a40"><span class="text">how	</span></div>
+
+<div id="q41"><span class="text">καυχάομαι</span></div>
+
+<div id="a41"><span class="text">to speak loud, be loud-tongued	</span></div>
+
+<div id="q42"><span class="text">στέγω</span></div>
+
+<div id="a42"><span class="text">to cover closely, so as to keep	</span></div>
+
+<div id="q43"><span class="text">εἴσοπτρον</span></div>
+
+<div id="a43"><span class="text">a mirror	</span></div>
+
+<div id="q44"><span class="text">ἠχέω</span></div>
+
+<div id="a44"><span class="text">to sound, ring, peal	</span></div>
+
+<div id="q45"><span class="text">μένω</span></div>
+
+<div id="a45"><span class="text">to stay at home, stay where one is, not stir	</span></div>
+
+<div id="q46"><span class="text">ὅταν</span></div>
+
+<div id="a46"><span class="text">whenever	</span></div>
+
+<div id="q47"><span class="text">αἴνιγμα</span></div>
+
+<div id="a47"><span class="text">a dark saying, riddle	</span></div>
+
+<div id="q48"><span class="text">μακροθυμέω</span></div>
+
+<div id="a48"><span class="text">to be long-suffering	</span></div>
+
+<div id="q49"><span class="text">ὠφελέω</span></div>
+
+<div id="a49"><span class="text">to help, aid, assist, succour, to be of use or service to	</span></div>
+
+<div id="q50"><span class="text">κύμβαλον</span></div>
+
+<div id="a50"><span class="text">a cymbal	</span></div>
+
+<div id="q51"><span class="text">ἔρχομαι</span></div>
+
+<div id="a51"><span class="text">to come or go	</span></div>
+
+<div id="q52"><span class="text">βλέπω</span></div>
+
+<div id="a52"><span class="text">to see, have the power of sight	</span></div>
+
+<div id="q53"><span class="text">κακός</span></div>
+
+<div id="a53"><span class="text">bad	</span></div>
+
+<div id="q54"><span class="text">οὐδέποτε</span></div>
+
+<div id="a54"><span class="text">and not ever or nor ever, not even ever, never	</span></div>
+
+<div id="q55"><span class="text">τελέω</span></div>
+
+<div id="a55"><span class="text">to complete, fulfil, accomplish	</span></div>
+
+<div id="q56"><span class="text">ὄρος</span></div>
+
+<div id="a56"><span class="text">a mountain, hill	</span></div>
+
+<div id="q57"><span class="text">φρονέω</span></div>
+
+<div id="a57"><span class="text">to think, to have understanding, to be sage, wise, prudent	</span></div>
+
+<div id="q58"><span class="text">θεός</span></div>
+
+<div id="a58"><span class="text">God	</span></div>
+
+<div id="q59"><span class="text">ζητέω</span></div>
+
+<div id="a59"><span class="text">to seek, seek for	</span></div>
+
+<div id="q60"><span class="text">συγχαίρω</span></div>
+
+<div id="a60"><span class="text">to rejoice with, take part in joy	</span></div>
+
+<div id="q61"><span class="text">ἀκούω</span></div>
+
+<div id="a61"><span class="text">to hear	</span></div>
+
+<div id="q62"><span class="text">φυσιόω</span></div>
+
+<div id="a62"><span class="text">to puff up	</span></div>
+
+<div id="q63"><span class="text">πίπτω</span></div>
+
+<div id="a63"><span class="text">to fall, fall down	</span></div>
+
+<div id="q64"><span class="text">ἄγγελος</span></div>
+
+<div id="a64"><span class="text">a messenger, envoy	</span></div>
+
+<div id="q65"><span class="text">χαίρω</span></div>
+
+<div id="a65"><span class="text">to rejoice, be glad, be delighted	</span></div>
+
+<div id="q66"><span class="text">ἐλπίς</span></div>
+
+<div id="a66"><span class="text">hope, expectation	</span></div>
+
+<div id="q67"><span class="text">ἀσχημονέω</span></div>
+
+<div id="a67"><span class="text">to behave unseemly, disgrace oneself, to be put to shame	</span></div>
+
+<div id="q68"><span class="text">ἀδικία</span></div>
+
+<div id="a68"><span class="text">wrong-doing, injustice	</span></div>
+
+<div id="q69"><span class="text">τέλειος</span></div>
+
+<div id="a69"><span class="text">having reached its end, finished, complete	</span></div>
+
+<div id="q70"><span class="text">ἠχώ</span></div>
+
+<div id="a70"><span class="text">a sound	</span></div>
+
+<div id="q71"><span class="text">ἀναγελάω</span></div>
+
+<div id="a71"><span class="text">to laugh loud	</span></div>
+
+<div id="q72"><span class="text">παύω</span></div>
+
+<div id="a72"><span class="text">to make to cease	</span></div>
+
+<div id="q73"><span class="text">χαλκός</span></div>
+
+<div id="a73"><span class="text">copper	</span></div>
+
+<div id="q74"><span class="text">παροξύνω</span></div>
+
+<div id="a74"><span class="text">to urge, prick or spur on, stimulate	</span></div>
+
+<div id="q75"><span class="text">παραδίδωμι</span></div>
+
+<div id="a75"><span class="text">to give or hand over to another, transmit	</span></div>
+
+<div id="q76"><span class="text">σῶμα</span></div>
+
+<div id="a76"><span class="text">the body	</span></div>
+
+<div id="q77"><span class="text">μένος</span></div>
+
+<div id="a77"><span class="text">might, force, strength, prowess, courage	</span></div>
+
+<div id="q78"><span class="text">διώκω</span></div>
+
+<div id="a78"><span class="text">to pursue	</span></div>
+
+<div id="q79"><span class="text">ὑπομένω</span></div>
+
+<div id="a79"><span class="text">to stay behind, survive	</span></div>
+
+<div id="q80"><span class="text">ἀλήθεια</span></div>
+
+<div id="a80"><span class="text">truth	</span></div>
+
+<div id="q81"><span class="text">πιστεύω</span></div>
+
+<div id="a81"><span class="text">to trust, trust to or in, put faith in, rely on, believe in	</span></div>
+
+<div id="q82"><span class="text">πνεῦμα</span></div>
+
+<div id="a82"><span class="text">a blowing	</span></div>
+
+<div id="q83"><span class="text">διό</span></div>
+
+<div id="a83"><span class="text">wherefore, on which account	</span></div>
+
+<div id="q84"><span class="text">ὑπάρχω</span></div>
+
+<div id="a84"><span class="text">to begin, make a beginning	</span></div>
+
+
+<div id="buttons"><span class="text">
+(<a class="text" onclick="javascript:showAnswer()" href="#">reveal answer</a>)
+(<a class="text" onclick="javascript:nextCard(-1)" href="#">remove card</a>)
+<br>
+Confidence:
+
+[no idea]
+<a class="text" onclick="javascript:nextCard(5)" href="#">1</a>
+<a class="text" onclick="javascript:nextCard(10)" href="#">2</a>
+<a class="text" onclick="javascript:nextCard(30)" href="#">3</a>
+<a class="text" onclick="javascript:nextCard(50)" href="#">4</a>
+<a class="text" onclick="javascript:nextCard(70)" href="#">5</a>
+[I know that!]
+
+</span>
+</div>
+
+<div id="cards_info">
+
+</div>
+
+</body>
+</html>
+

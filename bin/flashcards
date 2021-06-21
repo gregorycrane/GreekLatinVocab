@@ -1,0 +1,332 @@
+#!/usr/bin/perl
+
+use Perseus;
+
+use Ptext::Lookup;
+use Ptext::Info;
+use Ptext::Stats;
+
+use Mdb;
+
+use CGI;
+
+require "cgi_handlers.pl";
+require "display.pl";
+
+### get chunk: get just the text of a chunk based on 
+###   doc: A document ID
+###   start: The query for the start of the chunk
+###   end: The query for the end of the chunk (optional)
+
+$cgi = new CGI;
+
+my %vocab = ();
+
+my $lang = 'en';
+
+if ($cgi->param("doc") ne "") {
+    $doc = $cgi->param("doc");
+    $start_query = $cgi->param("query");
+    
+    my $metadata = get_doc_info($doc);
+    
+    my @cits = ();
+    my %cit_hier = ();
+    
+    my %chunk_types = ();
+    my $chunk_context = 0;
+    
+    configure_cits($metadata, \@cits, \%cit_hier, \%chunk_types, \$chunk_context);
+    
+    $lang = $$metadata{''}{'dc:Language'}->[0];
+    $lang = 'en' if $lang eq '';
+
+    my $doc_file = doc_file($doc);
+    
+    my $filePref = "$ENV{'WEBDIR'}/cgi-bin/XML";
+    my $fname = "$filePref/$doc_file.xml";
+    
+    my $lu = open_lut($fname, \%cits);
+    
+    my @lu_fields = ();
+    
+    my ($is_match, $hit, $hit_state) =
+	query_lookup($lu, parse_query($start_query, \@cits), \%cit_hier);
+    
+    my ($start, $end, $prev, $next)
+	= sel_chunk($lu, $hit, $hit_state,
+		    \%chunk_types, $chunk_context, $use_parent, \%cit_hier);
+    
+    my($chunk_start) = split /\t/, $$lu{$start};
+    my($chunk_end) = split /\t/, $$lu{$end};
+    
+    my $filename = "DBs/MG/wlist/$doc_file.$lang.lem";
+    
+    open LEMSENS, $filename || die "can't open lem sens $filename: $!";
+    
+    while (<LEMSENS>) {
+	my $line = $_;
+	
+	$line =~ /(\d+):(\d+)\s(.*)/;
+	my $sen_start = $1;
+	my $sen_extent = $2;
+	my $data = $3;
+	
+	if ($chunk_start < ($sen_start + $sen_extent) &&
+	    $chunk_end > $sen_start) {
+	    
+	    my @words = split /\s+/, $data;
+	    
+	    ### drop the first element, which is a lemma weight number
+	    shift @words;
+	    
+	    foreach my $word (@words) {
+		### we're treating the whole line as a list of words,
+		### but the data is actually divided into sections
+		### with one or more lemmas for each word. Drop the extra
+		### hash marks and weights. 
+		$word =~ s/\#.*//;
+		
+		$vocab{$word}++;
+	    }
+	}
+	
+    }
+}
+elsif ($cgi->param("words") ne "") {
+    foreach my $word ($cgi->param("words")) {
+	$vocab{$word}++;
+    }
+
+    $lang = $cgi->param("lang");
+}
+
+### read in stop words
+%stopwords = ();
+
+open STOPFILE, "DBs/$lang.stop";
+while (<STOPFILE>) {
+    my $word = $_;
+    chomp $word;
+    $stopwords{$word}++;
+}
+close STOPFILE;
+
+my %defDB = (
+             ar => 'salmone.short',
+             greek => 'ml.short',
+             la => 'lewis.short',
+             it => 'baretti.short',
+	     oe => 'klaeber.short'
+             );
+
+$defdb = Mdb::Open("DBs/$langName{$lang}/$defDB{$lang}") if $defDB{$lang};
+
+my @questions = ();
+my @answers = ();
+
+foreach my $word (sort { $vocab{$b} <=> $vocab{$a} } keys %vocab) {
+    ### skip very frequent words
+    if (defined $stopwords{$word}) {
+	next;
+    }
+
+    if ($defdb) {
+        my $def = Mdb::Lookup($defdb,$word);
+        if ($def eq '' and $word =~ s/\#?\d+$//) {
+            $def = Mdb::Lookup($defdb,$word);
+        }
+        if ($def ne '') {
+	    push @questions, $word;
+	    push @answers, $def;
+        }
+    }
+}
+
+### set display variables
+my $display = perseusConfig('display', \$cgi);
+my $encoding = set_encoding($cgi, $display);
+
+if ($lang eq "greek") {
+    my $greek_transcoder = config_display($display);
+    open STDOUT, $greek_transcoder;
+}
+
+print $cgi->header(-type=>"text/html; charset=$encoding");
+
+print "<html>\n";
+print "<head><title>Vocabulary Flashcards</title>\n";
+
+print "<script language=\"javascript\">\n";
+
+print "var cards = Array(";
+for (my $i=1;$i<=$#questions;$i++) {
+    print "\"$i\"";
+    if ($i < $#questions) {
+	print ", ";
+    }
+}
+
+print ");\n";
+
+print <<EOF;
+
+var currentCard = 0;
+
+function getRandom(low, high) {
+  i = Math.floor(Math.random() * (high - low)) + low;
+  return i;
+}
+
+function insertCard(arr, element, position) {
+  // special case: first element
+  if (position <= 0) {
+    arr.unshift(element);
+    return arr;
+  }
+  if (position >= arr.length -1) {
+    arr.push(element);
+    return arr;
+  }
+  else {
+    for (i = arr.length;i >= position;i--) {
+      if (i == position) {
+        arr[i] = element;
+      }
+      else {
+        arr[i] = arr[i-1];
+      }
+    }
+  }
+}
+
+function showAnswer() {
+  document.getElementById("a" + currentCard).style.visibility=\"visible\";
+}
+
+function nextCard(confidence) {
+  // make the current card invisible
+  document.getElementById("q" + currentCard).style.visibility="hidden";
+  document.getElementById("a" + currentCard).style.visibility="hidden";
+
+  // -1 means "drop this card"
+  if (confidence != -1) {
+    // move the current card to a new position.
+    // if confidence is low, move it close to the front
+    // if confidence is high, move it to the back
+    position = Math.floor((confidence / 100) * cards.length);
+
+    // mix things up a bit
+    position += Math.floor(getRandom(-confidence/2, confidence/2));
+
+    // put currentCard into cards at position
+    insertCard(cards, currentCard, position);
+  }
+
+  // DEBUG
+  //cardsText = "";
+  //for (i=0;i<cards.length;i++) {
+  //  cardsText += cards[i] + " ";
+  //}
+
+  //document.getElementById("cards_info").innerHTML = cardsText;
+
+  // get a new card
+  currentCard = cards.shift();
+  document.getElementById("q" + currentCard).style.visibility="visible";
+}
+
+</script>
+
+
+<style type=\"text/css\">
+#cards_info {
+  position: absolute;
+  left: 20; top: 300;
+  visibility: visible;
+}
+EOF
+
+for (my $i=0;$i<=$#questions;$i++) {
+    print "#q$i {\n";
+    print "  width: 100%;\n";
+    print "  background-color: #ffffff;\n";
+    print "  position: absolute;\n";
+    print "  left: 20; top: 20;\n";
+    if ($i == 0) {
+	# show the first card
+	print "  visibility: visible;\n";
+    }
+    else {
+	print "  visibility: hidden;\n";
+    }
+    print "}\n\n";
+
+    print "#a$i {\n";
+    print "  background-color: #ffffff;\n";
+    print "  position: absolute;\n";
+    print "  left: 20; top: 80;\n";
+    print "  visibility: hidden;\n";
+    print "}\n\n";
+
+}
+
+print <<EOF;
+#buttons {
+  background-color: #ffffff;
+  position: absolute;
+  left: 20; top: 140;
+  visibility: visible;
+  text-align: center;
+}
+
+.text {
+  font-family: verdana, arial, helvetica;
+  font-size: 12px;
+}
+
+</style>
+</head>
+
+<body>
+
+EOF
+
+for (my $i=0;$i<=$#questions;$i++) {
+    if ($lang eq "greek") {
+	print "<div id=\"q$i\"><span class=\"text\"><G>$questions[$i]</G></span></div>\n\n";
+    }
+    else {
+	print "<div id=\"q$i\"><span class=\"text\">$questions[$i]</span></div>\n\n";
+    }
+    print "<div id=\"a$i\"><span class=\"text\">$answers[$i]</span></div>\n\n";
+}
+
+print <<EOF;
+
+<div id="buttons">
+<span class="text">
+(<a class="text" onclick="javascript:showAnswer()" href="#">reveal answer</a>)
+(<a class="text" onclick="javascript:nextCard(-1)" href="#">remove card</a>)
+<br>
+Confidence:
+
+[no idea]
+<a class="text" onclick="javascript:nextCard(5)" href="#">1</a>
+<a class="text" onclick="javascript:nextCard(10)" href="#">2</a>
+<a class="text" onclick="javascript:nextCard(30)" href="#">3</a>
+<a class="text" onclick="javascript:nextCard(50)" href="#">4</a>
+<a class="text" onclick="javascript:nextCard(70)" href="#">5</a>
+[I know that!]
+
+</span>
+</div>
+
+<div id="cards_info">
+
+</div>
+
+</body>
+</html>
+
+EOF

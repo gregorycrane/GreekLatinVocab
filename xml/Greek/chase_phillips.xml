@@ -1,0 +1,804 @@
+<?xml version="1.0"?>
+
+<TextbookVocab xmlns="http://www.perseus.org/meta/perseus.rdfs#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         id="chase_phillips"
+>
+<metadata>
+        <dc:title>A New Introduction to Greek</dc:title>
+        <dcterms:alternative>Chase and Phillips</dcterms:alternative>
+        <dc:creator>Alston Hurd Chase and Henry Phillips, Jr.</dc:creator>
+        <dc:language>greek</dc:language>
+        <dc:date>1949</dc:date>
+</metadata>
+
+<section n="Lesson 3">
+<entry><orth>a)/nqrwpos</orth><lemma>a)/nqrwpos</lemma></entry>
+<entry><orth>bi/os</orth><lemma>bi/os</lemma></entry>
+<entry><orth>gnw/mh</orth><lemma>gnw/mh</lemma></entry>
+<entry><orth>dw=ron</orth><lemma>dw=ron</lemma></entry>
+<entry><orth>e)/rgon</orth><lemma>e)/rgon</lemma></entry>
+<entry><orth>lo/gos</orth><lemma>lo/gos</lemma></entry>
+<entry><orth>me/tron</orth><lemma>me/tron</lemma></entry>
+<entry>
+  <orth>o(do/s</orth>
+  <lemma>o(do/s1</lemma>
+  <lemma>o(do/s2</lemma>
+</entry>
+<entry><orth>paidi/on</orth><lemma>paidi/on</lemma></entry>
+<entry><orth>fi/los</orth><lemma>fi/los</lemma></entry>
+<entry><orth>xro/nos</orth><lemma>xro/nos</lemma></entry>
+<entry><orth>yuxh/</orth><lemma>yuxh/</lemma></entry>
+<entry><orth>a)gaqo/s</orth><lemma>a)gaqo/s</lemma></entry>
+<entry><orth>a)qa/natos</orth><lemma>a)qa/natos</lemma></entry>
+<entry><orth>a)/ristos</orth><lemma>a)/ristos</lemma></entry>
+<entry><orth>kalo/s</orth><lemma>kalo/s</lemma></entry>
+<entry><orth>koino/s</orth><lemma>koino/s</lemma></entry>
+<entry><orth>sofo/s</orth><lemma>sofo/s</lemma></entry>
+<entry><orth>xalepo/s</orth><lemma>xalepo/s</lemma></entry>
+<entry><orth>e)sti/n</orth><lemma>ei)mi/</lemma></entry>
+<entry><orth>a)ei/</orth><lemma>a)ei/</lemma></entry>
+<entry><orth>ga/r</orth><lemma>ga/r</lemma></entry>
+<entry><orth>o(</orth><lemma>o(</lemma></entry>
+<entry><orth>ou)</orth><lemma>ou)</lemma></entry>
+
+</section>
+<section n="Lesson 4">
+<entry><orth>dikasth/s</orth><lemma>dikasth/s</lemma></entry>
+<entry><orth>h(suxi/a</orth><lemma>h(suxi/a</lemma></entry>
+<entry><orth>qa/latta</orth><lemma>qa/lassa</lemma></entry>
+<entry><orth>qea/</orth><lemma>qea/</lemma></entry>
+<entry><orth>qeo/s</orth><lemma>qeo/s</lemma></entry>
+<entry>
+  <orth>vo/mos</orth>
+</entry>
+<entry><orth>pei=ra</orth><lemma>pei=ra</lemma></entry>
+<entry>
+  <orth>plou/tos</orth>
+</entry>
+<entry><orth>poli/ths</orth><lemma>poli/ths</lemma></entry>
+<entry><orth>skhnh/</orth><lemma>skhnh/</lemma></entry>
+<entry><orth>stratiw/ths</orth><lemma>stratiw/ths</lemma></entry>
+<entry><orth>sumfora/</orth><lemma>sumfora/</lemma></entry>
+<entry><orth>fili/a</orth><lemma>fili/a</lemma></entry>
+<entry><orth>a)/dikos</orth><lemma>a)/dikos</lemma></entry>
+<entry><orth>a)/cios</orth><lemma>a)/cios</lemma></entry>
+<entry><orth>di/kaios</orth><lemma>di/kaios</lemma></entry>
+<entry><orth>kako/s</orth><lemma>kako/s</lemma></entry>
+<entry>
+  <orth>mikpo/s</orth>
+</entry>
+<entry><orth>o(/s</orth><lemma>o(/s</lemma></entry>
+<entry><orth>e)n</orth><lemma>e)n</lemma></entry>
+<entry><orth>kai/</orth><lemma>kai/</lemma></entry>
+<entry><orth>ou)/pote</orth><lemma>ou)/pote</lemma></entry>
+
+</section>
+<section n="Lesson 5">
+<entry><orth>*)aqhnai=oi</orth><lemma>*)aqhnai=os</lemma></entry>
+<entry><orth>h(donh/</orth><lemma>h(donh/</lemma></entry>
+<entry><orth>qa/natos</orth><lemma>qa/natos</lemma></entry>
+<entry><orth>li/qos</orth><lemma>li/qos</lemma></entry>
+<entry><orth>u(/pnos</orth><lemma>u(/pnos</lemma></entry>
+<entry><orth>a)/gw</orth><lemma>a)/gw</lemma></entry>
+<entry><orth>gra/fw</orth><lemma>gra/fw</lemma></entry>
+<entry><orth>ei)=nai</orth><lemma>ei)mi/</lemma></entry>
+<entry><orth>e)/fh</orth><lemma>fhmi/</lemma></entry>
+<entry><orth>e)/xw</orth><lemma>e)/xw</lemma></entry>
+<entry><orth>nomi/zw</orth><lemma>nomi/zw</lemma></entry>
+<entry><orth>paideu/w</orth><lemma>paideu/w</lemma></entry>
+<entry><orth>pei/qw</orth><lemma>pei/qw</lemma></entry>
+<entry><orth>pe/mpw</orth><lemma>pe/mpw</lemma></entry>
+<entry><orth>pisteu/w</orth><lemma>pisteu/w</lemma></entry>
+<entry><orth>fe/rw</orth><lemma>fe/rw</lemma></entry>
+<entry><orth>ei)s</orth><lemma>ei)s</lemma></entry>
+<entry><orth>polla/kis</orth><lemma>polla/kis</lemma></entry>
+
+</section>
+<section n="Lesson 6">
+<entry><orth>a)/rxwn</orth><lemma>a)/rxwn</lemma></entry>
+<entry><orth>a)spi/s</orth><lemma>a)spi/s</lemma></entry>
+<entry><orth>ge/rwn</orth><lemma>ge/rwn</lemma></entry>
+<entry><orth>dai/mwn</orth><lemma>dai/mwn</lemma></entry>
+<entry><orth>h(/lios</orth><lemma>h(/lios</lemma></entry>
+<entry><orth>klw/y</orth><lemma>klw/y</lemma></entry>
+<entry><orth>neani/as</orth><lemma>neani/hs</lemma></entry>
+<entry><orth>ou)rano/s</orth><lemma>ou)rano/s</lemma></entry>
+<entry><orth>poihth/s</orth><lemma>poihth/s</lemma></entry>
+<entry><orth>fu/lac</orth><lemma>fu/lac</lemma></entry>
+<entry><orth>xa/ris</orth><lemma>xa/ris</lemma></entry>
+<entry>
+  <orth>h)=n</orth>
+  <lemma>ei)mi/</lemma>
+  <lemma>h)mi/</lemma>
+</entry>
+<entry><orth>e)sqlo/s</orth><lemma>e)sqlo/s</lemma></entry>
+<entry><orth>mo/nos</orth><lemma>mo/nos</lemma></entry>
+<entry><orth>fi/lios</orth><lemma>fi/lios</lemma></entry>
+<entry><orth>a)lla/</orth><lemma>a)lla/</lemma></entry>
+<entry><orth>mh/</orth><lemma>mh/</lemma></entry>
+<entry><orth>w(/ste</orth><lemma>w(/ste</lemma></entry>
+
+</section>
+<section n="Lesson 7">
+<entry><orth>a)nh/r</orth><lemma>a)nh/r</lemma></entry>
+<entry><orth>basileu/s</orth><lemma>basileu/s</lemma></entry>
+<entry><orth>ge/nos</orth><lemma>ge/nos</lemma></entry>
+<entry><orth>gunh/</orth><lemma>gunh/</lemma></entry>
+<entry><orth>*(/ellhn</orth><lemma>*(/ellhn</lemma></entry>
+<entry><orth>h(me/ra</orth><lemma>h(me/ra</lemma></entry>
+<entry><orth>kairo/s</orth><lemma>kairo/s</lemma></entry>
+<entry><orth>mh/thr</orth><lemma>mh/thr</lemma></entry>
+<entry><orth>pai=s</orth><lemma>pai=s</lemma></entry>
+<entry><orth>path/r</orth><lemma>path/r</lemma></entry>
+<entry><orth>po/lis</orth><lemma>po/lis</lemma></entry>
+<entry><orth>pu=r</orth><lemma>pu=r</lemma></entry>
+<entry><orth>stra/teuma</orth><lemma>stra/teuma</lemma></entry>
+<entry><orth>sw=ma</orth><lemma>sw=ma</lemma></entry>
+<entry><orth>xei/r</orth><lemma>xei/r</lemma></entry>
+<entry><orth>xrh=ma</orth><lemma>xrh=ma</lemma></entry>
+<entry><orth>kri/nw</orth><lemma>kri/nw</lemma></entry>
+<entry><orth>pra/ttw</orth><lemma>pra/ssw</lemma></entry>
+<entry><orth>meta/</orth><lemma>meta/</lemma></entry>
+<entry><orth>w(s</orth><lemma>w(s</lemma></entry>
+<entry><orth>de/ka</orth><lemma>de/ka</lemma></entry>
+
+</section>
+<section n="Lesson 8">
+<entry><orth>a)lh/qeia</orth><lemma>a)lh/qeia</lemma></entry>
+<entry><orth>a)/nemos</orth><lemma>a)/nemos</lemma></entry>
+<entry><orth>gh=</orth><lemma>gh=</lemma></entry>
+<entry><orth>o)rgh/</orth><lemma>o)rgh/</lemma></entry>
+<entry><orth>po/lemos</orth><lemma>po/lemos</lemma></entry>
+<entry><orth>tei=xos</orth><lemma>tei=xos</lemma></entry>
+<entry><orth>ponhro/s</orth><lemma>ponhro/s</lemma></entry>
+<entry><orth>bouleu/w</orth><lemma>bouleu/w</lemma></entry>
+<entry>
+  <orth>qu/w</orth>
+  <lemma>qu/on</lemma>
+  <lemma>qu/w1</lemma>
+  <lemma>qu/w2</lemma>
+  <lemma>quo/w</lemma>
+</entry>
+<entry><orth>h)=lqon</orth><lemma>e)/rxomai</lemma></entry>
+<entry><orth>lei/pw</orth><lemma>lei/pw</lemma></entry>
+<entry><orth>me/nw</orth><lemma>me/nw</lemma></entry>
+<entry><orth>paideu/w</orth><lemma>paideu/w</lemma></entry>
+<entry><orth>dia/</orth><lemma>dia/</lemma></entry>
+<entry><orth>e)k</orth><lemma>e)k</lemma></entry>
+<entry>
+  <orth>e)pi</orth>
+</entry>
+<entry>
+  <orth>me/n...de/</orth>
+</entry>
+
+<entry>
+  <orth>Lesson</orth>
+</entry>
+<entry><orth>dhmokrati/a</orth><lemma>dhmokrati/a</lemma></entry>
+<entry><orth>turanni/s</orth><lemma>turanni/s</lemma></entry>
+<entry><orth>u(gi/eia</orth><lemma>u(gi/eia</lemma></entry>
+<entry><orth>h(du/s</orth><lemma>h(du/s</lemma></entry>
+<entry><orth>o(/los</orth><lemma>o(/los</lemma></entry>
+<entry><orth>ou)de/n</orth><lemma>ou)dei/s</lemma></entry>
+<entry><orth>e)/stin</orth><lemma>ei)mi/</lemma></entry>
+<entry>
+  <orth>le/gw</orth>
+  <lemma>le/gos</lemma>
+  <lemma>le/gw1</lemma>
+  <lemma>le/gw2</lemma>
+  <lemma>le/gw3</lemma>
+</entry>
+<entry><orth>tei/nw</orth><lemma>tei/nw</lemma></entry>
+<entry><orth>ei)</orth><lemma>ei)</lemma></entry>
+<entry>
+  <orth>h)/</orth>
+  <lemma>h)/1</lemma>
+  <lemma>h)/2</lemma>
+</entry>
+<entry>
+  <orth>o(/ti</orth>
+  <lemma>o(/stis</lemma>
+  <lemma>o(/ti1</lemma>
+  <lemma>o(/ti2</lemma>
+</entry>
+<entry><orth>ou)de/</orth><lemma>ou)de/</lemma></entry>
+<entry><orth>ou)=n</orth><lemma>ou)=n</lemma></entry>
+<entry><orth>u(po/</orth><lemma>u(po/</lemma></entry>
+<entry><orth>w(s</orth><lemma>w(s</lemma></entry>
+
+</section>
+<section n="Lesson 10">
+<entry><orth>qhri/on</orth><lemma>qhri/on</lemma></entry>
+<entry><orth>strathgo/s</orth><lemma>strathgo/s</lemma></entry>
+<entry>
+  <orth>u(/dwqp</orth>
+</entry>
+<entry><orth>e)qe/lw</orth><lemma>e)qe/lw</lemma></entry>
+<entry><orth>e)kei=nos</orth><lemma>e)kei=nos</lemma></entry>
+<entry><orth>ne/os</orth><lemma>ne/os</lemma></entry>
+<entry>
+  <orth>o(=/de</orth>
+</entry>
+<entry><orth>ou(=tos</orth><lemma>ou(=tos</lemma></entry>
+<entry><orth>prw=tos</orth><lemma>prw=tos</lemma></entry>
+<entry><orth>xalepo/s</orth><lemma>xalepo/s</lemma></entry>
+<entry><orth>e)/peita</orth><lemma>e)/peita</lemma></entry>
+<entry><orth>e)/ti</orth><lemma>e)/ti</lemma></entry>
+<entry><orth>ma=llon</orth><lemma>ma=llon</lemma></entry>
+<entry><orth>ou(/tw</orth><lemma>ou(/tws</lemma></entry>
+
+</section>
+<section n="Lesson 11">
+<entry><orth>a)reth/</orth><lemma>a)reth/</lemma></entry>
+<entry><orth>nou=s</orth><lemma>no/os</lemma></entry>
+<entry><orth>stratia/</orth><lemma>stratia/</lemma></entry>
+<entry><orth>te/los</orth><lemma>te/los</lemma></entry>
+<entry><orth>deu/teros</orth><lemma>deu/teros</lemma></entry>
+<entry><orth>ti/s</orth><lemma>ti/s</lemma></entry>
+<entry><orth>tis</orth><lemma>tis</lemma></entry>
+<entry><orth>o(/stis</orth><lemma>o(/stis</lemma></entry>
+<entry><orth>a)/rxw</orth><lemma>a)/rxw</lemma></entry>
+<entry><orth>dei=</orth><lemma>dei=</lemma></entry>
+<entry><orth>a)/ra</orth><lemma>a)/ra</lemma></entry>
+<entry><orth>ou)/te</orth><lemma>ou)/te</lemma></entry>
+<entry><orth>pote/</orth><lemma>pote/</lemma></entry>
+<entry><orth>te</orth><lemma>te</lemma></entry>
+<entry><orth>w)=</orth><lemma>w)=</lemma></entry>
+
+</section>
+<section n="Lesson 12">
+<entry>
+  <orth>ei)=rh/nh</orth>
+</entry>
+<entry><orth>pedi/on</orth><lemma>pedi/on</lemma></entry>
+<entry><orth>pe/tra</orth><lemma>pe/tra</lemma></entry>
+<entry><orth>tro/pos</orth><lemma>tro/pos</lemma></entry>
+<entry><orth>ei)=don</orth><lemma>ei)=don</lemma></entry>
+<entry><orth>ei)mi/</orth><lemma>ei)mi/</lemma></entry>
+<entry><orth>tre/fw</orth><lemma>tre/fw</lemma></entry>
+<entry><orth>a)/llos</orth><lemma>a)/llos</lemma></entry>
+<entry><orth>au)to/s</orth><lemma>au)to/s</lemma></entry>
+<entry><orth>du/o</orth><lemma>du/o</lemma></entry>
+<entry><orth>e(/kastos</orth><lemma>e(/kastos</lemma></entry>
+<entry><orth>e(ka/teros</orth><lemma>e(ka/teros</lemma></entry>
+<entry><orth>e(/teros</orth><lemma>e(/teros</lemma></entry>
+<entry><orth>ou)dei/s</orth><lemma>ou)dei/s</lemma></entry>
+<entry><orth>e)/mprosqen</orth><lemma>e)/mprosqen</lemma></entry>
+<entry><orth>o)/pisqen</orth><lemma>o)/pisqen</lemma></entry>
+
+</section>
+<section n="Lesson 13">
+<entry><orth>ma/xh</orth><lemma>ma/xh</lemma></entry>
+<entry>
+  <orth>strato/medon</orth>
+</entry>
+<entry><orth>timh/</orth><lemma>timh/</lemma></entry>
+<entry><orth>ai)sxro/s</orth><lemma>ai)sxro/s</lemma></entry>
+<entry><orth>toiou=tos</orth><lemma>toiou=tos</lemma></entry>
+<entry><orth>di/dwmi</orth><lemma>di/dwmi</lemma></entry>
+<entry><orth>i(/sthmi</orth><lemma>i(/sthmi</lemma></entry>
+<entry><orth>prodi/dwmi</orth><lemma>prodi/dwmi</lemma></entry>
+<entry><orth>feu/gw</orth><lemma>feu/gw</lemma></entry>
+<entry><orth>e)ntau=qa</orth><lemma>e)ntau=qa</lemma></entry>
+<entry><orth>plh/n</orth><lemma>plh/n</lemma></entry>
+<entry><orth>pro/s</orth><lemma>pro/s</lemma></entry>
+<entry><orth>po/te</orth><lemma>po/te</lemma></entry>
+<entry><orth>te</orth><lemma>te</lemma></entry>
+
+</section>
+<section n="Lesson 14">
+<entry><orth>a)/ggelos</orth><lemma>a)/ggelos</lemma></entry>
+<entry><orth>a)rxh/</orth><lemma>a)rxh/</lemma></entry>
+<entry><orth>a)llh/lwn</orth><lemma>a)llh/lwn</lemma></entry>
+<entry><orth>qaumasto/s</orth><lemma>qaumasto/s</lemma></entry>
+<entry><orth>palaio/s</orth><lemma>palaio/s</lemma></entry>
+<entry><orth>dei/knumi</orth><lemma>dei/knumi</lemma></entry>
+<entry><orth>e)pidei/knumi</orth><lemma>e)pidei/knumi</lemma></entry>
+<entry><orth>i(/hmi</orth><lemma>i(/hmi</lemma></entry>
+<entry><orth>katati/qhmi</orth><lemma>katati/qhmi</lemma></entry>
+<entry>
+  <orth>lahba/nw</orth>
+</entry>
+<entry>
+  <orth>pa/reimiti/qhmi</orth>
+</entry>
+<entry><orth>e)pei/</orth><lemma>e)pei/</lemma></entry>
+<entry><orth>para/</orth><lemma>para/</lemma></entry>
+<entry><orth>per</orth><lemma>pe/r</lemma></entry>
+
+</section>
+<section n="Lesson 15">
+<entry>
+  <orth>e(/tairos</orth>
+</entry>
+<entry><orth>o(po/teros</orth><lemma>o(po/teros</lemma></entry>
+<entry>
+  <orth>r(a|/dios</orth>
+</entry>
+<entry>
+  <orth>a)poqnh|/skw</orth>
+</entry>
+<entry><orth>basileu/w</orth><lemma>basileu/w</lemma></entry>
+<entry><orth>doke/w</orth><lemma>doke/w</lemma></entry>
+<entry><orth>e)rwta/w</orth><lemma>e)rwta/w</lemma></entry>
+<entry><orth>keleu/w</orth><lemma>keleu/w</lemma></entry>
+<entry><orth>nika/w</orth><lemma>nika/w</lemma></entry>
+<entry><orth>o(ra/w</orth><lemma>o(ra/w</lemma></entry>
+<entry><orth>poie/w</orth><lemma>poie/w</lemma></entry>
+<entry><orth>nose/w</orth><lemma>nose/w</lemma></entry>
+<entry><orth>tima/w</orth><lemma>tima/w</lemma></entry>
+<entry><orth>file/w</orth><lemma>file/w</lemma></entry>
+
+</section>
+<section n="Lesson 16">
+<entry><orth>pole/mioi</orth><lemma>pole/mios</lemma></entry>
+<entry><orth>i)sxuro/s</orth><lemma>i)sxuro/s</lemma></entry>
+<entry><orth>a)cio/w</orth><lemma>a)cio/w</lemma></entry>
+<entry><orth>a)poktei/nw</orth><lemma>a)poktei/nw</lemma></entry>
+<entry><orth>ba/llw</orth><lemma>ba/llw</lemma></entry>
+<entry><orth>dhlo/w</orth><lemma>dhlo/w</lemma></entry>
+<entry><orth>e)/cestin</orth><lemma>e)/cesti</lemma></entry>
+<entry><orth>za/w</orth><lemma>za/w</lemma></entry>
+<entry><orth>me/llw</orth><lemma>me/llw</lemma></entry>
+<entry><orth>noe/w</orth><lemma>noe/w</lemma></entry>
+<entry><orth>oi)ke/w</orth><lemma>oi)ke/w</lemma></entry>
+
+</section>
+<section n="Lesson 17">
+<entry><orth>paidei/a</orth><lemma>paidei/a</lemma></entry>
+<entry>
+  <orth>stefano/s</orth>
+</entry>
+<entry><orth>a)lhqh/s</orth><lemma>a)lhqh/s</lemma></entry>
+<entry><orth>braxu/s</orth><lemma>braxu/s</lemma></entry>
+<entry><orth>gluku/s</orth><lemma>gluku/s</lemma></entry>
+<entry><orth>dustuxh/s</orth><lemma>dustuxh/s</lemma></entry>
+<entry><orth>eu)genh/s</orth><lemma>eu)genh/s</lemma></entry>
+<entry><orth>eu)tuxh/s</orth><lemma>eu)tuxh/s</lemma></entry>
+<entry><orth>o(/moios</orth><lemma>o(/moios</lemma></entry>
+<entry><orth>pikro/s</orth><lemma>pikro/s</lemma></entry>
+<entry>
+  <orth>xrusou=s</orth>
+  <lemma>xru/seos</lemma>
+  <lemma>xruso/w</lemma>
+</entry>
+<entry><orth>yeudh/s</orth><lemma>yeudh/s</lemma></entry>
+<entry><orth>a)dike/w</orth><lemma>a)dike/w</lemma></entry>
+<entry><orth>ti/ktw</orth><lemma>ti/ktw</lemma></entry>
+<entry><orth>xrh/</orth><lemma>xrh/</lemma></entry>
+<entry><orth>mhde/</orth><lemma>mhde/</lemma></entry>
+
+</section>
+<section n="Lesson 18">
+<entry><orth>a)gw/n</orth><lemma>a)gw/n</lemma></entry>
+<entry><orth>dida/skalos</orth><lemma>dida/skalos</lemma></entry>
+<entry><orth>i(ero/n</orth><lemma>i(ero/n</lemma></entry>
+<entry><orth>fw=s</orth><lemma>fa/os</lemma></entry>
+<entry>
+  <orth>a)rgurou=s</orth>
+  <lemma>a)rgu/reos</lemma>
+  <lemma>a)rguro/w</lemma>
+</entry>
+<entry><orth>dh=los</orth><lemma>dh=los</lemma></entry>
+<entry><orth>krupto/s</orth><lemma>krupto/s</lemma></entry>
+<entry><orth>me/gas</orth><lemma>me/gas</lemma></entry>
+<entry><orth>pa=s</orth><lemma>pa=s</lemma></entry>
+<entry><orth>polu/s</orth><lemma>polu/s</lemma></entry>
+<entry><orth>a)pa/gw</orth><lemma>a)pa/gw</lemma></entry>
+<entry><orth>e)ggu/s</orth><lemma>e)ggu/s</lemma></entry>
+<entry><orth>nu=n</orth><lemma>nu=n</lemma></entry>
+<entry><orth>pa/ntws</orth><lemma>pa/ntws</lemma></entry>
+<entry><orth>u(pe/r</orth><lemma>u(pe/r</lemma></entry>
+
+</section>
+<section n="Lesson 19">
+<entry><orth>kefalh/</orth><lemma>kefalh/</lemma></entry>
+<entry><orth>o)dou/s</orth><lemma>o)dou/s</lemma></entry>
+<entry><orth>gumno/s</orth><lemma>gumno/s</lemma></entry>
+<entry><orth>me/sos</orth><lemma>me/sos</lemma></entry>
+<entry><orth>ei)=pon</orth><lemma>ei)=pon</lemma></entry>
+<entry><orth>kale/w</orth><lemma>kale/w</lemma></entry>
+<entry><orth>manqa/nw</orth><lemma>manqa/nw</lemma></entry>
+<entry><orth>pi/ptw</orth><lemma>pi/ptw</lemma></entry>
+<entry><orth>dh/</orth><lemma>dh/</lemma></entry>
+<entry><orth>pou=</orth><lemma>pou=</lemma></entry>
+<entry><orth>w(/sper</orth><lemma>w(/sper</lemma></entry>
+
+</section>
+<section n="Lesson 20">
+<entry>
+  <orth>oi)/kos</orth>
+</entry>
+<entry><orth>o(/plon</orth><lemma>o(/plon</lemma></entry>
+<entry><orth>po/nos</orth><lemma>po/nos</lemma></entry>
+<entry><orth>ta/lanton</orth><lemma>ta/lanton</lemma></entry>
+<entry><orth>tu/xh</orth><lemma>tu/xh</lemma></entry>
+<entry><orth>ui(o/s</orth><lemma>ui(o/s</lemma></entry>
+<entry><orth>fa/rmakon</orth><lemma>fa/rmakon</lemma></entry>
+<entry><orth>fqo/nos</orth><lemma>fqo/nos</lemma></entry>
+<entry><orth>diati/qhmi</orth><lemma>diati/qhmi</lemma></entry>
+<entry>
+  <orth>e)piti/</orth>
+</entry>
+<entry><orth>komi/zw</orth><lemma>komi/zw</lemma></entry>
+<entry><orth>krate/w</orth><lemma>krate/w</lemma></entry>
+<entry><orth>paradi/dwmi</orth><lemma>paradi/dwmi</lemma></entry>
+<entry><orth>teleuta/w</orth><lemma>teleuta/w</lemma></entry>
+<entry><orth>de/ka</orth><lemma>de/ka</lemma></entry>
+<entry><orth>eu)=</orth><lemma>eu)=</lemma></entry>
+<entry>
+  <orth>eu)qu/s</orth>
+  <lemma>eu)qu/s1</lemma>
+  <lemma>eu)qu/s2</lemma>
+</entry>
+<entry><orth>li/an</orth><lemma>li/an</lemma></entry>
+<entry><orth>tria/konta</orth><lemma>tria/konta</lemma></entry>
+
+</section>
+<section n="Lesson 21">
+<entry>
+  <orth>ba/pbapos</orth>
+</entry>
+<entry><orth>kh=ruc</orth><lemma>kh=ruc</lemma></entry>
+<entry><orth>o(/pla</orth><lemma>o(/plon</lemma></entry>
+<entry><orth>baru/s</orth><lemma>baru/s</lemma></entry>
+<entry><orth>diw/kw</orth><lemma>diw/kw</lemma></entry>
+<entry>
+  <orth>lanwqa/nw</orth>
+</entry>
+<entry>
+  <orth>su/neimi</orth>
+  <lemma>su/neimi1</lemma>
+  <lemma>su/neimi2</lemma>
+</entry>
+<entry><orth>tugxa/nw</orth><lemma>tugxa/nw</lemma></entry>
+<entry><orth>su/n</orth><lemma>su/n</lemma></entry>
+
+</section>
+<section n="Lesson 22">
+<entry><orth>a)gora/</orth><lemma>a)gora/</lemma></entry>
+<entry><orth>ku/wn</orth><lemma>ku/wn</lemma></entry>
+<entry><orth>o)/noma</orth><lemma>o)/noma</lemma></entry>
+<entry><orth>a(/pas</orth><lemma>a(/pas</lemma></entry>
+<entry><orth>a)kou/w</orth><lemma>a)kou/w</lemma></entry>
+<entry>
+  <orth>a)padi/dwmi</orth>
+</entry>
+<entry>
+  <orth>yiynw/skw</orth>
+</entry>
+<entry><orth>e)/xw</orth><lemma>e)/xw</lemma></entry>
+<entry><orth>qauma/zw</orth><lemma>qauma/zw</lemma></entry>
+<entry><orth>poie/w</orth><lemma>poie/w</lemma></entry>
+<entry>
+  <orth>kakw=s</orth>
+  <lemma>kako/s</lemma>
+  <lemma>kako/w</lemma>
+</entry>
+<entry><orth>xalepw=s</orth><lemma>xalepo/s</lemma></entry>
+<entry><orth>w(s</orth><lemma>w(s</lemma></entry>
+
+</section>
+<section n="Lesson 23">
+<entry><orth>nau=s</orth><lemma>nau=s</lemma></entry>
+<entry><orth>plh=qos</orth><lemma>plh=qos</lemma></entry>
+<entry><orth>si=tos</orth><lemma>si=tos</lemma></entry>
+<entry><orth>xwri/on</orth><lemma>xwri/on</lemma></entry>
+<entry><orth>o(/sos</orth><lemma>o(/sos</lemma></entry>
+<entry><orth>a)gge/llw</orth><lemma>a)gge/llw</lemma></entry>
+<entry><orth>ai(re/w</orth><lemma>ai(re/w</lemma></entry>
+<entry><orth>e)sqi/w</orth><lemma>e)sqi/w</lemma></entry>
+<entry><orth>ple/w</orth><lemma>ple/w</lemma></entry>
+<entry><orth>a(/ma</orth><lemma>a(/ma</lemma></entry>
+<entry><orth>i(/na</orth><lemma>i(/na</lemma></entry>
+<entry><orth>kai/per</orth><lemma>kai/per</lemma></entry>
+<entry><orth>o(/pws</orth><lemma>o(/pws</lemma></entry>
+<entry><orth>pe/nte</orth><lemma>pe/nte</lemma></entry>
+<entry><orth>w(s</orth><lemma>w(s</lemma></entry>
+
+</section>
+<section n="Lesson 24">
+<entry><orth>pa/qos</orth><lemma>pa/qos</lemma></entry>
+<entry>
+  <orth>po/vos</orth>
+</entry>
+<entry><orth>potamo/s</orth><lemma>potamo/s</lemma></entry>
+<entry><orth>u(sterai=os</orth><lemma>u(sterai=os</lemma></entry>
+<entry><orth>u(/steros</orth><lemma>u(/steros</lemma></entry>
+<entry><orth>a)gnoe/w</orth><lemma>a)gnoe/w</lemma></entry>
+<entry><orth>game/w</orth><lemma>game/w</lemma></entry>
+<entry><orth>diadi/wmi</orth><lemma>dia/-di/w</lemma></entry>
+<entry><orth>e)lau/nw</orth><lemma>e)lau/nw</lemma></entry>
+<entry>
+  <orth>o(rawpra/ttw</orth>
+</entry>
+<entry><orth>e)nteu=qen</orth><lemma>e)nteu=qen</lemma></entry>
+<entry><orth>pou</orth><lemma>pou/</lemma></entry>
+<entry><orth>pw=s</orth><lemma>pw=s</lemma></entry>
+
+</section>
+<section n="Lesson 25">
+<entry><orth>nu/c</orth><lemma>nu/c</lemma></entry>
+<entry><orth>patri/s</orth><lemma>patri/s</lemma></entry>
+<entry><orth>fo/bos</orth><lemma>fo/bos</lemma></entry>
+<entry><orth>deino/s</orth><lemma>deino/s</lemma></entry>
+<entry><orth>bouleu/w</orth><lemma>bouleu/w</lemma></entry>
+<entry><orth>gi/gnomai</orth><lemma>gi/gnomai</lemma></entry>
+<entry><orth>dei/dw</orth><lemma>dei/dw</lemma></entry>
+<entry><orth>du/namai</orth><lemma>du/namai</lemma></entry>
+<entry><orth>e)/rxomai</orth><lemma>e)/rxomai</lemma></entry>
+<entry><orth>ka/qhmai</orth><lemma>ka/qhmai</lemma></entry>
+<entry><orth>kei=mai</orth><lemma>kei=mai</lemma></entry>
+<entry>
+  <orth>fobe/omaima/lista</orth>
+</entry>
+<entry><orth>tosou=tos</orth><lemma>tosou=tos</lemma></entry>
+
+</section>
+<section n="Lesson 26">
+<entry><orth>i(/ppos</orth><lemma>i(/ppos</lemma></entry>
+<entry><orth>w(/ra</orth><lemma>w(/ra</lemma></entry>
+<entry><orth>i)/dios</orth><lemma>i)/dios</lemma></entry>
+<entry><orth>maka/rios</orth><lemma>maka/rios</lemma></entry>
+<entry><orth>plou/sios</orth><lemma>plou/sios</lemma></entry>
+<entry><orth>pro/qumos</orth><lemma>pro/qumos</lemma></entry>
+<entry><orth>a(marta/nw</orth><lemma>a(marta/nw</lemma></entry>
+<entry><orth>bou/lomai</orth><lemma>bou/lomai</lemma></entry>
+<entry>
+  <orth>eu)rgete/w</orth>
+</entry>
+<entry><orth>ma/xomai</orth><lemma>ma/xomai</lemma></entry>
+<entry><orth>speu/dw</orth><lemma>speu/dw</lemma></entry>
+<entry><orth>e)/ste</orth><lemma>e)/ste</lemma></entry>
+<entry><orth>eu)=</orth><lemma>eu)=</lemma></entry>
+<entry><orth>e(/ws</orth><lemma>e(/ws</lemma></entry>
+<entry><orth>me/xri</orth><lemma>me/xri</lemma></entry>
+<entry>
+  <orth>o(mo/te</orth>
+</entry>
+<entry><orth>pri/n</orth><lemma>pri/n</lemma></entry>
+<entry><orth>w(s</orth><lemma>w(s</lemma></entry>
+
+</section>
+<section n="Lesson 27">
+<entry><orth>e)leuqeri/a</orth><lemma>e)leuqeri/a</lemma></entry>
+<entry><orth>poi=os</orth><lemma>poi=os</lemma></entry>
+<entry><orth>po/teros</orth><lemma>po/teros</lemma></entry>
+<entry><orth>dida/skw</orth><lemma>dida/skw</lemma></entry>
+<entry><orth>e)pi/stamai</orth><lemma>e)pi/stamai</lemma></entry>
+<entry>
+  <orth>oi)=mai</orth>
+  <lemma>oi)/mh</lemma>
+  <lemma>oi)/omai</lemma>
+</entry>
+<entry>
+  <orth>au)=</orth>
+  <lemma>au)=1</lemma>
+  <lemma>au)=2</lemma>
+</entry>
+<entry><orth>e)nqa/de</orth><lemma>e)nqa/de</lemma></entry>
+<entry><orth>o(/pou</orth><lemma>o(/pou</lemma></entry>
+<entry><orth>ou)kou=n</orth><lemma>ou)kou=n</lemma></entry>
+
+</section>
+<section n="Lesson 28">
+<entry><orth>a)na/gkh</orth><lemma>a)na/gkh</lemma></entry>
+<entry><orth>dei=pnon</orth><lemma>dei=pnon</lemma></entry>
+<entry>
+  <orth>ce/nos</orth>
+  <lemma>ce/nos1</lemma>
+  <lemma>ce/nos2</lemma>
+</entry>
+<entry>
+  <orth>fqnh/</orth>
+</entry>
+<entry><orth>a)rxai=os</orth><lemma>a)rxai=os</lemma></entry>
+<entry><orth>zhte/w</orth><lemma>zhte/w</lemma></entry>
+<entry><orth>lu/w</orth><lemma>lu/w</lemma></entry>
+<entry><orth>tre/pw</orth><lemma>tre/pw</lemma></entry>
+<entry><orth>u(pisxne/omai</orth><lemma>u(pisxne/omai</lemma></entry>
+<entry>
+  <orth>fula/ttw</orth>
+  <lemma>fula/ssw</lemma>
+  <lemma>fula/zw</lemma>
+</entry>
+<entry><orth>a)po/</orth><lemma>a)po/</lemma></entry>
+<entry><orth>pro/</orth><lemma>pro/</lemma></entry>
+<entry><orth>w(s</orth><lemma>w(s</lemma></entry>
+
+</section>
+<section n="Lesson 29">
+<entry><orth>a)=qlon</orth><lemma>a)=qlon</lemma></entry>
+<entry><orth>*(ella/s</orth><lemma>*(ella/s</lemma></entry>
+<entry><orth>xw/ra</orth><lemma>xw/ra</lemma></entry>
+<entry><orth>h(/kw</orth><lemma>h(/kw</lemma></entry>
+<entry><orth>qewre/w</orth><lemma>qewre/w</lemma></entry>
+<entry>
+  <orth>poreu?omai</orth>
+</entry>
+<entry><orth>punqa/nomai</orth><lemma>punqa/nomai</lemma></entry>
+<entry><orth>a)nti/</orth><lemma>a)nti/</lemma></entry>
+<entry><orth>e(/neka</orth><lemma>e(/neka</lemma></entry>
+<entry><orth>oi)/kade</orth><lemma>oi)/kade</lemma></entry>
+<entry><orth>peri/</orth><lemma>peri/</lemma></entry>
+
+</section>
+<section n="Lesson 30">
+<entry><orth>du/namis</orth><lemma>du/namis</lemma></entry>
+<entry><orth>kle/os</orth><lemma>kle/os</lemma></entry>
+<entry><orth>fanero/s</orth><lemma>fanero/s</lemma></entry>
+<entry><orth>a)gei/rw</orth><lemma>a)gei/rw</lemma></entry>
+<entry><orth>a)gei/rw</orth><lemma>a)gei/rw</lemma></entry>
+<entry><orth>a)noi/gnumi</orth><lemma>a)noi/gnumi</lemma></entry>
+<entry><orth>ei)ka/zw</orth><lemma>ei)ka/zw</lemma></entry>
+<entry><orth>sumbouleu/w</orth><lemma>sumbouleu/w</lemma></entry>
+<entry><orth>e(ka/stote</orth><lemma>e(ka/stote</lemma></entry>
+<entry>
+  <orth>pros</orth>
+</entry>
+
+</section>
+<section n="Lesson 31">
+<entry><orth>a)/stu</orth><lemma>a)/stu</lemma></entry>
+<entry><orth>tro/paion</orth><lemma>tro/paion</lemma></entry>
+<entry><orth>makro/s</orth><lemma>makro/s</lemma></entry>
+<entry>
+  <orth>ai(=os</orth>
+</entry>
+<entry><orth>a)po/llumi</orth><lemma>a)po/llumi</lemma></entry>
+<entry><orth>a)fikne/omai</orth><lemma>a)fikne/omai</lemma></entry>
+<entry><orth>di/dwmi</orth><lemma>di/dwmi</lemma></entry>
+<entry><orth>e)pibouleu/w</orth><lemma>e)pibouleu/w</lemma></entry>
+<entry><orth>e)piqume/w</orth><lemma>e)piqume/w</lemma></entry>
+<entry><orth>pa/sxw</orth><lemma>pa/sxw</lemma></entry>
+<entry><orth>h)/dh</orth><lemma>h)/dh</lemma></entry>
+
+</section>
+<section n="Lesson 32">
+<entry><orth>a)kro/polis</orth><lemma>a)kro/polis</lemma></entry>
+<entry>
+  <orth>quga/thp</orth>
+</entry>
+<entry><orth>i(ppeu/s</orth><lemma>i(ppeu/s</lemma></entry>
+<entry><orth>pezo/s</orth><lemma>pezo/s</lemma></entry>
+<entry><orth>su/mmaxos</orth><lemma>su/mmaxos</lemma></entry>
+<entry><orth>u(/bris</orth><lemma>u(/bris</lemma></entry>
+<entry><orth>ai(re/w</orth><lemma>ai(re/w</lemma></entry>
+<entry><orth>ai)sqa/nomai</orth><lemma>ai)sqa/nomai</lemma></entry>
+<entry><orth>bohqe/w</orth><lemma>bohqe/w</lemma></entry>
+<entry><orth>de/xomai</orth><lemma>de/xomai</lemma></entry>
+<entry><orth>xra/omai</orth><lemma>xra/omai</lemma></entry>
+<entry><orth>xwre/w</orth><lemma>xwre/w</lemma></entry>
+<entry><orth>a)na/</orth><lemma>a)na/</lemma></entry>
+<entry><orth>e)kei=qen</orth><lemma>e)kei=qen</lemma></entry>
+<entry><orth>e)/cw</orth><lemma>e)/cw</lemma></entry>
+<entry><orth>pa/lai</orth><lemma>pa/lai</lemma></entry>
+
+</section>
+<section n="Lesson 33">
+<entry><orth>o(po/sos</orth><lemma>o(po/sos</lemma></entry>
+<entry><orth>ai)te/w</orth><lemma>ai)te/w</lemma></entry>
+<entry><orth>e)ceta/zw</orth><lemma>e)ceta/zw</lemma></entry>
+<entry><orth>e)pece/rxomai</orth><lemma>e)pece/rxomai</lemma></entry>
+<entry><orth>paratugxa/nw</orth><lemma>paratugxa/nw</lemma></entry>
+<entry>
+  <orth>polehe/w</orth>
+</entry>
+<entry><orth>ta/ttw</orth><lemma>ta/ssw</lemma></entry>
+<entry><orth>u(popteu/w</orth><lemma>u(popteu/w</lemma></entry>
+<entry><orth>ai)ei/</orth><lemma>a)ei/</lemma></entry>
+<entry><orth>a)/lloqen</orth><lemma>a)/lloqen</lemma></entry>
+<entry><orth>dio/ti</orth><lemma>dio/ti</lemma></entry>
+
+</section>
+<section n="Lesson 34">
+<entry><orth>glw=tta</orth><lemma>glw=ssa</lemma></entry>
+<entry><orth>a)pore/w</orth><lemma>a)pore/w</lemma></entry>
+<entry><orth>a)paine/w</orth><lemma>a)po/-ai)ne/w</lemma></entry>
+<entry><orth>e)pigela/w</orth><lemma>e)pigela/w</lemma></entry>
+<entry><orth>mimnh//skw</orth><lemma>mimnh/skw</lemma></entry>
+<entry><orth>pei/qw</orth><lemma>pei/qw</lemma></entry>
+<entry><orth>tre/xw</orth><lemma>tre/xw</lemma></entry>
+<entry><orth>fai/nw</orth><lemma>fai/nw</lemma></entry>
+<entry><orth>yeu/dw</orth><lemma>yeu/dw</lemma></entry>
+
+</section>
+<section n="Lesson 35">
+<entry><orth>a)/rton</orth><lemma>a)/rtos</lemma></entry>
+<entry><orth>basilei/a</orth><lemma>basilei/a</lemma></entry>
+<entry><orth>qe/lhma</orth><lemma>qe/lhma</lemma></entry>
+<entry><orth>patri/s</orth><lemma>patri/s</lemma></entry>
+<entry><orth>triw/bolon</orth><lemma>triw/bolon</lemma></entry>
+<entry><orth>a)gwni/zomai</orth><lemma>a)gwni/zomai</lemma></entry>
+<entry><orth>a)fi/hmi</orth><lemma>a)fi/hmi</lemma></entry>
+<entry><orth>kerdai/nw</orth><lemma>kerdai/nw</lemma></entry>
+<entry><orth>kwlu/w</orth><lemma>kwlu/w</lemma></entry>
+<entry><orth>pro/teron</orth><lemma>pro/teros</lemma></entry>
+<entry><orth>sh/meron</orth><lemma>sh/meron</lemma></entry>
+
+</section>
+<section n="Lesson 36">
+<entry><orth>pra=gma</orth><lemma>pra=gma</lemma></entry>
+<entry><orth>a)sqenh/s</orth><lemma>a)sqenh/s</lemma></entry>
+<entry><orth>e(/toimos</orth><lemma>e(toi=mos</lemma></entry>
+<entry><orth>a)ne/xomai</orth><lemma>a)ne/xw</lemma></entry>
+<entry><orth>diafqei/rw</orth><lemma>diafqei/rw</lemma></entry>
+<entry><orth>e(/pomai</orth><lemma>e(/pomai</lemma></entry>
+<entry><orth>h(ge/omai</orth><lemma>h(ge/omai</lemma></entry>
+<entry><orth>oi(=o/s</orth><lemma>oi(=os</lemma></entry>
+
+</section>
+<section n="Lesson 37">
+<entry><orth>ga/mos</orth><lemma>ga/mos</lemma></entry>
+<entry><orth>le/wn</orth><lemma>le/wn</lemma></entry>
+<entry><orth>o(pli/ths</orth><lemma>o(pli/ths</lemma></entry>
+<entry><orth>a)mfo/teros</orth><lemma>a)mfo/teros</lemma></entry>
+<entry><orth>o(/moios</orth><lemma>o(/moios</lemma></entry>
+<entry><orth>a)nagka/zw</orth><lemma>a)nagka/zw</lemma></entry>
+<entry><orth>o)neidi/zw</orth><lemma>o)neidi/zw</lemma></entry>
+<entry><orth>sulle/gw</orth><lemma>sulle/gw</lemma></entry>
+<entry><orth>fra/zw</orth><lemma>fra/zw</lemma></entry>
+<entry><orth>a)mfi/</orth><lemma>a)mfi/</lemma></entry>
+<entry><orth>ei)s</orth><lemma>ei)s</lemma></entry>
+
+</section>
+<section n="Lesson 38">
+<entry><orth>bibli/on</orth><lemma>bibli/on</lemma></entry>
+<entry><orth>qhsauro/s</orth><lemma>qhsauro/s</lemma></entry>
+<entry><orth>dida/skw</orth><lemma>dida/skw</lemma></entry>
+<entry><orth>die/rxomai</orth><lemma>die/rxomai</lemma></entry>
+<entry><orth>e)kle/gomai</orth><lemma>e)kle/gw</lemma></entry>
+<entry><orth>h(/domai</orth><lemma>h(/domai</lemma></entry>
+<entry><orth>w)fele/w</orth><lemma>w)fele/w</lemma></entry>
+<entry><orth>di/s</orth><lemma>di/s</lemma></entry>
+<entry><orth>kata/</orth><lemma>kata/</lemma></entry>
+
+</section>
+<section n="Lesson 39">
+<entry><orth>di/kh</orth><lemma>di/kh</lemma></entry>
+<entry><orth>e)piqumhth/s</orth><lemma>e)piqumhth/s</lemma></entry>
+<entry><orth>e)rasth/s</orth><lemma>e)rasth/s</lemma></entry>
+<entry><orth>a)no/sios</orth><lemma>a)no/sios</lemma></entry>
+<entry><orth>blabero/s</orth><lemma>blabero/s</lemma></entry>
+<entry><orth>h(/meros</orth><lemma>h(/meros</lemma></entry>
+<entry>
+  <orth>a)/peimi</orth>
+  <lemma>a)/peimi1</lemma>
+  <lemma>a)/peimi2</lemma>
+</entry>
+<entry><orth>e)a/w</orth><lemma>e)a/w</lemma></entry>
+<entry><orth>ei)/seimi</orth><lemma>ei)/seimi</lemma></entry>
+<entry><orth>kta/omai</orth><lemma>kta/omai</lemma></entry>
+<entry><orth>peri/eimi</orth><lemma>peri/eimi2</lemma></entry>
+<entry><orth>prosagoreu/w</orth><lemma>prosagoreu/w</lemma></entry>
+<entry>
+  <orth>su/neimi</orth>
+  <lemma>su/neimi1</lemma>
+  <lemma>su/neimi2</lemma>
+</entry>
+<entry><orth>yhfi/zomai</orth><lemma>yhfi/zomai</lemma></entry>
+<entry><orth>o(/ph|</orth><lemma>o(/ph</lemma></entry>
+
+</section>
+<section n="Lesson 40">
+<entry><orth>qu/ra</orth><lemma>qu/ra</lemma></entry>
+<entry><orth>me/ros</orth><lemma>me/ros</lemma></entry>
+<entry><orth>fau=los</orth><lemma>fau=los</lemma></entry>
+<entry><orth>fro/nimos</orth><lemma>fro/nimos</lemma></entry>
+<entry><orth>a)qume/w</orth><lemma>a)qume/w</lemma></entry>
+<entry>
+  <orth>deo/mai</orth>
+</entry>
+<entry>
+  <orth>me/lei</orth>
+  <lemma>me/los</lemma>
+  <lemma>me/lw</lemma>
+</entry>
+<entry><orth>peri\</orth><lemma>peri/</lemma></entry>
+<entry><orth>ou)ke/ti</orth><lemma>ou)ke/ti</lemma></entry>
+<entry><orth>pa/nu</orth><lemma>pa/nu</lemma></entry>
+</section>
+</TextbookVocab>

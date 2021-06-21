@@ -1,0 +1,1260 @@
+#A New Approach to Latin: 1, Macnaughton and McDougall (1973)
+@Lesson 1
+ludus ludus
+mane
+salve	salvus
+discipuli	discipulus
+magister	magister
+in	in
+cathedra	cathedra
+sella	sella
+sedet	sedeo	
+surge	surgo
+Marce	Marcus#2
+coconside	co-consido
+recita	recito
+!post meridiem	post
+vale	valeo
+@Lesson 2
+est	sum#1
+puella	puella
+Romana	Romanus
+villa	villa	
+habitat	habito
+Italia	Italia
+puer	
+vir	vir
+via	via
+stat	sto
+femina	femina	
+hortus	hortus
+servus	servus#2
+dominus	dominus
+ager	ager
+laborat	laboro
+@Lesson 3
+ludit	ludo
+amica	amicus#1
+cum	cum
+cantat	canto
+?quod	qui#1	qui#2
+gaudet	gaudeo
+culina	culina
+venit	venio
+e	ex
+latrat	latro#1
+timet	timeo
+fugit	fugio
+currit	curro
+clamat	clamo
+audit	audio
+iterum	iterum
+sub	sub
+arbor	arbor#1
+umbra	umbra
+enim	enim
+grata	gratus
+garrit	garrio
+sol	sol
+calet	caleo
+mox	mox
+dormit	dormio
+unus	unus
+ignavus	ignavus
+duo	duo
+industrii	industrius
+a	a	ab
+foro	foro	forum	
+defessus	de_-fateor
+@Lesson 4
+pupa	pupa
+habet	habeo
+vocat	voco
+lignea	ligneus
+sed	sed
+maxime	magnus	
+amat	amo
+semper	semper
+fovet	foveo
+canis	canis#1	
+ater	ater#1
+bene	bene
+custodit	custodio
+nonnumquam	
+rapit	rapio
+celat	celo
+hodie	hodie
+lacrimat	lacrimo
+nusquam	nusquam
+videt	video
+domo	domus
+festinat	festino
+per	per
+quaerit	quaero
+tandem	tandem
+inveniunt	
+@Lesson 5
+pater	pater
+ducit	duco
+tardus	tardus
+mater	mater
+toga	toga
+sordida	
+irata	irascor
+interea	interea
+mus	mus
+parvus	parvus
+ad	ad
+discedunt	discedo
+primum	primus
+orator	orator
+de	de#2
+somniat	somnio
+laetus	laetus#1
+!vita rustica	vita	
+@Lesson 6
+!prima luce	prima	primus
+excitat	excito
+surgite!	
+surgunt	surgo
+surgit	surgo
+amicus	amicus#2
+cena	cena
+vocat	voco
+coquus	coquus
+deinde	deinde
+aqua	aqua
+ligna	lignum
+portant	porto
+flores	floreo
+curant	curo
+post	post
+ientaculum	jentaculum
+meridie	meridies
+prandium	prandium
+paulisper	paulisper
+castigat	castigo
+diligenter	diligenter
+bonus	bonus
+parat	paro#1	
+festinate	festino
+omnes	omnis
+ianua	janua
+stant	sto
+statua	statua
+spectant	specto
+parata	paro#1	
+@Lesson 7
+heri	heri
+nundinae	nundinus
+fuerunt	sum#1
+docuit	doceo
+studuit	studeo
+exercuit	exerceo
+intravit	intro#2
+delectavit	delecto	
+rediit	redeo
+!paulo post	paulum	paulus#1
+Campus	campus#1
+ibi	ibi
+se	sui
+trigon	trigon
+et	et
+postea	
+balnea	balneum
+foris	foris#2	
+exspectare	exspecto
+piscina	piscina
+natare	nato
+errare	erro#1
+taberna	taberna
+@Lesson 8
+lectus	lectus#2
+surrexit	surgo
+!o me miserum
+dixit	dico#2
+adhuc	adhuc
+tenebrae	tenebrae
+ecce	ecce
+novus	novus
+qualis	qualis
+miser	miser
+post	post
+alter	alter
+cerae	cera
+stilus	stilus
+decem	decem
+sedit	sedeo
+suspensus	suspendo
+respondit	respondeo
+fabula	fabula#1
+clarus	clarus
+vox	vox
+attente	attendo	
+numerare	numero#1
+praeter	praeter
+multa	multus
+rogare	rogo
+quot	quot
+nihil	nihil
+punivit	
+@Lesson 9
+scribere	scribo
+ante	ante
+stare	sto
+aut	aut
+vos	tu
+nos	nos
+senex	senex
+cur	cur
+otiosus	otiosus
+corpus	corpus
+ridere	rideo
+exclamare	exclamo
+templum	templum
+Rostra	rostrum
+stare	sto
+venire	venio
+videre	video
+sedere	sedeo
+facere	facio
+discedere	discedo
+esse	sum#1
+fugere	fugio
+@Lesson 10
+age	ago
+quo	quo
+ibo	eo#1
+tempestus	tempestus
+serenus	serenus#1
+urbs	urbs
+numquam	numquam
+videbo	video
+prope	prope
+mare	mare
+!navis oneraria	navis	navus
+aestas	aestas
+mercator	mercator
+importare	importo
+oleum	oleum
+fortasse	fortasse
+vinum	vinum
+metallum	metallum
+marmor	marmor
+!optima	dicis bonus	optimum
+spectaculum	spectaculum
+erit	sum#1
+discessurus	discedo
+@Lesson 11
+!minime	vero minime	minimus	parvus
+imperator	imperator
+praeclarus	praeclarus
+qui	qui#1	
+superare	supero
+triumphum	triumphus
+ita vero	ita	ito
+civis	civis
+feriatus	ferior
+ubique	ubique
+corona	corona
+magistratus	magistratus
+spolia	spolium
+bos	bos
+albus	albus
+captivus	captivus
+homo	homo
+saltare	
+vestis	vestis
+purpureus	purpureus
+geret	gero#1
+laureus	laureus
+caput	caput
+postremo	postremo
+miles	miles
+incedent	incedo
+!io triumphe	
+inde	inde
+ascendet	ascendo
+sacerdos	sacerdos#1
+mactare	macto
+templum	templum
+Iovis	Iuppiter
+Pompeius	Pompejus
+Bithynia	Bithynia
+Pontus	Pontus#2
+Syria	
+!Via Sacra	via	vio
+!Mons Capitolinus	mons
+@Lesson 12
+iam	jam
+calor	calor#1
+soror	soror
+!iter facere	iter	ito
+hic	hic
+lenior	lenio
+quantus	quantus
+laetitia	laetitia
+partes	pars
+oppidi	oppidum
+litus	litus#3
+piscis	piscis
+captare	capto
+unda	unda
+asperginem	aspergo#2
+feriae	feriae
+mirus	mirus
+simul	simul
+cottidie	cottidie
+dum	dum
+petere	peto
+mons	mons
+avunculus	avunculus
+amita	amita
+quattuor	quattuor
+consobrinus	consobrinus
+opulentus	opulentus
+!prospectus campi	prospectus#2	prospicio
+!canis venaticus	cani	canis#1	cano	canus
+alere	alo
+fera	ferus
+Baiae	Baiae	
+Baiarum	Baiae	
+Tiburtinus	Tiburtinus
+@Lesson 13
+quam	quam
+te	tu
+unde	unde
+mihi	ego
+faciebatis	facio
+immo	immeo
+saepe	saepe
+alii	alius#2
+nox	nox
+gratissimus	gratus
+mehercule	Hercules
+maneo	maneo
+diu	diu
+aestate	aestas
+!vita urbana	vita	vito
+molestus	molestus
+igitur	igitur
+meus	meus
+!per multos dies	
+nusquam	nusquam
+liber	liber#4	
+ferula	ferula
+Ides	Ide
+Octobres	October
+felix	felix#1	
+Roma	Roma
+Tibur	Tibur
+@Lesson 14
+respondeo	respondeo
+tamen	tamen
+do	do#1
+ducenti	ducenti	
+vilicus	vilicus
+mandata	mando#1
+flumen	flumen
+collis	collis
+silva	silva
+pluit	pluo
+satis	satis
+pila	pila#3	
+agricola	agricola#1
+eheu	eheu
+quaestor	quaestor
+praetor	praetor
+tum	tum
+consul	consul
+olim	olim
+ridens	rideo
+gratias agere
+monstro	monstro	
+navicula	navicula
+cupio
+scio
+omnia	omnia
+mitis	mitis
+narrare	narro
+numerus	numerus
+oppugnare	oppugno#1
+annus	annus
+obsideo	
+capio	capio#1
+ceteri	ceterus
+dux	dux
+equus	equus#1
+extra	extra
+murus	murus
+aedificare	aedifico
+ut	ut
+sperare	spero
+intra	intra	
+traho	traho
+!vi et armis	vis	vus
+facile	facilis
+descendo	descendo
+porta	porta
+aperio	aperio
+praeterea	praeterea
+callidus	callidus
+noster	noster
+@Lesson 15
+vesperi	vesperus
+apud	apud
+sodalis	sodalis
+ceno	ceno
+vestibulum	vestibulum
+pavimentum	pavimentum
+scriptum	scribo
+ianitor	janitor
+atrium	atrium
+accipio	accipio
+aedes	aedes
+tablinum	tablinum	
+legere	lego#2
+circum	circum	
+cubiculum	cubiculum
+uxor	uxor
+peristylium	peristylium
+undique	undique
+columna	columna
+marmoreus	marmoreus
+!in medio	in
+fons	fons
+triclinium	triclinium
+dixeris	dico#2
+nimium	nimius
+cibus	cibus
+circa	circo
+noctem	nox
+lecticarius	lecticarius
+attentus
+etiam
+nunc	nunc
+bellum	bellum	
+incendo	incendo
+conicio	conicio
+tristis	tristis
+ubi	ubi
+insula	insula#1
+longe	longus
+abesse	absum
+signum	signum
+patria	patrius#1
+castra	castra	
+ingens	ingens
+arx	arx
+colloco	colloco
+pastor	pastor
+rex	rex
+iuvenis	juvenis
+invenio	invenio
+responsum	responsus#2
+perfidiosissimus	perfidiosus
+Graeci	Graeci	
+Tenedus	Tenedus
+Troiani
+Troianus	Trojanus
+Priamus	Priamus
+Sinon	Sinon#2
+@Lesson 16
+educo	educo#2
+mos	mos
+conformo	conformo
+secum	sui
+equito	equito
+audax	audax
+robustus	robustus
+septem	septem
+tempus	tempus
+nescio	nescio	
+inquit	inquam
+paedagogus	paedagogus
+disco	disco	
+capsarius	capsarius
+verbero	verbero#1
+severus	severus#1
+doctus	doceo
+iustus	justus
+circa	circo
+rursus	rursus
+vesper	
+prope
+duodecim
+litterator	litterator
+satis	satis
+mecum	ego
+grammaticus	grammaticus#1
+humanus	humanus
+litterae	littera
+Latinus	Latinus	
+Graecus	Graecus
+lego	lego#2
+opus	opus#1
+poeta	poeta
+!opera poetarum	opera	opero	opus#1
+scriptor	scriptor
+antiquus	antiquus
+comoedia	comoedia
+vel	vel
+rideo	rideo
+mitto	mitto
+euge!	
+quidam
+civis
+consilium capere	consilium
+modo	modo
+trado	trado
+pro	pro#1
+vae tibi	vae	vus
+contra	contra
+gero	gero#1
+virtus	virtus
+perfidia	perfidia
+praemium	praemium
+meritus	mereor
+nudus	nudus
+iter	iter	
+iustitia	justitia
+attonitus	attono
+pax	pax
+M. Furius Camillus	Camillus#2	camillus#1
+Falerii	Falerii
+Falisci	Falisci
+@Lesson 17
+veneunt	
+sermo	sermo
+inter se	inter
+iucundus	jucundus
+clamor	clamor
+praeco	praeco
+tuus	tuus
+empturus	emo	
+fideles	fidelis
+nuper	nuper
+libero	libero
+nimis	nimis
+carus	carus#1
+aeger	aeger
+vendo	vendo
+pugno	pugno	
+agricultura	agricultura
+aptus	aptus
+humaniores	humanus
+epistula	epistula
+rationes	ratio
+subducere	subduco
+titulus	titulus
+superbus	superbus
+atrox	atrox
+civitas	civitas
+coniuro	conjuro
+balneum	balneum
+occido	occido#1
+acres	acer#2	
+Syrus	Syrus	
+Lydus	Lydus
+Phryx	
+Britannia	Britannia
+Britannus	Britannus
+Spartacus	Spartacus
+dux
+neque
+potuerunt	possum
+possumus	possum
+quomodo	quomodo
+tutus	tueor
+poterimus	possum
+sanguis	sanguis
+placo	placo
+deus	deus
+perturbatus	perturbo
+terra	terra
+me	ego
+captivus	captivus
+sacer	sacer
+dea	dea
+deleo	deleo
+ira	ira
+tracto	tracto
+honor	honor
+auxilium	auxilium
+!quid multa	quis#1	quis#2
+custos	custos
+celeriter	
+exitium	exitium
+Apollo	Apollo
+Calchas	Calchas
+Pallas	Pallas#2
+@Lesson 18
+longus	longus
+libenter	libenter
+!magna spe	magnus	magnus#1
+res	res
+vexo	vexo
+caupona	caupona
+pessimus	malus
+panis	panis
+lapidosus	lapidosus
+clamor	clamor
+culex	culex#1
+malus	malus#1	
+somnus	somnus
+averto	averto
+tertio die	tertio#2	tertius
+hospes	hospes
+!ora manusque lavare	aurum	ora#1	oro	os#1
+pernocto	pernocto
+sermo	sermo
+iocus	jocus
+produco	produco
+!in conspectu	conspectus#2	conspicio#1
+imber	imber
+impedio	impedio
+finis	finis
+charta	charta
+Brundisium	Brundisium
+Tarracina	Tarracina
+Sinuessa	Sinuessa
+Caudium	Caudium
+Beneventum	Beneventum
+Rubi	Rubi
+Apulia	Appulia
+@Lesson 19
+retiarius	retiarius
+secutor	secutor
+irretio	irretio
+tuba
+gladiator
+animus	animus
+certamen	certamen
+par	par
+alter	alter	
+prior	prior
+impetus	impetus
+rete	rete
+iacto	jacto
+sudarium	sudarium
+agito	agito	
+servo	servo	
+alter	alter
+digitus	digitus#1
+tollo	tollo
+missio	missio
+oro	oro
+!pollic verso	
+vox
+condemno	condemno
+heus
+Circus
+otiosus	otiosus
+quo	quo
+convenio	convenio
+cum
+bigae	biga
+factio	factio
+suus	suus
+quisque	quisque
+subito	subeo
+auriga	auriga
+carceres	carcer	
+provolo	provolo
+antecedo	antecedo
+meta	meta
+appropinquo	appropinquo
+vito	vito
+everto	everto
+solus	solus#1
+certo	certo#2	
+spatium	spatium
+septimus	septimus
+incito	incito	
+euge	euge
+@Lesson 20
+totus	totus#1	
+immemor	immemor
+verbum	verbum
+valeo	valeo
+quot	quot
+legio	legio
+neque	neque
+surgo	surgo
+grandis	grandis
+adsto	asto
+galea	galea
+pes	pes
+caligae	caliga
+Caesar	Caesar
+lorica	lorica	
+pectus	pectus
+tegebatur	tego
+dexter	dexter
+pilum	pilum
+teneo	teneo
+sinister	sinister
+bracchium	bracchium
+scutum	scutum
+gladius	gladius
+latus	latus#2	
+balteus	balteus
+suspendo	suspendo
+delibero	delibero
+barbarus
+centurio
+decimus	decimus#1
+pax	pax
+numerus	numerus
+defendo	defendo
+fortiter	fortis
+nostri	noster
+@Lesson 21
+vicus	vicus
+improbus	improbus
+nuntio	nuntio	
+caelum	caelum#2	
+gelidus	gelidus
+pulso	pulso
+eis	is
+ficus	
+quod	qui#1	
+evenio	evenio
+poculum	poculum
+bibo	bibo#1
+exhaurio	exhaurio
+attonitus	attono
+!di immortales	immortales	immortalis
+improbitas	improbitas	
+vicinus	vicinus
+probitas	probitas	
+vester	vester
+peribunt	pereo
+proximus	proximus
+summus	superus
+conspectus	conspectus#2	
+lacus	lacus
+propter	propter
+maritus	maritus#1
+opto	opto
+liceat	liceo#1	
+simul	simul
+Olympus	Olympus#1
+Philemon	
+Baucis	Baucis
+Iuppiter	Iuppiter
+Mercurius	Mercurius
+altus
+cingo
+cresco	cresco
+longius	longus
+inferi	inferus
+abripio	abripio
+adiuvo	adjuvo
+frustra	frustra	
+veho	veho
+nemo	nemo
+terra	terra
+sceptrum	sceptrum
+percutio	percutio
+hiare	hio
+zona	zona
+desisto	desisto
+labor	labor#2
+regina	regina
+reddo	reddo
+possum	possum
+compono	compono
+quotannis	
+sex	sex
+mensis	mensis	
+Sicilia	Sicilia
+Aetna	Aetna	
+Proserpina	Proserpina
+Pluto	Pluto	
+Ceres	Ceres
+Arethusa	Arethusa
+Asia	Asia#1	
+@Lesson 22
+crudelitas	crudelitas
+expulsus	expello
+!creati sunt creatus	creo
+iustitia	justitia
+populus	populus#1
+hostis	hostis	
+periculum	periculum
+scelestus	scelestus
+!captum est	capio	capio#1	captus	captus#2
+gravitas	gravitas
+pietas	pietas#1
+licentia	licentia	
+superbia	superbia
+desidero	desidero
+revoco	revoco
+eo	eo#2	
+nullus	nullus
+mora	mora#1	
+vincula	vinculo
+oculus	oculus
+mors	mors
+ducti	duco
+dolor	dolor
+!superatus est	supero
+vinco	vinco
+amor	amor
+iussu	jussus#2
+lictor	lictor
+virgis caesi	virga
+securi	percussi securis	securus
+fides	fides#1	
+fortitudo	fortitudo
+@Lesson 23
+altus	altus#1
+altior	altus#1
+altissimus	altus#1
+harundo	harundo
+longus	longus
+longior	longus
+longissimus	longus
+celer	celer#1	
+celerior	celer#1
+celerrimus	celer#1
+acer	acer#2
+acrior	acer#2
+acerrimus	acer#2
+facilis	facilis
+facilior	facilis
+facillimus	facilis
+equitare	equito
+raeda	raeda
+hilaris
+quam
+Scaevola	Scaevola
+appellare	appello#2
+fortis	fortis
+mens	mens
+alius	alius#2
+suscipio	suscipio
+territus	terreo
+abeo	abeo
+pertinax
+Tiberis
+transeo	transeo
+stipendium	stipendium
+scriba	scriba
+putare	puto
+ignis	ignis
+ille	ille
+superatus	supero
+sacrificium	sacrificium
+dextra	dextera#1
+inicio	inicio
+exercitus	exercitus#2
+dissimilis	dissimilis
+@Lesson 24
+merito	mereo	
+umquam	umquam
+praebere	praebeo
+scelus	scelus
+plurimi	multus	
+maximus	magnus#1
+peto	peto
+infestus	infestus
+terror	terror
+brevi	brevis
+ripa	ripa
+pons	
+potestas	potestas
+trans	trans
+aditus	aditus#2
+sustineo	sustineo
+curro	curro
+sui	sui	
+occisus	occido#1
+vulneratus	vulnero
+recepit	recipio
+proelium	
+fragor	fragor
+arma	arma	
+desilio	
+incolumis	incolumis
+pervenio	pervenio
+!Lars Porsinna	
+!Pons Sublicius	
+!Pater Tiberinus	pater
+!Horatius Cocles	Horatius	Horatius#1	Horatius#2
+!Titus Herminius	Titus
+!Spurius Larcius	spurius#1
+sero
+tonsor
+!sine dubio	sine	sino	sinum
+taceo	taceo
+quindecim	
+ducturus	duco
+amabilis	amabilis
+consulatum	consulatus
+petere	peto
+durus	durus
+annona	annona
+barba	barba#1
+rado	rado
+tum	tum
+dedicare	dedico
+memento	
+proverbium	proverbium
+numquam	numquam
+nimis	nimis
+!Mons Aventinus	mons
+Venus	Venus#1	
+@Lesson 25
+plura	multus
+prudentia	prudentia
+curia	curia
+!res publica	publica	publico	publicum	publicus
+gravis	gravis
+patres	pater	
+decerno	decerno
+ago	ago
+licet	licet
+saepius	saepis
+lepidus	lepidus#1
+excogitare	excogito
+utrum	utrum
+debeo	debeo
+gravis	gravis
+ecastor	ecastor
+iniustus	injustus
+Cincinnatus	Cincinnatus#2	
+Coriolanus	Coriolanus
+postridie
+convocare
+proicio	proicio
+tam	tam
+potius	potis
+delirare	deliro
+procedo	procedo
+prudens	prudens
+aeque	aequus
+posthac	posthac
+cognomen	cognomen
+!toga praetexta	praetexo	praetexta	praetextum
+@Lesson 26
+quamquam	quamquam	
+non	non
+honestas	honestas	
+vulnus	vulnus
+adversus	adversus	
+talis	talis	
+!orbis terrarum	orba	orbis	orbus
+amicitia	amicitia
+legatus	legatus	
+pauper	pauper
+aurum	aurum
+quartus	quartus
+regnum	regnum
+post	post
+velum	velum
+tabernaculum	tabernaculum
+!signo dato	signo	signum
+detraho	detraho
+supra	supra
+horribilis	horribilis
+sonitus	sonitus	
+edo	edo#2	
+antea	antea
+risus	risus
+belua	belua	
+medicus	medicus#1
+beneficium	beneficium
+venenum	venenum
+necare	neco
+remitto	remitto
+difficilis	difficilis
+cursus	cursus
+Pyrrhus	Pyrrhus
+Cineas	Cineas
+Fabricius	Fabricius
+amicus
+avidus
+esurio	esurio#2
+retineo	retineo
+summus	superus
+celeritas	celeritas
+fullo	fullo
+cessare	cesso
+purgare	purgo
+ut	ut
+dolium	dolium
+inicio	inicio
+occulcare	occulco
+nitrum	nitrum
+quasi	quasi
+reddere	reddo
+siccare	sicco
+sulfur	sulfur
+odor	odor
+recipio	recipio
+@Lesson 27
+clades	clades
+dictatorem	dictator
+autem	autem
+acies	acies
+confligo	confligo
+magister	magister
+tantus	tantus
+ignavia	ignavia
+tolerare	tolero	
+itaque	ita
+divido	divido
+temeritas	temeritas
+fraus	fraus
+decipio	decipio
+insidiae	insidiae
+!a tergo	ab
+caedes	caedes
+provideo	provideo
+fugare	fugo
+victoria	victoria
+incertus	incertus
+reducere	reduco
+errare	erro#1
+imperare	impero
+depono	depono
+signa	signum
+pario	pario#2	
+sapientia	sapientia	
+benignitas	benignitas
+Q. Fabius Maximus	
+Hannibal	Hannibal
+M. Minucius	
+!quid agis
+videor
+latus	latus#1	
+recte	rego
+neglego	neglego
+surdus	surdus
+stultus	stultus
+vicus	vicus
+sane	sanus
+ridiculus	ridiculus
+apertus	aperio	
+clam	clam
+volui	volo#1	
+palam	palam	
+divulgare	divulgo
+impudens	impudens
+garrulus	garrulus
+odi	odi	
+miserior	miser
+inspicio	inspicio
+cum	cum
+error	error
+excido	excido#1
+@Lesson 28
+postquam	postquam
+!novae copiae	novus
+nolo	nolo
+malo	malo	
+transeo	transeo
+transiturus	transeo
+viginti	
+natus	natus#3	
+redigo	redigo
+potestatem	potestas
+volo	volo#1	
+nonnulli	nonnullus
+plures	multus
+moneo	moneo
+moenia	moenia#1	
+censeo	censeo#1
+verto	verto
+vultis	volo#1
+reportare	reporto
+perterritus	perterreo
+Carthago	Carthago#1
+Carthaginienses	Carthaginiensis
+Poeni	Poeni	
+Publius Scipio Africanus	Publius
+humanitas
+minus
+insignis	insignis
+humanus	humanus
+Punicus	Punicus
+iudicium	judicium
+secundus	secundus#1
+si	si
+superavisses	supero
+aestimavissem	aestimo
+Ephesus	Ephesus
+Alexander	Alexander
+macellum
+conspicio
+indicans	indico#1
+quaeso	quaeso
+natura	natura
+lente	lentus
+advena	advena
+insuetus	insuetus#2
+discursus	discursus#2
+lanius	lanius
+emo	emo
+domina	domina
+iubeo	jubeo
+pullus	pullus#1	
+perna	perna
+vitulina	vitulinus
+caro	caro#2	
+tomaculum	
+diripio	diripio
+effugio	effugio	
+admoneo	admoneo
+supersum	supersum
+aliquis	aliquis
+alibi	alibi
+@Lesson 29
+omnis
+officium
+diligens	diligens	
+inopia	inopia
+frumentum	frumentum
+provincia	provincia
+liberalis	liberalis#1
+vexo	vexo
+secum	sui
+reputabat	reputo
+Romae	Roma
+certe	certus
+nisi	nisi
+quaestura	
+forte	fors	fortis
+Puteolis	Puteolis
+clarus	clarus
+aquae	aqua
+agnosco	agnosco
+!quid novi	quis#1	quis#2
+ignoro	ignoro
+Cicero	Cicero
+Lilybaeum	Lilybaeum	
+Siculi	Siculi	
+Syracusae	Syracusae
+facile
+desiderium
+tui	tu	
+fero	fero	
+peccavi	pecco
+aeger	aeger
+relinquo	relinquo
+prudenter	prudens	
+validus	validus
+postquam	postquam
+potissimum	potis
+valens	valeo
+civitas	civitas
+trado	trado
+acerbus	acerbus
+litterae	littera
+conatus	conatus	
+comprimo	comprimo
+discordia	discordia	
+sano	sano	
+uterque	uter#3
+etiam	etiam
+atque	atque
+Tiro	Tiro#2	
+Mario	Mario	
+@Lesson 30
+ferox	ferox
+erga	erga
+victi	vinco
+clemens	clemens#1
+!se praebuisse	sui
+incolumis	incolumis
+dimitto	dimitto
+servitus	servitus
+!habituri esse	habeo	habiturio
+tracto	tracto	
+clementer	clemens#1
+!futurus esse	futurus	sum#1
+fuisse	sum#1
+munio	munio
+pondus	pondus
+invenisse	invenio
+dives	dives
+locus	locus
+sepelio	sepelio
+idem	idem
+fodio	fodio
+abicio	abicio
+ambulavisse	ambulo
+labor	labor#2
+risisse	rideo
+venia	venia
+dedisse	do#1
+portus
+sinus
+audacia	audacia
+praedo	praedo#2
+!desertae esse	desero#2	deserta	desertus
+metus	metus
+relictae	relinquo
+mercator	mercator
+hiems	hiems
+classis	classis
+absum	absum
+adsum	adsum
+inspectare	inspecto
+ignominia	ignominia
+praesidium	praesidium
+confirmare	confirmo
+quinquaginta	quinquaginta
+latebrae	latebra
+imperium	imperium
+adiungo	adjungo
+dedo	dedo
+!extrema hieme extremum	extremus
+ineunte	ineo
+Caieta	Caieta
+Sardinia	Sardinia
+Cilicia	Cilicia	
+@Lesson 31
+haud	haud
+procul	procul
+quadraginta	quadraginta
+promitto	promitto
+talentum	talentum
+num	num	
+!multo pluris	multo#2	multus
+pecunia	pecunia
+causa	causa
+detineo	detineo
+!simul ac	simul
+solvo	solvo
+contendo	contendo
+deduco	deduco
+recipio	recipio
+crux	crux
+sustulit	tollo
+tollo	tollo
+iocose	jocosus
+traducere
+civilis
+moveo	moveo
+!bellum movere	bellum	bellus
+confugere	confugio
+adire	adeo#1
+opprimo	opprimo
+quantus	quantus
+calamitas	
+dubitare	dubito
+iste	iste
+novem	novo
+absens	absum
+fortuna	fortuna
+gens	gens
+harundo	harundo
+tuba	tuba
+arripio	arripio
+spiritus	spiritus
+!aequo animo	animo	animus
+!iacta est alea	jacio	jacto
+Rubico	Rubico

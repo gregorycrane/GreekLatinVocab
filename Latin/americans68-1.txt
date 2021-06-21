@@ -1,0 +1,577 @@
+#Latin for Americans Book 1 (1968)
+@Unit 1 Lesson 1
+aqua	aqua
+est	sum#1
+et	et
+insula	insula#1
+non	non
+sed	sed
+silva	silva
+sunt	sum#1
+via	via	
+@Unit 1 Lesson 2
+amant	amo
+bona	bonus
+fama	fama
+familia	familia
+fortuna	fortuna	
+magna	magnus#1
+parva	parvus
+portant	porto
+puella	puella
+terra	terra
+vita	vita
+@Unit 1 Lesson 3
+agricola	agricola#1
+amo	amo
+dura	dura	
+laboro	laboro
+longa	longus
+multa	multus
+nova	novus
+paro	paro#1	
+porto	porto
+specto	specto
+@Unit 1 Lesson 4
+carrus	carrus
+equus	equus#1
+erat	sum#1
+erant	sum#1
+laudo	laudo
+malus	malus#1	
+nunc	nunc
+quod	qui#1	
+servus	servus#2
+ubi	ubi
+@Unit 2 Lesson 5
+cibus	cibus
+clarus	clarus
+copia	copia#1	
+cura	cura	
+forma	forma	
+numerus	numerus
+planus	planus#1
+regina	regina
+@Unit 2 Lesson 6
+ad	ad
+nauta	nauta
+navigo	navigo
+pecunia	pecunia
+tum	tum
+unda	unda	
+@Unit 2 Lesson 7
+amicus	amicus#2
+dono	dono
+gratus	gratus
+littera	littera
+mando	mando#1	
+monstro	monstro	
+nuntio	nuntio	
+praeda	praeda
+probo	probo	
+@Unit 2 Lesson 8
+incito	incito	
+iniuria	iniuria
+memoria	memoria
+occupo	occupo
+poena	poena
+provincia	provincia
+pugna	pugna	
+pugno	pugno	
+servo	servo	
+victoria	victoria
+@Unit 2 Lesson 9
+filia	filia
+hora	hora#1
+meus	meus
+quintus	quintus#1
+tuus	tuus
+@Unit 3 Lesson 10
+augeo	augeo
+disciplina	disciplina
+doceo	doceo
+habeo	habeo
+lingua	lingua
+patria	patrius#1
+semper	semper
+terreo	terreo
+@Unit 3 Lesson 11
+amicitia	amicitia
+gloria	gloria	glorior
+gratia	gratia
+ibi	ibi
+in	in
+maneo	maneo
+materia	materia	
+video	video
+@Unit 3 Lesson 12
+altus	altus#1	
+casa	casa
+libero	libero
+mereo	mereo	
+socius	socius
+teneo	teneo
+@Unit 3 Lesson 13
+ab	ab
+captivus	captivus
+cena	cena
+de	de#2
+ex	ex
+moveo	moveo
+singuli	singulus
+voco	voco
+@Unit 3 Lesson 14
+ager	ager
+amicus	amicus#1
+filius	filius
+liber	liber#2	
+magister	magister
+noster	noster
+puer	puer
+sacer	sacer
+vir	vir
+@Unit 3 Lesson 15
+animus	animus
+colonus	colonus
+habito	habito
+in	in
+migro	migro
+sum	sum#1
+@Unit 3 Lesson 16
+annus	annus
+barbarus	barbarus
+castra	castrum
+consilium	consilium
+evoco	evoco
+frumentum	frumentum
+praemium	praemium
+signum	signum
+@Unit 4 Lesson 17
+arma	arma	
+auxilium	auxilium
+bellum	bellum	
+concordia	concordia#1
+debeo	debeo
+maturo	maturo	
+nuntius	nuntius
+@Unit 4 Lesson 18
+aequus	aequus
+causa	causa
+dominus	dominus
+latus	latus#1	
+oppidum	oppidum
+populus	populus#1	
+publicus	publicus
+verus	verus
+vester	vester
+@Unit 4 Lesson 19
+ago	ago
+cedo	cedo#1
+accedo	accedo
+excedo	excedo
+defendo	defendo
+expecto	ex-pecto
+mitto	mitto
+officium	officium
+pono	pono
+@Unit 4 Lesson 20
+capio	capio#1	
+accipio	accipio
+facio	facio
+munio	munio
+pulcher	pulcher#1
+rego	rego
+templum	templum
+venio	venio
+invenio	invenio
+@Unit 4 Lesson 21
+duco	duco
+efficio	efficio
+locus	locus
+pretium	pretium
+terminus	terminus
+@Unit 5 Lesson 22
+commodus	commodus#1
+deus	deus
+fugio	fugio
+ita	ita
+otium	otium
+studium	studium
+valeo	valeo
+varius	varius#2
+@Unit 5 Lesson 23
+afficio	afficio
+cum	cum
+firmus	firmus
+gero	gero#1	
+incipio	incipio
+perpetuus	perpetuus
+@Unit 5 Lesson 24
+audio	audio
+contineo	contineo
+liber	liber#4	
+tardus	tardus
+traho	traho
+verbum	verbum
+@Unit 5 Lesson 25
+convenio	convenio
+convoco	convoco
+medius	medius
+reduco	reduco
+sententia	sententia
+@Unit 5 Lesson 26
+lego	lego#2
+numquam	numquam
+poeta	poeta	
+ -que	
+reliquus	reliquus
+scribo	scribo
+@Unit 5 Lesson 27	
+committo	committo
+finitimus	adj	finitimus
+finitimus	n	finitimus
+pauci	paucus
+proelium	proelium
+propero	propero	
+@Unit 5 Lesson 28
+appello	appello#1
+aut	aut
+neque	neque
+praesidium	praesidium
+@Unit 6 Lesson 29
+amitto	amitto
+miser	miser
+periculum	periculum
+pro	pro#1	
+@Unit 6 Lesson 30
+absum	absum
+inimicus	inimicus
+nosco	nosco
+procedo	procedo
+produco	produco
+retineo	retineo
+sine	sine	
+@Unit 6 Lesson 31
+cupio	cupio
+dimitto	dimitto
+dubito	dubito
+ego	ego
+integer	integer
+is	is
+tu	tu
+@Unit 6 Lesson 32
+discedo	discedo
+etiam	etiam
+iubeo	jubeo
+porta	porta
+recipio	recipio
+redigo	redigo
+removeo	removeo
+@Unit 6 Lesson 33
+beneficium	beneficium
+egregius	egregius
+exemplum	exemplum
+per	per
+propono	propono
+sub	sub
+suscipio	suscipio
+@Unit 6 Lesson 34
+adsum	adsum
+educo	educo#1
+interficio	interficio
+liberi	liberi	
+permitto	permitto
+primus	primus
+remaneo	remaneo
+@Unit 7 Lesson 35
+diligentia	diligentia
+do	do#1
+inter	inter
+ludus	ludus
+ob	ob
+submitto	summitto
+@Unit 7 Lesson 36
+cur	cur
+natura	natura
+peto	peto
+qui	qui#1
+sustineo	sustineo
+@Unit 7 Lesson 37
+conservo	conservo
+intermitto	intermitto
+obtineo	obtineo
+permoveo	permoveo
+@Unit 7 Lesson 38
+atque	atque
+cogo	cogo
+modus	modus
+moneo	moneo
+nam	nam
+quis	quis#1	
+@Unit 7 Lesson 39
+ante	ante
+cognosco	cognosco
+iam	jam
+plico	plico
+trans	trans
+@Unit 8 Lesson 40
+clamo	clamo
+dux	dux
+homo	homo
+lex	lex
+miles	miles	
+pax	pax
+premo	premo
+salus	salus
+@Unit 8 Lesson 41
+antecedo	antecedo
+fortasse	fortasse
+relinquo	relinquo
+sto	sto
+traduco	traduco
+transporto	transporto
+@Unit 8 Lesson 42
+cerno	cerno
+certus	certus
+commoveo	commoveo
+factum	facio	
+notus	nosco
+paratus	paro#1	
+possum	possum
+rogo	rogo	
+tertius	tertius
+@Unit 8 Lesson 43
+adduco	adduco
+consulo	consulo
+fuga	fuga	
+provideo	provideo
+spatium	spatium
+timidus	timidus
+ultimus	ulter
+@Unit 8 Lesson 44
+ligo	ligo#1	
+pes	pes
+expedio	expedio
+impedimentum	impedimentum
+impedio	impedio
+rex	rex
+regnum	regnum
+verto	verto
+@Unit 9 Lesson 45
+caput	caput
+claudo	claudo#1
+corpus	corpus
+flumen	flumen
+nomen	nomen
+ordo	ordo
+tempus	tempus
+vulnus	vulnus
+@Unit 9 Lesson 46
+civis	civis
+conficio	conficio
+finis	finis
+hostis	hostis	
+iter	iter
+mare	mare
+mons	mons
+navis	navis
+@Unit 9 Lesson 47
+facilis	facilis
+fortis	fortis
+ius	jus
+libertas	libertas	
+omnis	omnis
+par	par
+tamen	tamen
+tendo	tendo
+@Unit 9 Lesson 48
+auctor	auctor
+civitas	civitas
+pater	pater
+pello	pello
+post	post
+postea	postea
+@Unit 9 Lesson 49
+auctoritas	auctoritas
+celer	celer#1	
+celeritas	celeritas
+confirmo	confirmo
+familiaris	familiaris
+respondeo	respondeo
+supero	supero	
+virtus	virtus
+@Unit 10 Lesson 50
+curro	curro
+expello	expello
+hic	hic
+ille	ille
+mater	mater
+praeceps	praeceps
+@Unit 10 Lesson 51
+aetas	aetas
+cor	cor	
+hiems	hiems
+mors	mors
+nihil	nihil
+timeo	timeo
+@Unit 10 Lesson 52
+communis	communis
+dum	dum
+incertus	incertus
+is	is
+pars	pars
+remitto	remitto
+spero	spero
+spiro	spiro
+@Unit 10 Lesson 53
+expugno	expugno
+genus	genus#2
+idem	idem
+intercipio	intercipio
+nobilis	nobilis
+supplicium	supplicium
+tango	tango
+@Unit 10 Lesson 54
+colo	colo#1
+frango	frango
+frater	frater
+ipse	ipse
+potestas	potestas
+sedeo	sedeo
+soror	soror
+@Unit 10 Lesson 55
+alius	alius#2
+alter	alter
+neuter	neuter
+nullus	nullus
+solus	solus#1
+totus	totus#1	
+ullus	ullus
+unus	unus
+@Unit 11 Lesson 56
+alienus	alienus
+contendo	contendo
+gravis	gravis
+opprimo	opprimo
+vox	vox
+@Unit 11 Lesson 57
+consisto	consisto
+dico	dico#2
+iacio	jacio
+levis	levis#1	
+mensis	mensis	
+ostendo	ostendo
+prohibeo	prohibeo
+vis	vis
+@Unit 11 Lesson 58
+iustus	justus
+labor	labor#2
+munus	munus
+puto	puto	
+scio	scio	
+secundus	secundus#1
+si	si
+solvo	solvo
+@Unit 11 Lesson 59
+acer	acer#2
+haereo	haereo
+insto	insto
+pervenio	pervenio
+sentio	sentio
+urbs	urbs
+@Unit 12 Lesson 60
+aetas	aetas
+condicio	condicio
+quam	quam
+rapio	rapio
+statuo	statuo
+utilis	utilis
+vinco	vinco
+@Unit 12 Lesson 61
+aptus	aptus
+gens	gens
+humilis	humilis
+instruo	instruo
+iudico	judico
+nemo	nemo
+oratio	oratio
+regio	regio	
+repello	repello
+vivo	vivo
+@Unit 12 Lesson 62
+cado	cado
+accido	accido#2
+difficilis	difficilis
+explico	explico
+facile	facilis
+iungo	jungo
+proprius	proprius
+similis	similis
+dissimilis	dissimilis
+@Unit 12 Lesson 63
+bene	bene	
+extremus	extremus
+inferior	inferus
+proximus	proximus
+summus	superus
+ulterior	
+@Unit 12 Lesson 64
+conspicio	conspicio#1
+contra	contra
+credo	credo
+fallo	fallo
+legatus	lego#1
+sui	sui	
+sumo	sumo
+suus	suus
+tribuo	tribuo
+@Unit 12 Lesson 65
+centum	centum
+emo	emo
+imperium	imperium
+incolo	incolo#1
+mille	mille
+opus	opus#1
+perficio	perficio
+trado	trado
+@Unit 13 Lesson 66
+autem	autem
+circum	circum	
+exerceo	exerceo
+intellego	intellego
+negotium	negotium
+postquam	postquam
+prae	prae
+praemitto	praemitto
+super	super#2	
+supersum	supersum
+@Unit 13 Lesson 67
+casus	casus#2
+demonstro	demonstro
+desero	desero#2
+despicio	despicio
+domus	domus
+exercitus	exercitus#3
+impetus	impetus
+manus	manus#1
+reddo	reddo
+senatus	senatus
+@Unit 13 Lesson 68
+dies	dies
+intercludo	intercludo
+lux	lux
+noceo	noceo
+praeficio	praeficio
+praesum	praesum
+princeps	princeps
+res	res
+species	species	
+spes	spes
+@Unit 13 Lesson 69
+apud	apud
+ascendo	ascendo
+divido	divido	
+exploro	exploro
+frons	frons#2
+impero	impero
+ratio	ratio

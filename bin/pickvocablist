@@ -1,0 +1,48 @@
+#!/usr/bin/perl
+
+use Perseus;
+use VocabList;
+
+use CGI;
+my $cgi = new CGI;
+
+my $doc = $cgi->param("doc");
+my $start_query = $cgi->param("query");
+
+my $vocab_list = new VocabList;
+my %lists = $vocab_list->get_list_names();
+
+print $cgi->header(-type=>"text/html; charset=$encoding");
+
+print "<html>\n";
+print "<head>\n";
+print "<title>Choose Vocabulary Lists</title>\n";
+print "<style>";
+print <<EOF;
+body,td {
+  font-family: verdana, arial, helvetica;
+  font-size: 12px;
+}
+EOF
+print "</style>\n</head>\n";
+print "<body>\n";
+
+print "<form action=\"passagevocab\">\n";
+print "<input type=submit value=\"Select List\">\n";
+print "<input type=hidden value=\"$doc\" name=doc>\n";
+print "<input type=hidden value=\"$start_query\" name=query>\n";
+
+
+print "<table>";
+
+foreach my $list (keys %lists) {
+    print "<tr>";
+    print "<td><input type=checkbox name=\"vocab\" value=\"$list\"";
+    print "></td><td>";
+    print $lists{$list};
+    print "</td>";
+    print "</tr>\n";
+}
+
+
+print "</table></body></html>";
